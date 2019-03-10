@@ -1,0 +1,1 @@
+ffmpeg -i %1 -metadata location="" -metadata location-eng="" -acodec copy -vcodec copy %2
