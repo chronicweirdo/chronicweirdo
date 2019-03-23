@@ -5,8 +5,22 @@
     <link href="https://chronicweirdo.com/atom.xml" rel="self" />
     <link href="https://chronicweirdo.com" />
     <id>chronicweirdo.com</id>
-    <updated>2019-03-09T19:25:00+0200</updated>
+    <updated>2019-03-23T15:25:00+0200</updated>
 
+    <entry>
+        <title>20190322</title>
+        <id>20190322</id>
+        <link href="https://chronicweirdo.com/2019/20190322.jpg" />
+        <updated>2019-03-23T15:25:00+0200</updated>
+        <content type="xhtml">
+            <a href="https://chronicweirdo.com/2019/20190322.jpg">
+                <img height="100" src="https://chronicweirdo.com/2019/20190322.thumb.jpg"/>
+            </a>
+        </content>
+        <author>
+            <name>chronicweirdo</name>
+        </author>
+    </entry>
     <entry>
         <title>20190305</title>
         <id>20190305</id>
@@ -212,20 +226,6 @@
         <content type="xhtml">
             <a href="https://chronicweirdo.com/2018/2018.09.10.14.51.jpg">
                 <img height="200" src="https://chronicweirdo.com/2018/2018.09.10.14.51.jpg"/>
-            </a>
-        </content>
-        <author>
-            <name>chronicweirdo</name>
-        </author>
-    </entry>
-    <entry>
-        <title>2018.09.10.16.44</title>
-        <link href="https://chronicweirdo.com/2018/2018.09.10.16.44.jpg" />
-        <id>2018.09.10.16.44</id>
-        <updated>2018-09-16T09:41:08.274Z</updated>
-        <content type="xhtml">
-            <a href="https://chronicweirdo.com/2018/2018.09.10.16.44.jpg">
-                <img height="200" src="https://chronicweirdo.com/2018/2018.09.10.16.44.jpg"/>
             </a>
         </content>
         <author>
