@@ -5,8 +5,64 @@
     <link href="https://chronicweirdo.com/atom.xml" rel="self" />
     <link href="https://chronicweirdo.com" />
     <id>chronicweirdo.com</id>
-    <updated>2019-03-23T15:25:00+0200</updated>
+    <updated>2019-04-18T21:30:00+0200</updated>
 
+    <entry>
+        <title>20190410</title>
+        <id>20190410</id>
+        <link href="https://chronicweirdo.com/2019/20190410.jpg" />
+        <updated>2019-04-18T21:30:00+0200</updated>
+        <content type="xhtml">
+            <a href="https://chronicweirdo.com/2019/20190410.jpg">
+                <img height="100" src="https://chronicweirdo.com/2019/20190410.thumb.jpg"/>
+            </a>
+        </content>
+        <author>
+            <name>chronicweirdo</name>
+        </author>
+    </entry>
+    <entry>
+        <title>20190408</title>
+        <id>20190408</id>
+        <link href="https://chronicweirdo.com/2019/20190408.jpg" />
+        <updated>2019-04-18T21:30:00+0200</updated>
+        <content type="xhtml">
+            <a href="https://chronicweirdo.com/2019/20190408.jpg">
+                <img height="100" src="https://chronicweirdo.com/2019/20190408.thumb.jpg"/>
+            </a>
+        </content>
+        <author>
+            <name>chronicweirdo</name>
+        </author>
+    </entry>
+    <entry>
+        <title>20190407</title>
+        <id>20190407</id>
+        <link href="https://chronicweirdo.com/2019/20190407.jpg" />
+        <updated>2019-04-18T21:30:00+0200</updated>
+        <content type="xhtml">
+            <a href="https://chronicweirdo.com/2019/20190407.jpg">
+                <img height="100" src="https://chronicweirdo.com/2019/20190407.thumb.jpg"/>
+            </a>
+        </content>
+        <author>
+            <name>chronicweirdo</name>
+        </author>
+    </entry>
+    <entry>
+        <title>20190406</title>
+        <id>20190406</id>
+        <link href="https://chronicweirdo.com/2019/20190406.jpg" />
+        <updated>2019-04-18T21:30:00+0200</updated>
+        <content type="xhtml">
+            <a href="https://chronicweirdo.com/2019/20190406.jpg">
+                <img height="100" src="https://chronicweirdo.com/2019/20190406.thumb.jpg"/>
+            </a>
+        </content>
+        <author>
+            <name>chronicweirdo</name>
+        </author>
+    </entry>
     <entry>
         <title>20190322</title>
         <id>20190322</id>
@@ -176,60 +232,5 @@
             <name>chronicweirdo</name>
         </author>
     </entry>
-    <entry>
-        <title>2018.09.26</title>
-        <link href="https://chronicweirdo.com/2018/2018.09.26.jpg" />
-        <id>2018.09.26</id>
-        <updated>2018-10-27T07:30:00+0200</updated>
-        <content type="xhtml">
-            <a href="https://chronicweirdo.com/2018/2018.09.26.jpg">
-                <img height="200" src="https://chronicweirdo.com/2018/2018.09.26.thumb.jpg"/>
-            </a>
-        </content>
-        <author>
-            <name>chronicweirdo</name>
-        </author>
-    </entry>
-    <entry>
-        <title>2018.09.27.18.34</title>
-        <link href="https://chronicweirdo.com/2018/2018.09.27.18.34.jpg" />
-        <id>2018.09.27.18.34</id>
-        <updated>2018-10-12T05:50:15.608Z</updated>
-        <content type="xhtml">
-            <a href="https://chronicweirdo.com/2018/2018.09.27.18.34.jpg">
-                <img height="200" src="https://chronicweirdo.com/2018/2018.09.27.18.34.jpg"/>
-            </a>
-        </content>
-        <author>
-            <name>chronicweirdo</name>
-        </author>
-    </entry>
-    <entry>
-        <title>2018.09.27.18.20</title>
-        <link href="https://chronicweirdo.com/2018/2018.09.27.18.20.jpg" />
-        <id>2018.09.27.18.20</id>
-        <updated>2018-09-30T19:58:21.626Z</updated>
-        <content type="xhtml">
-            <a href="https://chronicweirdo.com/2018/2018.09.27.18.20.jpg">
-                <img height="200" src="https://chronicweirdo.com/2018/2018.09.27.18.20.jpg"/>
-            </a>
-        </content>
-        <author>
-            <name>chronicweirdo</name>
-        </author>
-    </entry>
-    <entry>
-        <title>2018.09.10.14.51</title>
-        <link href="https://chronicweirdo.com/2018/2018.09.10.14.51.jpg" />
-        <id>2018.09.10.14.51</id>
-        <updated>2018-09-16T09:41:08.274Z</updated>
-        <content type="xhtml">
-            <a href="https://chronicweirdo.com/2018/2018.09.10.14.51.jpg">
-                <img height="200" src="https://chronicweirdo.com/2018/2018.09.10.14.51.jpg"/>
-            </a>
-        </content>
-        <author>
-            <name>chronicweirdo</name>
-        </author>
-    </entry>
+
 </feed>
