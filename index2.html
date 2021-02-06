@@ -13,6 +13,27 @@
             margin: 0 auto;
             max-width: 100%;
         }
+        #left {
+            position: fixed;
+            width: 20%;
+            height: 100%;
+            left: 0;
+            top: 0;
+        }
+        #right {
+            position: fixed;
+            width: 20%;
+            height: 100%;
+            right: 0;
+            top: 0;
+        }
+        #center {
+            position: fixed;
+            width: 60%;
+            height: 100%;
+            left: 20%;
+            top: 0;
+        }
     </style>
     <script>
         function getPixelKey(pixelData) {
@@ -180,14 +201,19 @@
     <title>chronicweirdo</title>
 </head>
 <body>
-<nav>
+<!--nav>
 <a onclick="next()">next</a>
 <a onclick="previous()">previous</a>
-</nav>
+</nav-->
 <div id="content">
 
 </div>
+<div id="left" onclick="next()"></div>
+<div id="center"></div>
+<div id="right" onclick="previous()"></div>
 <script>
+    //document.getElementById("left").addEventListener("click", (event) => next())
+    //document.getElementById("right").addEventListener("click", (event) => next())
     load(current)
 </script>
 </body>
