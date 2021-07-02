@@ -28,7 +28,7 @@
         }
         nav a {
             padding: 0 8px 0 0;
-            color: dodgerblue;
+            color: black;
         }
         h1 {
             font-size: 2.5em;
@@ -81,6 +81,7 @@
     </style>
     <script>
         var RESIZE_OPTIMIZED = false
+        var FIXED_NAVIGATION = true
         function setImageStyle(img) {
             if (img.parentElement.offsetHeight / img.parentElement.offsetWidth < img.naturalHeight / img.naturalWidth) {
                 img.style.width = "100%"
@@ -109,30 +110,46 @@
                 targetElement.scrollIntoView()
             }
         }
+        function getCurrentUrl() {
+            let url = window.location.href
+            let hashIndex = url.indexOf("#")
+            if (hashIndex > -1) {
+                return url.substring(0, hashIndex)
+            } else {
+                return url
+            }
+        }
         function switchToFixedNavigation() {
-            let navigationElement = getNavigationElement()
-            navigationElement.style.position = "fixed"
-            document.body.style.paddingTop = navigationElement.offsetHeight + "px"
-            let navigationLinks = navigationElement.getElementsByTagName("a")
-            for (let i = 0; i < navigationLinks.length; i++) {
-                let href = navigationLinks[i].href
-                if (href.lastIndexOf("#") > -1) {
-                    let id = href.substring(href.lastIndexOf("#") + 1)
-                    let targetElement = document.getElementById(id)
-                    if (targetElement) {
-                        navigationLinks[i].href = "#"
-                        navigationLinks[i].onclick = function(event) {
-                            event.preventDefault()
-                            scrollToElement(id)
+            if (FIXED_NAVIGATION) {
+                let navigationElement = getNavigationElement()
+                navigationElement.style.position = "fixed"
+                document.body.style.paddingTop = navigationElement.offsetHeight + "px"
+                let currentUrl = getCurrentUrl()
+                let navigationLinks = navigationElement.getElementsByTagName("a")
+                for (let i = 0; i < navigationLinks.length; i++) {
+                    let href = navigationLinks[i].href
+                    let hashIndex = href.lastIndexOf("#")
+                    if (hashIndex > -1) {
+                        let linkUrl = href.substring(0, hashIndex)
+                        let id = href.substring(hashIndex + 1)
+                        let targetElement = document.getElementById(id)
+                        if (currentUrl == linkUrl && targetElement) {
+                            navigationLinks[i].href = "#"
+                            navigationLinks[i].onclick = function(event) {
+                                event.preventDefault()
+                                scrollToElement(id)
+                            }
                         }
                     }
                 }
             }
         }
         function updateNavigationDisplay() {
-            let navigationElement = getNavigationElement()
-            if (navigationElement.style.position == "fixed") {
-                document.body.style.paddingTop = navigationElement.offsetHeight + "px"
+            if (FIXED_NAVIGATION) {
+                let navigationElement = getNavigationElement()
+                if (navigationElement.style.position == "fixed") {
+                    document.body.style.paddingTop = navigationElement.offsetHeight + "px"
+                }
             }
         }
         window.onresize = function() {
@@ -186,8 +203,8 @@
     <a href="#2011">2011</a>
 </nav>
 <p id="top">
-    <a href="2021/20210207.png"><img src="2021/20210207.png"/></a>
     <a href="2021/20210624.jpg"><img src="2021/20210624.jpg"/></a>
+    <a href="2021/20210207.png"><img src="2021/20210207.png"/></a>
 </p>
 <h1 id="2020">2020</h1>
 <p>
