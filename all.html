@@ -16,15 +16,22 @@
         }
         body {
             font-size: 1.3em;
+            /*padding-top: 5vh;*/
         }
         nav {
+            top: 0;
             padding: 1vw;
+            background-color: white;
+            /*position: fixed;*/
+            width: 98vw;
+            z-index: 1000;
         }
         nav a {
             padding: 0 8px 0 0;
             color: dodgerblue;
         }
         h1 {
+            font-size: 2.5em;
             padding-left: 1vw;
             padding-right: 1vw;
             text-align: center;
@@ -90,6 +97,44 @@
         function isLoaded(image) {
             return image.complete && image.naturalHeight !== 0
         }
+        function getNavigationElement() {
+            return document.getElementsByTagName("nav")[0]
+        }
+        function scrollToElement(id) {
+            let targetElement = document.getElementById(id)
+            let navigationElement = getNavigationElement()
+            if (navigationElement.style.position == "fixed") {
+                window.scrollTo(0, targetElement.offsetTop - navigationElement.offsetHeight)
+            } else {
+                targetElement.scrollIntoView()
+            }
+        }
+        function switchToFixedNavigation() {
+            let navigationElement = getNavigationElement()
+            navigationElement.style.position = "fixed"
+            document.body.style.paddingTop = navigationElement.offsetHeight + "px"
+            let navigationLinks = navigationElement.getElementsByTagName("a")
+            for (let i = 0; i < navigationLinks.length; i++) {
+                let href = navigationLinks[i].href
+                if (href.lastIndexOf("#") > -1) {
+                    let id = href.substring(href.lastIndexOf("#") + 1)
+                    let targetElement = document.getElementById(id)
+                    if (targetElement) {
+                        navigationLinks[i].href = "#"
+                        navigationLinks[i].onclick = function(event) {
+                            event.preventDefault()
+                            scrollToElement(id)
+                        }
+                    }
+                }
+            }
+        }
+        function updateNavigationDisplay() {
+            let navigationElement = getNavigationElement()
+            if (navigationElement.style.position == "fixed") {
+                document.body.style.paddingTop = navigationElement.offsetHeight + "px"
+            }
+        }
         window.onresize = function() {
             let updateImages = function() {
                 var images = document.getElementsByTagName('img')
@@ -104,14 +149,17 @@
                     let now = + new Date()
                     let elapsed = now - document.resizeTimestamp
                     if (elapsed > waitTime && elapsed < 2 * waitTime) {
+                        updateNavigationDisplay()
                         updateImages()
                     }
                 }, waitTime)
             } else {
+                updateNavigationDisplay()
                 updateImages()
             }
         }
         window.onload = function() {
+            switchToFixedNavigation()
             var images = document.getElementsByTagName('img')
             for (let i = 0; i < images.length; i++) {
                 if (isLoaded(images[i])) {
@@ -126,7 +174,7 @@
 </head>
 <body>
 <nav>
-    <span>chronicweirdo</span>
+    <a href="#top">chronicweirdo</a>
     <a href="#2020">2020</a>
     <a href="#2019">2019</a>
     <a href="#2018">2018</a>
@@ -137,7 +185,7 @@
     <a href="#2012">2012</a>
     <a href="#2011">2011</a>
 </nav>
-<p>
+<p id="top">
     <a href="2021/20210207.png"><img src="2021/20210207.png"/></a>
     <a href="2021/20210624.jpg"><img src="2021/20210624.jpg"/></a>
 </p>
