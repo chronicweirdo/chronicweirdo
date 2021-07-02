@@ -8,6 +8,22 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
 <style>
+        :root {
+            --foreground-color: #000000;
+            --background-color: #ffffff;
+        }
+        @media (prefers-color-scheme: light) {
+            :root {
+                --foreground-color: #000000;
+                --background-color: #ffffff;
+            }
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --foreground-color: #ffffff;
+                --background-color: #000000;
+            }
+        }
         * {
             font-family: 'Merriweather', serif;
             margin: 0;
@@ -16,20 +32,16 @@
         }
         body {
             font-size: 1.3em;
-            /*padding-top: 5vh;*/
+            background-color: var(--background-color, #ffffff);
+            color: var(--foreground-color, #000000);
         }
         nav {
-            top: 0;
             padding: 1vw;
-            background-color: white;
-            /*position: fixed;*/
-            width: 98vw;
-            z-index: 1000;
             line-height: 1.5em;
         }
         nav a {
             padding: 0 8px 0 0;
-            color: black;
+            color: var(--foreground-color, #000000);
         }
         h1 {
             font-size: 2.5em;
@@ -38,18 +50,14 @@
             text-align: center;
         }
         p {
-            padding: 1vw;
+            padding: 1vw 1vw 5vw 1vw;
             display: grid;
             row-gap: 1vw;
             column-gap: 1vw;
-            grid-template-columns: repeat(5, 18.8vw);
-            justify-items: center;
-            align-items: flex-end;
-            padding-bottom: 5vw;
+            grid-template-columns: repeat(5, 18.6vw);
         }
         a {
-            /*height: 18.8vw;*/ /* 1/1 ratio */
-            height: 25.06vw; /* 3/4 ratio */
+            height: 24.8vw;
             overflow: hidden;
             position: relative;
             width: 100%;
@@ -65,8 +73,7 @@
                 grid-template-columns: repeat(3, 32vw);
             }
             a {
-                /*height: 32vw;*/ /* 1/1 ratio */
-                height: 42.66vw; /* 3/4 ratio */
+                height: 42.66vw;
             }
             
         }
@@ -75,14 +82,11 @@
                 grid-template-columns: 98vw;
             }
             a {
-                /*height: 98vw;*/ /* 1/1 ratio */
-                height: 130.66vw; /* 3/4 ratio */
+                height: 130.66vw;
             }
         }
     </style>
     <script>
-        var RESIZE_OPTIMIZED = false
-        var FIXED_NAVIGATION = false
         function setImageStyle(img) {
             if (img.parentElement.offsetHeight / img.parentElement.offsetWidth < img.naturalHeight / img.naturalWidth) {
                 img.style.width = "100%"
@@ -99,85 +103,13 @@
         function isLoaded(image) {
             return image.complete && image.naturalHeight !== 0
         }
-        function getNavigationElement() {
-            return document.getElementsByTagName("nav")[0]
-        }
-        function scrollToElement(id) {
-            let targetElement = document.getElementById(id)
-            let navigationElement = getNavigationElement()
-            if (navigationElement.style.position == "fixed") {
-                window.scrollTo(0, targetElement.offsetTop - navigationElement.offsetHeight)
-            } else {
-                targetElement.scrollIntoView()
-            }
-        }
-        function getCurrentUrl() {
-            let url = window.location.href
-            let hashIndex = url.indexOf("#")
-            if (hashIndex > -1) {
-                return url.substring(0, hashIndex)
-            } else {
-                return url
-            }
-        }
-        function switchToFixedNavigation() {
-            if (FIXED_NAVIGATION) {
-                let navigationElement = getNavigationElement()
-                navigationElement.style.position = "fixed"
-                document.body.style.paddingTop = navigationElement.offsetHeight + "px"
-                let currentUrl = getCurrentUrl()
-                let navigationLinks = navigationElement.getElementsByTagName("a")
-                for (let i = 0; i < navigationLinks.length; i++) {
-                    let href = navigationLinks[i].href
-                    let hashIndex = href.lastIndexOf("#")
-                    if (hashIndex > -1) {
-                        let linkUrl = href.substring(0, hashIndex)
-                        let id = href.substring(hashIndex + 1)
-                        let targetElement = document.getElementById(id)
-                        if (currentUrl == linkUrl && targetElement) {
-                            navigationLinks[i].href = "#"
-                            navigationLinks[i].onclick = function(event) {
-                                event.preventDefault()
-                                scrollToElement(id)
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        function updateNavigationDisplay() {
-            if (FIXED_NAVIGATION) {
-                let navigationElement = getNavigationElement()
-                if (navigationElement.style.position == "fixed") {
-                    document.body.style.paddingTop = navigationElement.offsetHeight + "px"
-                }
-            }
-        }
         window.onresize = function() {
-            let updateImages = function() {
-                var images = document.getElementsByTagName('img')
-                for (let i = 0; i < images.length; i++) {
-                    setImageStyle(images[i])
-                }
-            }
-            if (RESIZE_OPTIMIZED) {
-                let waitTime = 300
-                document.resizeTimestamp = + new Date()
-                setTimeout(function() {
-                    let now = + new Date()
-                    let elapsed = now - document.resizeTimestamp
-                    if (elapsed > waitTime && elapsed < 2 * waitTime) {
-                        updateNavigationDisplay()
-                        updateImages()
-                    }
-                }, waitTime)
-            } else {
-                updateNavigationDisplay()
-                updateImages()
+            var images = document.getElementsByTagName('img')
+            for (let i = 0; i < images.length; i++) {
+                setImageStyle(images[i])
             }
         }
         window.onload = function() {
-            switchToFixedNavigation()
             var images = document.getElementsByTagName('img')
             for (let i = 0; i < images.length; i++) {
                 if (isLoaded(images[i])) {
@@ -205,7 +137,6 @@
 </nav>
 <p id="top">
     <a href="2021/20210624.jpg"><img src="2021/20210624.jpg"/></a>
-    <a href="2021/20210207.png"><img src="2021/20210207.png"/></a>
 </p>
 <h1 id="2020">2020</h1>
 <p>
