@@ -34,73 +34,46 @@
             display: grid;
             row-gap: 1vw;
             column-gap: 1vw;
-            grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+            grid-template-columns: repeat(5, 18.8vw);
             justify-items: center;
             align-items: flex-end;
             padding-bottom: 5vw;
         }
         a {
+            /*height: 18.8vw;*/ /* 1/1 ratio */
+            height: 25.06vw; /* 3/4 ratio */
             overflow: hidden;
             position: relative;
             width: 100%;
-            height: 30vh;
             text-align: center;
         }
-        img,
-        video {
-            /*width: 100%;*/
+        img {
             width: auto;
             height: 100%;
             position: relative;
-            /*margin-bottom: 0.2rem;
-            margin-right: 0.2rem;
-            max-height: 200px;
-            max-width: 90%;
-            border: 0.1rem solid black;*/
         }
         @media all and (max-width: 1199px) {
             p {
-                grid-template-columns: 1fr 1fr 1fr;
+                grid-template-columns: repeat(3, 32vw);
+            }
+            a {
+                /*height: 32vw;*/ /* 1/1 ratio */
+                height: 42.66vw; /* 3/4 ratio */
             }
             
         }
         @media all and (max-width: 599px) {
             p {
-                grid-template-columns: 1fr;
+                grid-template-columns: 98vw;
             }
             a {
-                height: 50vh;
+                /*height: 98vw;*/ /* 1/1 ratio */
+                height: 130.66vw; /* 3/4 ratio */
             }
         }
-        /*@media  (hover: none) {
-            p, h1 {
-                text-align: center;
-            }
-            p {
-                grid-template-columns: 1fr;
-            }
-            
-            p a {
-                display: block;
-            }
-            img,
-            video {
-                margin-bottom: 0.2rem;
-                margin-right: 0.2rem;
-                height: auto;
-                max-height: none;
-                max-width: 90vw;
-                border: 0.1rem solid black;
-            }
-        }*/
     </style>
     <script>
         function setImageStyle(img) {
-            //console.log(img.naturalWidth + " " + img.naturalHeight)
-            /*if (img.naturalWidth > img.naturalHeight) {
-                img.style.width = "auto"
-                img.style.height = "100%"
-            }*/
             if (img.parentElement.offsetHeight / img.parentElement.offsetWidth < img.naturalHeight / img.naturalWidth) {
                 img.style.width = "100%"
                 img.style.height = "auto"
@@ -109,7 +82,6 @@
             } else {
                 img.style.width = "auto"
                 img.style.height = "100%"
-                //console.log(img.parentElement.offsetWidth + " " + img.offsetWidth)
                 img.style.top = "0"
                 img.style.left = ((img.parentElement.offsetWidth - img.offsetWidth) / 2) + "px"
             }
@@ -138,7 +110,7 @@
 </head>
 <body>
 <nav>
-    <a href="index.html">chronicweirdo</a>
+    <span>chronicweirdo</span>
     <a href="#2020">2020</a>
     <a href="#2019">2019</a>
     <a href="#2018">2018</a>
@@ -149,7 +121,6 @@
     <a href="#2012">2012</a>
     <a href="#2011">2011</a>
 </nav>
-<h1 id="2021">2021</h1>
 <p>
     <a href="2021/20210207.png"><img src="2021/20210207.png"/></a>
     <a href="2021/20210624.jpg"><img src="2021/20210624.jpg"/></a>
