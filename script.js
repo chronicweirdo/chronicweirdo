@@ -20,7 +20,7 @@ window.onresize = function() {
         setImageStyle(images[i])
     }
 }
-window.onload = function() {
+function setupDocument() {
     let palette = ["9b5de5", "f15bb5", "fee440", "00bbf9", "00f5d4"]
     cycleColor("chronicweirdo", "color", palette, 200, 80)
     var images = document.getElementsByTagName('img')
