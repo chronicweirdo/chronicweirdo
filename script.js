@@ -20,7 +20,7 @@ window.onresize = function() {
         setImageStyle(images[i])
     }
 }
-window.addEventListener('load', function() {
+window.onload = function() {
     let palette = ["9b5de5", "f15bb5", "fee440", "00bbf9", "00f5d4"]
     cycleColor("chronicweirdo", "color", palette, 200, 80)
     var images = document.getElementsByTagName('img')
@@ -31,4 +31,4 @@ window.addEventListener('load', function() {
             images[i].onload = function() { setImageStyle(images[i]) }
         }
     }
-})
+}
