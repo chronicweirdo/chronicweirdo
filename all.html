@@ -73,6 +73,7 @@
         }
     </style>
     <script>
+        var RESIZE_OPTIMIZED = false
         function setImageStyle(img) {
             if (img.parentElement.offsetHeight / img.parentElement.offsetWidth < img.naturalHeight / img.naturalWidth) {
                 img.style.width = "100%"
@@ -90,9 +91,24 @@
             return image.complete && image.naturalHeight !== 0
         }
         window.onresize = function() {
-            var images = document.getElementsByTagName('img')
-            for (let i = 0; i < images.length; i++) {
-                setImageStyle(images[i])
+            let updateImages = function() {
+                var images = document.getElementsByTagName('img')
+                for (let i = 0; i < images.length; i++) {
+                    setImageStyle(images[i])
+                }
+            }
+            if (RESIZE_OPTIMIZED) {
+                let waitTime = 300
+                document.resizeTimestamp = + new Date()
+                setTimeout(function() {
+                    let now = + new Date()
+                    let elapsed = now - document.resizeTimestamp
+                    if (elapsed > waitTime && elapsed < 2 * waitTime) {
+                        updateImages()
+                    }
+                }, waitTime)
+            } else {
+                updateImages()
             }
         }
         window.onload = function() {
