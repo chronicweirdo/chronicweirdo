@@ -69,9 +69,13 @@ img {
 }
 @media all and (max-width: 399px) {
     p {
-        grid-template-columns: 98vw;
+        padding: 2.5vw 2.5vw 5vw 2.5vw;
+        row-gap: 2.5vw;
+        column-gap: 2.5vw;
+        grid-template-columns: 95vw;
+        
     }
     a {
-        height: 130.66vw;
+        height: 126.66vw;
     }
 }
