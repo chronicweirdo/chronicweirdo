@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta charset="utf-8"/>
+<style>
+    #assets {
+        display: none;
+    }
+</style>
+<script>
+    function drawImage() {
+        let image = new Image()
+        image.onload = function() {
+            var c = document.getElementById("canvas")
+            var ctx = c.getContext("2d")
+            ctx.drawImage(image, 10, 10);
+        }
+        image.src = "googoo.png"
+    }
+    function drawImage2() {
+        var c = document.getElementById("canvas")
+        var ctx = c.getContext("2d")
+        let image = document.getElementById("googoo")
+        ctx.drawImage(image, 150, 10)
+    }
+    window.onload = function() {
+        var c = document.getElementById("canvas");
+        var ctx = c.getContext("2d");
+        ctx.moveTo(0, 0);
+        ctx.lineTo(200, 100);
+        ctx.stroke();
+
+        drawImage()
+        drawImage2()
+    }
+</script>
+</head>
+<body>
+    <canvas id="canvas" width="200" height="100" style="border:1px solid #000000;">
+    </canvas>
+    <div id="assets">
+        <img id="googoo" src="googoo.png"/>
+    </div>
+</body>
+</html>
