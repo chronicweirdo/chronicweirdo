@@ -10,7 +10,8 @@
     }
 </style>
 <script>
-    function drawImage() {
+
+    /*function drawImage() {
         let image = new Image()
         image.onload = function() {
             var c = document.getElementById("canvas")
@@ -18,12 +19,12 @@
             ctx.drawImage(image, 10, 10);
         }
         image.src = "googoo.png"
-    }
+    }*/
     function drawImage2() {
         var c = document.getElementById("canvas")
         var ctx = c.getContext("2d")
         let image = document.getElementById("googoo")
-        ctx.drawImage(image, 150, 10)
+        ctx.drawImage(image, 10, 10)
     }
     function drawSprite(spriteId, spriteIndex, x, y, scale) {
         // get the sprite
@@ -54,6 +55,40 @@
             sprite.dataset.spriteHeight * scale
         )
     }
+    function loadImage(imagePath) {
+        return new Promise((resolve, reject) => {
+            let image = new Image()
+            image.addEventListener("load", () => {
+                document.assets.set(imagePath, image)
+                resolve(image)
+            })
+            image.addEventListener("error", (err) => {
+                reject(err)
+            })
+            image.src = imagePath
+        })
+    }
+    function imageIsLoaded(imgElement) {
+        return new Promise((resolve, reject) => {
+            let checkImageIsLoaded = function() {
+                console.log("checking if image " + imgElement.id + " is loaded " + imgElement.complete + " " + imgElement.naturalWidth)
+                if (imgElement.complete) {
+                    if (imgElement.naturalWidth > 0) {
+                        resolve()
+                    } else {
+                        reject()
+                    }
+                } else {
+                    setTimeout(checkImageIsLoaded, 100)
+                }
+            }
+            checkImageIsLoaded()
+        })
+    }
+    function draw() {
+        drawImage2()
+        drawSprite("octoby", 3, 0, 0, 3)
+    }
     window.onload = function() {
         var c = document.getElementById("canvas");
         var ctx = c.getContext("2d");
@@ -63,8 +98,17 @@
 
         
         //drawImage2()
-        drawImage()
-        drawSprite("octoby", 3, 0, 0, 3)
+        document.assets = new Map()
+        document.assets.set("octoby.png", null)
+        document.assets.set("googoo.png", null)
+        document.assets.forEach((k, v) => console.log(v, k))
+
+        Promise.all(
+            Array.from(document.getElementsByTagName("img")).map(e => imageIsLoaded(e))
+        ).then(values => {
+            console.log(values)
+            draw()
+        })
     }
 </script>
 </head>
@@ -72,7 +116,6 @@
     <canvas id="canvas" width="200" height="100" style="border:1px solid #000000;">
     </canvas>
     <div id="assets">
-        
         <img id="octoby" data-sprite-width="20" data-sprite-height="20" src="octoby.png"/>
         <img id="googoo" src="googoo.png"/>
     </div>
