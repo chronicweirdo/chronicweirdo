@@ -10,16 +10,6 @@
     }
 </style>
 <script>
-
-    /*function drawImage() {
-        let image = new Image()
-        image.onload = function() {
-            var c = document.getElementById("canvas")
-            var ctx = c.getContext("2d")
-            ctx.drawImage(image, 10, 10);
-        }
-        image.src = "googoo.png"
-    }*/
     function drawImage2() {
         var c = document.getElementById("canvas")
         var ctx = c.getContext("2d")
@@ -96,19 +86,13 @@
         ctx.lineTo(200, 100);
         ctx.stroke();
 
-        
-        //drawImage2()
-        document.assets = new Map()
-        document.assets.set("octoby.png", null)
-        document.assets.set("googoo.png", null)
-        document.assets.forEach((k, v) => console.log(v, k))
-
-        Promise.all(
+        /*Promise.all(
             Array.from(document.getElementsByTagName("img")).map(e => imageIsLoaded(e))
         ).then(values => {
             console.log(values)
             draw()
-        })
+        })*/
+        draw()
     }
 </script>
 </head>
