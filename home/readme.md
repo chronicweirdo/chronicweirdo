@@ -12,6 +12,7 @@
 - [x] understand how to paint in canvas
 - [x] understand how to include images/sprites in canvas
 - [] Understand animation in canvas
+    - animation is drawings updating themselves based on time
 - [] Add sprite animation to canvas
 - [] Work with time-based rules, like physics, gravity
 - [] Look over how platformers are made and gather ideas from there
