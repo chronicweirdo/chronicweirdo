@@ -25,6 +25,35 @@
         let image = document.getElementById("googoo")
         ctx.drawImage(image, 150, 10)
     }
+    function drawSprite(spriteId, spriteIndex, x, y, scale) {
+        // get the sprite
+        let sprite = document.getElementById(spriteId)
+        // compute number of entries in sprite
+        console.log(sprite.width, sprite.height, sprite.dataset.spriteWidth, sprite.dataset.spriteHeight)
+        let rows = sprite.height / sprite.dataset.spriteHeight
+        let columns = sprite.width / sprite.dataset.spriteWidth
+        let entries = rows * columns
+        console.log(rows, columns, entries)
+        // compute desired entry row and column
+        let desiredIndex = spriteIndex % entries
+        let desiredRow = Math.floor(desiredIndex / columns)
+        let desiredColumn = desiredIndex % columns
+        console.log(desiredRow, desiredColumn, desiredIndex)
+        // draw desired sprite
+        var c = document.getElementById("canvas")
+        var ctx = c.getContext("2d")
+        ctx.drawImage(
+            sprite, 
+            desiredColumn * sprite.dataset.spriteWidth, 
+            desiredRow * sprite.dataset.spriteHeight, 
+            sprite.dataset.spriteWidth,
+            sprite.dataset.spriteHeight,
+            x,
+            y,
+            sprite.dataset.spriteWidth * scale,
+            sprite.dataset.spriteHeight * scale
+        )
+    }
     window.onload = function() {
         var c = document.getElementById("canvas");
         var ctx = c.getContext("2d");
@@ -32,8 +61,10 @@
         ctx.lineTo(200, 100);
         ctx.stroke();
 
+        
+        //drawImage2()
         drawImage()
-        drawImage2()
+        drawSprite("octoby", 3, 0, 0, 3)
     }
 </script>
 </head>
@@ -41,6 +72,8 @@
     <canvas id="canvas" width="200" height="100" style="border:1px solid #000000;">
     </canvas>
     <div id="assets">
+        
+        <img id="octoby" data-sprite-width="20" data-sprite-height="20" src="octoby.png"/>
         <img id="googoo" src="googoo.png"/>
     </div>
 </body>
