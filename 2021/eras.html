@@ -1,0 +1,166 @@
+<html>
+    <head>
+        <style>
+            svg {
+                width: 100%;
+                height: 100%;
+            }
+        </style>
+        <script>
+            // start and end between 0 and 1
+            function addArc(cx, cy, r, start, end) {
+                startRadians = start * 2 * Math.PI
+                endRadians = end * 2 * Math.PI
+                startX = cx + r * Math.cos(startRadians)
+                startY = cy + r * Math.sin(startRadians)
+                endX = cx + r * Math.cos(endRadians)
+                endY = cy + r * Math.sin(endRadians)
+                largeArc = end > 0.5 ? 1 : 0
+                
+                svg = document.getElementById("drawing")
+                //Create a path in SVG's namespace
+                var arc = document.createElementNS("http://www.w3.org/2000/svg", 'path')
+                arc.setAttribute("d", "M " + startX + " " + startY + " "
+                    + "A " + r + " " + r + " 0 " + largeArc + " 1 " + endX + " " + endY)
+                arc.style.stroke = "#000"
+                arc.style.strokeWidth = "5px"
+                arc.style.fill = "none"
+                svg.appendChild(arc)
+            }
+            function addFilledArc(cx, cy, r, thickness, start, end) {
+                startRadians = start * 2 * Math.PI
+                endRadians = end * 2 * Math.PI
+                
+                a1StartX = cx + r * Math.cos(startRadians)
+                a1StartY = cy + r * Math.sin(startRadians)                
+                a1EndX = cx + r * Math.cos(endRadians)
+                a1EndY = cy + r * Math.sin(endRadians)
+
+                a2r = r + thickness
+                a2StartX = cx + a2r * Math.cos(startRadians)
+                a2StartY = cy + a2r * Math.sin(startRadians)                
+                a2EndX = cx + a2r * Math.cos(endRadians)
+                a2EndY = cy + a2r * Math.sin(endRadians)
+
+                largeArc = (end - start) > 0.5 ? 1 : 0
+                
+                svg = document.getElementById("drawing")
+                //Create a path in SVG's namespace
+                var arc = document.createElementNS("http://www.w3.org/2000/svg", 'path')
+
+                d = "M " + a1StartX + " " + a1StartY + " " +
+                    "A " + r + " " + r + " 0 " + largeArc + " 1 " + a1EndX + " " + a1EndY + " " +
+                    "L " + a2EndX + " " + a2EndY + " " +
+                    // change the sweep-flag for this one!
+                    "A " + a2r + " " + a2r + " 0 " + largeArc + " 0 " + a2StartX + " " + a2StartY + " " +
+                    "Z"
+
+                arc.setAttribute("d", d)
+                arc.style.stroke = "#fff"
+                arc.style.strokeWidth = "3px"
+                arc.style.fill = "aquamarine"
+                svg.appendChild(arc)
+            }
+            
+            function radians(percentage) {
+                return percentage * 2 * Math.PI
+            }
+
+            function addSegmentArc(cx, cy, r, start, end, step) {
+                startX = cx + r * Math.cos(radians(start))
+                startY = cy + r * Math.sin(radians(start))
+                
+                d = "M " + startX + " " + startY
+                current = start + step
+                while (current < end) {
+                    x = cx + r * Math.cos(radians(current))
+                    y = cy + r * Math.sin(radians(current))
+                    d += " L " + x + " " + y
+                    current = current + step
+                }
+                endX = cx + r * Math.cos(radians(end))
+                endY = cy + r * Math.sin(radians(end))
+                d += " L " + endX + " " + endY
+                
+                
+                svg = document.getElementById("drawing")
+                var arc = document.createElementNS("http://www.w3.org/2000/svg", 'path')
+                arc.setAttribute("d", d)
+                arc.style.stroke = "#000"
+                arc.style.strokeWidth = "5px"
+                arc.style.fill = "none"
+                svg.appendChild(arc)
+            }
+
+            function addFilledSegmentArc(cx, cy, r, thickness, start, end, step) {
+                startX = cx + r * Math.cos(radians(start))
+                startY = cy + r * Math.sin(radians(start))
+                
+                d = "M " + startX + " " + startY
+                current = start + step
+                while (current < end) {
+                    x = cx + r * Math.cos(radians(current))
+                    y = cy + r * Math.sin(radians(current))
+                    d += " L " + x + " " + y
+                    current = current + step
+                }
+                endX = cx + r * Math.cos(radians(end))
+                endY = cy + r * Math.sin(radians(end))
+                d += " L " + endX + " " + endY
+                
+                r2 = r + thickness
+                endX2 = cx + r2 * Math.cos(radians(end))
+                endY2 = cy + r2 * Math.sin(radians(end))
+                d += " L " + endX2 + " " + endY2
+                current = end - step
+                while (current > start) {
+                    x = cx + r2 * Math.cos(radians(current))
+                    y = cy + r2 * Math.sin(radians(current))
+                    d += " L " + x + " " + y
+                    current = current - step
+                }
+                startX2 = cx + r2 * Math.cos(radians(start))
+                startY2 = cy + r2 * Math.sin(radians(start))
+                d += " L " + startX2 + " " + startY2
+                d += " Z"
+                
+                
+                svg = document.getElementById("drawing")
+                var arc = document.createElementNS("http://www.w3.org/2000/svg", 'path')
+                arc.setAttribute("d", d)
+                arc.style.stroke = "#fff"
+                arc.style.strokeWidth = "5px"
+                arc.style.fill = "greenYellow"
+                svg.appendChild(arc)
+            }
+        </script>
+    </head>
+    <body>
+        <svg id="drawing">
+            <!--circle cx="200" cy="200" r="100"></circle-->
+            <!--path style="stroke: black; fill: none" d="M 294 193 A 100 100 0 1 1 215 95"/--> 
+        </svg>
+        <script>
+            addFilledArc(200, 200, 100, 30, 0, 0.2)
+            addFilledArc(200, 200, 130, 30, 0, 0.15)
+            addFilledArc(200, 200, 130, 30, 0.15, 0.2)
+            addFilledArc(200, 200, 160, 30, 0.15, 0.17)
+            addFilledArc(200, 200, 160, 30, 0.17, 0.18)
+            addFilledArc(200, 200, 160, 30, 0.18, 0.195)
+            addFilledArc(200, 200, 160, 30, 0.195, 0.2)
+            addFilledArc(200, 200, 100, 30, 0.2, 0.6)
+            addFilledArc(200, 200, 100, 30, 0.6, 0.999)
+            
+            step = 0.05
+            addFilledSegmentArc(200, 600, 30, 100, 0, 0.2, step)
+            addFilledSegmentArc(200, 600, 130, 30, 0, 0.15, step)
+            addFilledSegmentArc(200, 600, 130, 30, 0.15, 0.2, step)
+            addFilledSegmentArc(200, 600, 160, 90, 0.15, 0.17, step)
+            addFilledSegmentArc(200, 600, 160, 90, 0.17, 0.18, step)
+            addFilledSegmentArc(200, 600, 160, 90, 0.18, 0.195, step)
+            addFilledSegmentArc(200, 600, 160, 90, 0.195, 0.2, step)
+            addFilledSegmentArc(200, 600, 30, 100, 0.2, 0.6, step)
+            addFilledSegmentArc(200, 600, 30, 100, 0.6, 0.999, step)
+        </script>
+    </body>
+</html>
