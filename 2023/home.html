@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            canvas {
+                background-color: darkblue;
+            }
+        </style>
+        <script>
+            function getViewportDimensions() {
+                const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0)
+                const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
+                return { "width": vw, "height": vh}
+            }
+            function prepareCanvas() {
+                let canvas = new CanvasObject().getCanvas()
+                let dim = getViewportDimensions()
+                canvas.height = dim.height
+                canvas.width = dim.width
+            }
+            class CanvasObject {
+                getCanvas() {
+                    return document.getElementById("canvas")
+                }
+                getContext() {
+                    return this.getCanvas().getContext("2d")
+                }
+                draw() {
+                    // does nothing
+                }
+            }
+            class Rectangle extends CanvasObject {
+                constructor(x, y, width, height, borderColor, fillColor) {
+                    super()
+                    this.x = x
+                    this.y = y
+                    this.width = width
+                    this.height = height
+                    this.borderColor = borderColor
+                    this.fillColor = fillColor
+                }
+                draw() {
+                    const ctx = this.getContext()
+
+                    if (this.fillColor != null) {
+                        ctx.fillStyle = this.fillColor
+                        ctx.fillRect(this.x, this.y, this.width, this.height)
+                    }
+
+                    if (this.borderColor != null) {
+                        ctx.strokeStyle = this.borderColor
+                        ctx.strokeRect(this.x, this.y, this.width, this.height)
+                    }
+                }
+            }
+            window.onload = () => {
+                prepareCanvas()
+                let r = new Rectangle(50, 50, 300, 100, "white", null)
+                r.draw()
+            }
+            window.onresize = () => {
+                prepareCanvas()
+            }
+        </script>
+    </head>
+    <body>
+        <canvas id="canvas" width="150" height="150"></canvas>
+    </body>
+</html>
