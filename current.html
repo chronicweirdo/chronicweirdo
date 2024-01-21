@@ -7,6 +7,12 @@
 <link href="../favicon.png?" rel="shortcut icon" type="image/x-icon"/>
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400&family=Space+Mono&display=swap" rel="stylesheet">
 <style>
     :root {
     --foreground-color: #000000;
@@ -32,12 +38,26 @@
 }
 body {
     font-size: 1.3em;
+    padding-top: 2.3em;
     background-color: var(--background-color, #ffffff);
     color: var(--foreground-color, #000000);
+}
+header {
+    padding-top: .5em;
+    padding-bottom: .5em;
+    font-family: 'Space Mono', monospace;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: var(--background-color, #ffffff);
+    color: var(--foreground-color, #000000);
+    text-align: center;
+    z-index: 1000;
 }
 nav {
     padding: 1vw;
     line-height: 1.5em;
+    text-align: center;
 }
 nav a, nav span {
     padding: 0 8px 0 0;
@@ -96,8 +116,9 @@ img {
 <title>chronicweirdo</title>
 </head>
 <body>
+    <header><a id="chronicweirdo" href="index.html">chronicweirdo</a></header>
 <nav id="top">
-    <span id="chronicweirdo">chronicweirdo</span>
+    <!--span id="chronicweirdo">chronicweirdo</span-->
     <a href="#2023">2023</a>
     <a href="#2022">2022</a>
     <a href="#2021">2021</a>
