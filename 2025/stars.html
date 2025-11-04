@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <script>
+        function clear() {
+            var s = document.getElementById("star")
+            s.innerHTML = ''
+        }
+        function line(x1, y1, x2, y2) {
+            var newLine = document.createElementNS('http://www.w3.org/2000/svg','line');
+            newLine.setAttribute('id','line' + Date.now());
+            newLine.setAttribute('x1', x1);
+            newLine.setAttribute('y1', y1);
+            newLine.setAttribute('x2', x2);
+            newLine.setAttribute('y2', y2);
+            newLine.setAttribute("stroke", "black");
+            document.getElementById("star").appendChild(newLine)
+        }
+        function point(x, y) {
+            var point = document.createElementNS('http://www.w3.org/2000/svg','circle')
+            point.setAttribute('id','point' + Date.now());
+            point.setAttribute('r', 2)
+            point.setAttribute('cx', x)
+            point.setAttribute('cy', y)
+            point.setAttribute('fill', 'black')
+            document.getElementById("star").appendChild(point)
+        }
+        function getCirclePoints(cx, cy, cr, np, translation) {
+            let translation_radians = translation * (Math.PI / 180)
+            let points = []
+            for (let i = 0; i < np; i++) {
+                xi = cx + cr * Math.cos(translation_radians + (2 * Math.PI * i) / np)
+                yi = cy + cr * Math.sin(translation_radians + (2 * Math.PI * i) / np)
+                console.log(xi + " " + yi)
+                points.push([xi, yi])
+            }
+            return points
+        }
+        function starLines(points, jump) {
+            console.log("points: " + points)
+            let current = 0;
+            let total = points.length;
+            let touched = 0;
+            let pass = 0;
+            console.log("total: " + total)
+            while (touched <= total) {
+                console.log("current: " + current)
+                next = (current + jump) % total
+                /*if (next == current) {
+                    next += 1;
+                }*/
+                //console.log("next: " + next)
+                line(points[current][0], points[current][1], points[next][0], points[next][1])
+                touched += 1
+                if (current + jump >= total) {
+                    pass += 1;
+                }
+                if (current + jump >= total && total % jump == 0) {
+                    console.log("resetting current")
+                    current = pass
+                } else {
+                    current = next
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+    <svg width="200" height="200" id="star">
+    </svg>
+    <script>
+        clear()
+        //line(0, 0, 200, 200)
+        //line(0, 200, 200, 0)
+        points = getCirclePoints(100, 100, 90, 13, -90)
+        points.forEach(element => {
+            point(element[0], element[1])
+        });
+        starLines(points, 4)
+    </script>
+    <canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;"></canvas>
+    <script>
+        var c = document.getElementById("myCanvas");
+        var ctx = c.getContext("2d");
+        ctx.moveTo(0, 0);
+        ctx.lineTo(200, 100);
+        ctx.stroke();
+    </script>
+</body>
+</html>
