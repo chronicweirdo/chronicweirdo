@@ -32,60 +32,108 @@
             for (let i = 0; i < np; i++) {
                 xi = cx + cr * Math.cos(translation_radians + (2 * Math.PI * i) / np)
                 yi = cy + cr * Math.sin(translation_radians + (2 * Math.PI * i) / np)
-                console.log(xi + " " + yi)
                 points.push([xi, yi])
             }
             return points
         }
+        function getPoliDistribution(pointsNum, step) {
+            let pol = new Array(pointsNum).fill(0)
+            let res = []
+            let currentpol = []
+            let assigned = 0
+            let polNum = 1
+            while (assigned < pointsNum) {
+                let current = 0
+                while (pol[current] != 0) {
+                    current += 1
+                }
+                pol[current] = polNum
+                currentpol.push(current)
+                assigned += 1
+                current = (current + step) % pointsNum
+                while (pol[current] == 0) {
+                    pol[current] = polNum
+                    currentpol.push(current)
+                    assigned += 1
+                    current = (current + step) % pointsNum
+                }
+                polNum += 1
+                res.push(currentpol)
+                currentpol = []
+            }
+            return res
+        }
+        function getPolis(points, jump) {
+            let poliDistribution = getPoliDistribution(points.length, jump)
+            return poliDistribution.map(pdl =>
+                pdl.map(p => points[p])
+            )
+        }
         function starLines(points, jump) {
-            console.log("points: " + points)
             let current = 0;
             let total = points.length;
             let touched = 0;
             let pass = 0;
-            console.log("total: " + total)
             while (touched <= total) {
-                console.log("current: " + current)
                 next = (current + jump) % total
-                /*if (next == current) {
-                    next += 1;
-                }*/
-                //console.log("next: " + next)
                 line(points[current][0], points[current][1], points[next][0], points[next][1])
                 touched += 1
                 if (current + jump >= total) {
                     pass += 1;
                 }
-                if (current + jump >= total && total % jump == 0) {
-                    console.log("resetting current")
+                if ((current + jump >= total && total % jump == 0)
+                    || next == 0) {
                     current = pass
                 } else {
                     current = next
                 }
             }
         }
+        function closedPoli(points) {
+            for (let i = 0; i < points.length - 1; i++) {
+                line(points[i][0], points[i][1], points[i+1][0], points[i+1][1])
+            }
+            line(points[points.length-1][0], points[points.length-1][1], points[0][0], points[0][1])
+        }
+        function updateStepRange() {
+            let pointNum = +document.getElementById("pointsRange").value
+            let stepRange = document.getElementById("stepRange")
+            let step = +stepRange.value
+            stepRange.setAttribute("max", pointNum - 1)
+            if (step > pointNum-1) {
+                stepRange.value = pointNum-1
+            }
+            drawStar()
+        }
+        function drawStar() {
+            clear()
+            let pointNum = +document.getElementById("pointsRange").value
+            let step = +document.getElementById("stepRange").value
+            console.log("num: " + pointNum + " step: " + step)
+            let points = getCirclePoints(100, 100, 90, pointNum, -90)
+            let polis = getPolis(points, step)
+            //starLines(points, step)
+            for (let pi = 0; pi < polis.length; pi++) {
+                closedPoli(polis[pi])
+            }
+        }
     </script>
 </head>
 <body>
+    <form>
+        <input onchange="updateStepRange()" type="range" min="4" max="20" value="13" class="slider" id="pointsRange">
+        <input onchange="drawStar()" type="range" min="1" max="12" value="4" class="slider" id="stepRange">
+    </form>
     <svg width="200" height="200" id="star">
     </svg>
     <script>
-        clear()
-        //line(0, 0, 200, 200)
-        //line(0, 200, 200, 0)
-        points = getCirclePoints(100, 100, 90, 13, -90)
-        points.forEach(element => {
+        //clear()
+        //points = getCirclePoints(100, 100, 90, 13, -90)
+        /*points.forEach(element => {
             point(element[0], element[1])
-        });
-        starLines(points, 4)
-    </script>
-    <canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;"></canvas>
-    <script>
-        var c = document.getElementById("myCanvas");
-        var ctx = c.getContext("2d");
-        ctx.moveTo(0, 0);
-        ctx.lineTo(200, 100);
-        ctx.stroke();
+        });*/
+        //starLines(points, 4)
+        drawStar()
     </script>
 </body>
 </html>
