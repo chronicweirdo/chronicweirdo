@@ -111,6 +111,20 @@
             element.click();
             element.remove();
         }
+        function sizing() {
+            let w = document.documentElement.clientWidth
+            let h = document.documentElement.clientHeight
+            let s = w
+            if (w > h) {
+                s = h
+            }
+            s = s * 0.8
+            const svg = document.getElementById('star')
+            svg.width = s + 'px'
+            svg.height = s + 'px'
+            document.getElementById('star').setAttribute("width", s)
+            document.getElementById('star').setAttribute("height", s)
+        }
     </script>
     <style>
         :root {
@@ -118,18 +132,30 @@
             --back-color: #111111;
         }
         body {
-            background-color: var(--back-color);
+            background-color: var(--back-color);  
         }
-        input, svg, div {
+        div {
+            text-align: center;
+        }
+        input {
             display: block;
-            width: 200px;
+            width: 80vw;
             margin: auto;
             text-align: center;
             margin-bottom: 1em;
+            height: 5vh;
         }
         input[type=color] {
             display: inline-block;
-            width: 80px;
+            width: 80vw;
+            height: 5vh;
+        }
+        svg {
+            display: block;
+            width: 80vw;
+            margin: auto;
+            text-align: center;
+            margin-bottom: 1em;
         }
         line {
             stroke: var(--line-color);
@@ -137,14 +163,15 @@
     </style>
 </head>
 <body>
-    <input onchange="updateStepRange()" type="range" min="4" max="20" value="13" class="slider" id="pointsRange">
-    <input onchange="drawStar()" type="range" min="1" max="12" value="4" class="slider" id="stepRange">
     <div>
+        <input onchange="updateStepRange()" type="range" min="4" max="20" value="13" class="slider" id="pointsRange">
+        <input onchange="drawStar()" type="range" min="1" max="12" value="4" class="slider" id="stepRange">
         <input onchange="updateBackColor()" type="color" id="backColor" name="backcolor" value="#000000">
         <input onchange="updateLineColor()" type="color" id="lineColor" name="linecolor" value="#ff0000">
     </div>
-    <svg width="200" height="200" id="star" xmlns="http://www.w3.org/2000/svg"></svg>
+    <svg width="200" height="200" viewBox="0 0 200 200" id="star" xmlns="http://www.w3.org/2000/svg"></svg>
     <script>
+        sizing()
         updateStepRange()
     </script>
 </body>
