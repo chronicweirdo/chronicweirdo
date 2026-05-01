@@ -1,3 +1,25 @@
+:root {
+    --foreground-color: #000000;
+    --background-color: #ffffff;
+    --accent-color: #f884fc;
+    --text-accent-color: #6a186d;
+}
+@media (prefers-color-scheme: light) {
+    :root {
+        --foreground-color: #000000;
+        --background-color: #ffffff;
+        --accent-color: #f884fc;
+        --text-accent-color: #6a186d;
+    }
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+        --foreground-color: #ffffff;
+        --background-color: #000000;
+        --accent-color: #6a186d;
+        --text-accent-color: #f884fc;
+    }
+}
 * {
     font-family: 'Merriweather', serif;
 }
@@ -5,4 +27,22 @@ body {
     font-size: 1.3em;
     background-color: var(--background-color, #ffffff);
     color: var(--foreground-color, #000000);
+    padding: 1em;
+}
+
+a {
+    color: var(--foreground-color, #000000);
+}
+
+p, h1, h2, h3, h4 {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+h3 {
+    background-color: var(--accent-color, #f884fc);
+    color: var(--foreground-color, #000000);
+    padding: .5rem;
+}
+h4 {
+    color: var(--text-accent-color, #f884fc);
 }
