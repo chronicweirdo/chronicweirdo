@@ -25,6 +25,23 @@ Major Arcana:
 - [XX Judgement](#judgement)
 - [XXI The World](#the-world)
 
+Minor Arcana - Cups:
+
+- [Ace of Cups](#ace-of-cups)
+- [Two of Cups](#two-of-cups)
+- [Three of Cups](#three-of-cups)
+- [Four of Cups](#four-of-cups)
+- [Five of Cups](#five-of-cups)
+- [Six of Cups](#six-of-cups)
+- [Seven of Cups](#seven-of-cups)
+- [Eight of Cups](#eight-of-cups)
+- [Nine of Cups](#nine-of-cups)
+- [Ten of Cups](#ten-of-cups)
+- [Page of Cups](#page-of-cups)
+- [Knight of Cups](#knight-of-cups)
+- [Queen of Cups](#queen-of-cups)
+- [King of Cups](#king-of-cups)
+
 ## Major Arcana
 
 ### The Fool
@@ -790,6 +807,454 @@ The World Reversed can also indicate a time when you are close to finishing a pr
 Sometimes, The World Reversed can mean a frustrating delay in completing your projects. You might miss an essential piece, and you won’t find closure until it gets worked out. You may need to get more creative to figure out how to touch the finish line.
 
 ## Minor Arcana: Cups
+
+### Ace of Cups
+
+**UPRIGHT**: Love, new relationships, compassion, creativity.
+
+**REVERSED**: Self-love, intuition, repressed emotions.
+
+#### Ace of Cups Description
+
+The Ace of Cups shows a chalice overflowing with five streams of water. The cup represents the vessel of your subconscious mind; the five streams are your five senses and the abundant emotion and intuition flowing from within you. The hand holding the cup is sliding out of the clouds, a symbol of your awareness of spiritual energy and influence. Below the hand is a vast sea covered with lotus blossoms, signifying the awakening of the human spirit. A dove descends towards the cup – a symbol of Divine love flowing through the subconscious mind to conscious awareness.
+
+#### Ace of Cups Upright
+
+With the Ace of Cups, Divine love and compassion are pouring through you. You are a vessel for deep, spiritual love from the Universe, and you can’t help but let that love flow through you and into the world. You receive love, you give love, you ARE love. Your heart overflows.
+
+Now is the perfect time for you to open your heart and experience the rich flow of emotion available to you right now. You are more receptive to creative opportunities, loving connections, and deep compassion for other living beings. As with all Aces in the Tarot, this card comes as an invitation. Will you take it? Will you say “Yes!” to Divine love and compassion, and will you run with it? The Ace of Cups carries the potential for spiritual and emotional fulfilment – but only if you embrace it with an open heart.
+
+This card often appears in Tarot readings when you are open to creative expression, especially when you can allow your emotions to shine through your endeavours. You may be inspired to start a new project, take an art class or even engage in interpretative dance. At this point in your life, you are comfortable with who you are and happily express this part of yourself to others. You see fresh potential in allowing your creative juices to flow. Let your imagination and talent unfurl to new possibilities.
+
+The Ace of Cups often represents a new relationship, be it a friendship, a new family connection or blossoming romance. It is exciting – fluttery even – and you are so glad to have met someone with whom you can share a special connection. Give yourself permission to open yourself to giving and receiving unconditional love, and you will notice that affection flows effortlessly when you are in this loving state of mind. The water in the card reflects the flow of emotion, and thus, the Ace of Cups suggests that the enthusiasm you two generate will get you fired up about yourself and life.
+
+There is a generous, compassionate side to the Ace of Cups, too. See this as a time of giving (not taking) and make the most of any opportunity to help others. You have the power to share your inner radiance and positive energy, bringing great happiness to those around you. And you will find that the more you give, the more you receive on multiple levels.
+
+Finally, the Ace of Cups can signify conception, pregnancy or birth. Look to the other cards in the reading for further confirmation, such as the Empress, Page of Cups or Four of Wands. On a more metaphorical level, it may mean the birth of a new idea or a spark of inspiration – something in which you can invest a great deal of loving and creative energy.
+
+#### Ace of Cups Reversed
+
+Yes, this is the self-love card of the Tarot deck! In the upright position, the Ace of Cups is about love for all things. In the reversed position, it speaks to love for oneself. So, before you send your love out to the world, send love to yourself, filling up every cell in your body with Divine love and happiness. And the more you do this, the more you can exist in flow with life itself.
+
+The reversed Ace of Cups is a sign that you are in connection with your subconscious mind and attuned to your intuition. You are exploring this part of yourself privately right now, and discovering how you can bring more intuition and flow into your life.
+
+On the flipside, the Ace of Cups reversed may be a sign that you are repressing your emotions, not wanting to express yourself fully to the outside world. You have your reasons for keeping your feelings close and not wanting others to know what’s going on inside. You may feel embarrassed or afraid of what might happen if you were to express your emotions. You may worry that if you allow your feelings to flow, they might turn into an overwhelming flood that can’t be switched off. However, be careful that you do not create an internal blockage by repressing how you feel. If you are not ready to share your emotions – that’s okay! You can find ways to release them privately, through journaling, creative projects, movement, or screaming your frustration and anger out in the car.
+
+In a relationship reading, the reversed Ace of Cups can show that you are withholding your emotions for fear of getting hurt. You know that healthy relationships need trust to grow, but, for the time being, you may need to retreat and find balance with yourself on why you are holding back.
+
+### Two of Cups
+
+**UPRIGHT**: Unified love, partnership, mutual attraction
+
+**REVERSED**: Self-love, break-ups, disharmony, distrust.
+
+#### Two of Cups Description
+
+The Two of Cups shows a young man and woman, exchanging cups and pledging their love for one another. Above them floats the Caduceus of Hermes – a winged staff with two snakes wrapped around it – the ancient symbol of commerce, trade, and exchange. At the top of the caduceus is a lion’s head, signifying passion and fire energy and suggesting that there may be a lot of fiery, sexual energy between these two people.
+
+#### Two of Cups Upright
+
+If the Ace of Cups represents the flow of love from within, the Two of Cups is the flow of love between two people. With this card, you are creating deep connections and partnerships, based on shared values, compassion, and unconditional love. While these relationships are still in the early stages, they have the potential to grow and develop into something deeply fulfilling and rewarding in the long-term. You have mutual respect and appreciation for one another, and together you reach higher planes of consciousness and understanding.
+
+When the Two of Cups card appears in a Tarot reading, you may enter a new partnership, perhaps with a lover, friend or business partner. You are both focused on creating a relationship that is mutually beneficial, one that will create a win-win situation for both parties. You see ‘eye to eye’ and appreciate what each other can bring to the table.
+
+In a romantic relationship, the Two of Cups shows a blossoming new union based on mutual attraction. There is both a physical and soul connection that leaves you giddy and weak at the knees. You bring out the best in each other and lift each other to even higher levels of potential. The exchange of emotion is heartfelt, and you are both willing to do whatever it takes to support one another. In some cases, the Two of Cups can refer to a marriage, proposal or engagement.
+
+In a business partnership, the Two of Cups is a sign you are both on the same wavelength and share a similar vision for the venture you are creating together. You may not have the same skills as each other, but you create a beautiful synergy when you work together. For example, one of you may be talented at sales and marketing while the other excels at managing the business’s operations. A partnership like this – built on trust, harmony, and mutual respect – is likely to succeed so long as you continue to communicate with one another and focus on your shared alignment. (Though, it never hurts to have a contract or agreement in place to ensure this dreamy business partnership continues this way.)
+
+#### Two of Cups Reversed
+
+At its essence, the reversed Two of Cups is about self-love. Love, in any form, starts with love for yourself. When you love yourself unconditionally, you accept and appreciate who you are, and you respect and honour the most authentic version of yourself. You welcome a life of happiness because you fundamentally believe you deserve it (and you’re right!). When you come from this place of self-love, self-acceptance, and self-respect, you will have more fulfilling, loving relationships with others. It all starts with self-love.
+
+Here’s the thing: if you don’t love yourself, you’ll end up projecting that lack onto others, becoming clingy and attached, attracting the wrong kinds of relationships to you, or worse, ending up in harmful situations. Here is the shadow side of the Two of Cups reversed. So, before you seek out your Prince Charming or tie the knot with your lifetime love, make sure you’ve filled your cup with all that beautiful love juice for yourself first. To find fulfilment in your life and relationships, find the love within you and give it to yourself. No other person, material possession, or accomplishment can do it for you.
+
+The Two of Cups reversed can sometimes signal a break-up or a falling out. You are out of sync with each other and don‘t share the same emotional connection you did in the past. You may notice a lack of trust and being open with one another is proving difficult. Communication may be restricted or withheld, and the energy flow between you stifled. To turn this situation around, open up, share, and hold a safe space for one another to express your feelings. Even with one conversation, you can shift the energy flow dramatically.
+
+### Three of Cups
+
+**UPRIGHT**: Celebration, friendship, creativity, collaborations.
+
+**REVERSED**: Independence, alone time, hardcore partying, ‘three’s a crowd’.
+
+#### Three of Cups Description
+
+In the Three of Cups, three young women are dancing with each other in a circle, raising their cups high in the air in a toast of joy and celebration. They look to one another with appreciation, honour and respect, and are bound by their emotional connection and friendship. There is a sense of lifting each other up and celebrating each woman’s unique contribution to the group. The ground is layered with flowers, fruit and a pumpkin, symbolising the celebration of an abundant harvest and the goodness in life.
+
+#### Three of Cups Upright
+
+The Three of Cups is a card of celebration, friendship, sisterhood, and creative collaborations. Your friends and family are here to support you and lift you up to even higher levels of success. Celebrate with them and enjoy their camaraderie.
+
+This card reminds me of the wonderful connection shared by the four female characters in Sex and the City—Carrie, Charlotte, Samantha and Miranda. They stand by each other through thick and thin, and they are always there for one another as they make their way through relationships, careers and different life journeys. Nearly every episode shows them enjoying each other’s company, often over a cosmopolitan at a swanky Manhattan restaurant. You get the feeling that these girls will be friends forever and know they can always count on each other for support and compassion.
+
+When the Three of Cups appears in a Tarot reading, you are encouraged to gather with your closest friends and have a good time together, talking, laughing, sharing and creating. Together, you give and receive the love, support and compassion each of you needs from one another. You may be inspired to host a girls’ night out, a weekend away, or start a women’s circle so you can join forces with like-minded people. The energy is high, and you’re here to do amazing things together.
+
+The Three of Cups often indicates a very sociable period – perhaps a birthday, a wedding, the holiday season or a vacation with friends. See it as your opportunity to let your hair down and forget about your day-to-day commitments and obligations for a while. Instead, spend quality time with friends and family and enjoy yourself!
+
+This card also invites you to collaborate with others on a creative project and inspire one another to reach new heights. Collectively, you are working towards a common goal for the greater good of others, and by reaching out to others and banding together, you can achieve a great deal by sharing your positive energy and passion with the wider community. The Three of Cups is a very creative card, suggesting that you may pursue a creative outlet within a group environment, such as an art class or a dance class. This is a great way to connect with others and to access your creative abilities.
+
+#### Three of Cups Reversed
+
+While the upright Three of Cups is a card of friendship and social events, the reversal of this card suggests that you would prefer to go it alone right now. You may have recently spent a lot of time with others and now just need some alone time. Or perhaps you are no longer ‘clicking’ with some of your friends or a social group and are ready to move on. Or sometimes, you might find yourself on the ‘outer’, excluded from other people’s circles and feeling isolated and alone. Honour your desire to step out of the social scene for a while and enjoy this time by yourself so you can get clear on who you most want to connect with in the future.
+
+If you are involved in a creative project, now may be the time to work independently rather than in a group. The reversed Three of Cups can show that your creativity is being stifled, or you are being forced to conform to the group. You may be part of a tight-knit club that does things a certain way and is not open to innovation or alternative approaches. You need to consider whether you are willing to sacrifice your creative abilities in favour of the group’s desires.
+
+If you are experiencing high levels of stress or you’ve been working hard, the reversed Three of Cups appears as a message to take some time off to recuperate and gain the support of friends before returning to reality. You may have been working so hard that you’ve lost your connection with your friends and family. Now is the time to reconnect and reprioritise their love and support. See this card as a reminder to reconnect with the people you care about, let loose and have a good time, without worrying too much about the consequences.
+
+On the other hand, the Three of Cups reversed may signify overindulgence. You may be out most nights partying, doing drugs or drinking heavily when what you need is balance in your life. Be mindful about the longer-term consequences of your actions and ask yourself whether this lifestyle is sustainable. Take a break from the social scene to regroup and get some much-needed sleep.
+
+When it comes to relationship readings, the reversed Three of Cups can sometimes appear when a third person is involved. You may be involved with someone who is already in a relationship with someone else, whether you know it or not. Look to the other cards for more detail. The Seven of Swords signals a betrayal of trust and possible cheating. If you see the Five of Swords, you likely already know about the other relationship, but you are trying to ignore that it exists. If you see the Devil, consider the nature of the relationship as it is likely to be hedonistic and unhealthy to those involved. It is unlikely that this situation is sustainable as ‘three’s a crowd,’ and something has to give.
+
+### Four of Cups
+
+**UPRIGHT**: Meditation, contemplation, apathy, reevaluation.
+
+**REVERSED**: Retreat, withdrawal, checking in for alignment.
+
+#### Four of Cups Description
+
+The Four of Cups shows a young man sitting under a tree with his arms crossed, deep in contemplation and meditation. He is so engrossed in his thoughts that he does not seem to notice the outstretched arm offering him a cup. A further three cups stand at his feet, but again, he doesn’t seem to notice or care about these new opportunities either.
+
+#### Four of Cups Upright
+
+When the Four of Cups turns up in a Tarot reading, new invitations and opportunities are flowing to you, but for now, you’re saying “no” and turning them away. Perhaps the prospects do not interest you, or your cup is full, or you already have too much on your plate. Use your discernment to decide on what is truly important to you, and don’t be afraid to decline new projects that don’t align with your future path.
+
+The Four of Cups can also indicate a time when you are turning your attention and your energy internally, to realign to this new phase of your life. You know that you need to be standing on terra firma before you can decide your next steps. While you may need to decline some very alluring opportunities, you do so knowing you will be in a better position to say ‘yes’ to the opportunities that are a better fit for you. You are creating the space within yourself so that you are ready to accept new opportunities later and give them the best possibility of success. Use this time for inward reflection, grounding, and contemplation before accepting the next ‘big thing’.
+
+Sometimes this card brings the message, ‘Not now, but maybe later.’ While the man in the Four of Cups doesn’t accept the cups offered to him, he doesn’t wholly reject them either. You may be waiting for a sign or further information before taking an invitation or new project. Check in emotionally and spiritually before you say ‘yes’, to make sure the opportunity is a good fit and that you can commit to it in the long-term.
+
+The Four of Cups can appear when you are bored or dissatisfied with your everyday life. You may feel disengaged, apathetic or unmotivated – maybe life has become dull. The Four of Cups invites you to bring your attention inward and re-evaluate your situation to find a deeper meaning in what you do. You may have found yourself disconnected from your emotional self and inner truth, and need to re-establish this connection so you can get a greater sense of purpose and direction. Now could be an excellent time to switch off from the distractions of the external world – social media, the news and other people’s stories – to allow you the space to listen to your own voice and inner knowing and gain more clarity.
+
+The Four of Cups may show that you have shut yourself off from new opportunities because you have been hurt or rejected before. The man in this card has his arms crossed as if protecting himself and closing off from the external world. You may have had a relationship end in heartbreak or experienced failure in your career and now want to avoid getting in the same predicament again. However, you may miss out on new opportunities that are an excellent fit for you. Check in on a soul level and question whether shutting yourself down is the best course of action, or if it’s time to open up to the possibilities available to you.
+
+#### Four of Cups Reversed
+
+The Four of Cups reversed reflects a period of introspection and withdrawal. You are retreating into your own inner world so you can concentrate on what is integral to you and what grounds you. Others may want to spend time with you or invite you out, but you’d prefer to stay in and read a good book or meditate in your sacred space. Just be careful that you don’t shut off your friends and loved ones or appear disinterested in their lives. Let them know you need some alone time and that you’ll reach out again when you’re ready to re-emerge.
+
+If you are feeling withdrawn, don’t force yourself to go out. Just ‘be’ in this space, and when you’re ready, start to re-integrate with the world around you. You won’t be a ‘hermit’ forever – it’s just a temporary state of being. Appreciate it and make the most of it.
+
+You may use this time of introspection to check in with your inner self to make sure your upcoming projects and endeavours are a good fit. Instead of saying ‘yes’ straight away, step back and assess the situation first. That said, be careful that you don’t lose this opportunity as you wait for an answer. Check for an expiry date or deadline and be sure not to miss it.
+
+At times the Four of Cups reversed suggests that you feel uninspired, disillusioned, or disappointed with the world around you. Everything seems hard, and instead of dealing with it head on, you’re choosing to retreat. You may avoid the challenges of the external world hoping that if you step out, the problems will go away. But let’s be real: they will need your attention eventually.
+
+The Four of Cups reversed might mean you are reluctant to open your heart to someone or to express your true feelings, choosing to withdraw and isolate yourself from the other person instead. Be mindful of how this could impact those who are close to you and consider their needs along with your own.
+
+### Five of Cups
+
+**UPRIGHT**: Regret, failure, disappointment, pessimism.
+
+**REVERSED**: Personal setbacks, self-forgiveness, moving on.
+
+#### Five of Cups Description
+
+The Five of Cups shows a man in a long black cloak looking down on three cups that have been knocked over – symbolic of his disappointments and failures. Behind him stand two cups representing new opportunities and potential, but because he is so fixed on his losses (the over-turned cups), he misses the opportunities available to him.
+
+In the background, a bridge crosses a large, flowing river and leads to the security of the castle or home on the opposite side of the riverbank – if only he can move on from the over-turned cups. The bridge is a message to ‘find a way through’.
+
+#### Five of Cups Upright
+
+The Five of Cups often appears in a Tarot reading when a situation hasn’t turned out the way you expected, and you are sad, regretful, and disappointed. Instead of moving on with your life, you are choosing to wallow in your self-pity. All you can focus on right now is what went wrong and how you failed. Sure, feel the feels, but set yourself a time limit for your self-pity and then pull yourself together and move on.
+
+The Five of Cups suggests you’re stuck in the past and can’t let go. Old wounds and bitter memories flood your mind as you think about what happened. You may blame yourself or believe you’re a victim of life’s circumstances. These negative emotions are holding you back from your fullest potential – release them so you can move on and create positive change.
+
+Forgiveness is vital with the Five of Cups, both of yourself and others. If someone has disappointed you, find it within your heart to forgive that person, releasing yourself from the disappointment. And if you are frustrated with yourself, know that you did the best you could under the circumstances and have now learned from your mistakes.
+
+Remember, too, that hindsight is much clearer than foresight and wisdom in the present moment comes from the mistakes of the past. Reflect on what led you to this point and understand what valuable lessons you can take from the experience. Even when things go pear-shaped, you can always take away something positive by reflecting on the lessons learned.
+
+The Five of Cups shows you that, even though things aren’t going your way, new opportunities and possibilities are waiting for you – but only when you are ready. It’s time to shift your mindset and focus on what can go right from this point onwards. Be open to the brighter side of life and know many blessings are in disguise right now. Instead of giving in to a ‘glass is half empty’ perspective, look at it as the ‘glass is half full’.
+
+#### Five of Cups Reversed
+
+The reversed Five of Cups suggests that you have recently suffered a personal setback or disappointment. You may worry that you are a ‘failure’ and don’t want to let others know you’ve taken the wrong path. Or you may not be ready to admit it to others and are choosing to keep your feelings to yourself instead. However, now might be the time to open up. People around you may not see how much pain you’re in right now, so don’t be afraid to ask for help or talk with someone you trust; you may find it lessens the emotional pain. You’ll find that by sharing your feelings with others, you’ll realise that you can overcome this temporary setback.
+
+If you feel guilty or ashamed about what happened, blaming yourself for the mistakes you made, the reversed Five of Cups encourages you to forgive yourself and move on. Know that you did the best you could. This may be the perfect opportunity for you to practice the Hawaiian forgiveness ritual, Ho’oponopono, where you say sorry, ask for forgiveness, express gratitude and move into love.
+
+When this card turns up in a Tarot reading, you are realising the full implications of the past, and you appreciate the lessons learned from the experience. You may even recognise the value of the painful experience in the broader scheme of things.
+
+The Five of Cups reversed serves as a reminder that you cannot undo the past – what has happened, has happened. It is now time to let go of what no longer serves you emotionally, and open to the new opportunities available to you. You are discovering how to be open and take risks again, especially those of the heart. If you have suffered setbacks, you will find that you will be more hopeful about the future and engage with the exciting, creative side of life again.
+
+### Six of Cups
+
+**UPRIGHT**: Revisiting the past, childhood memories, innocence, joy.
+
+**REVERSED**: Living in the past, forgiveness, lacking playfulness.
+
+#### Six of Cups Description
+
+In the Six of Cups, a young boy leans down and passes a cup filled with flowers to a younger girl. The girl looks up to the boy with love and respect as he offers the flowers to her. Love, harmony and co-operation – all key elements of the Six of Cups – shine through this gentle act. The young children also represent childhood memories.
+
+In the background, an older man walks away in the distance, as if to say you no longer need to worry about adult issues; just enjoy the moment of being young, innocent and free again. The children also appear to be standing in the courtyard of a large home, symbolising comfort, safety and security. In the foreground stand four more cups filled with flowers, and a fifth cup sits on a pedestal behind the boy.
+
+#### Six of Cups Upright
+
+The Six of Cups is a card that takes you back to the happy memories from your past, whether as a child, teenager or young adult. You may simply be revisiting those memories in your mind, or you may travel back to your childhood home or reconnect with your childhood friends. You could go to a high school reunion or reconnect with an old buddy. A teenage sweetheart or past lover may turn up again. These connections bring you a sense of joy and happiness as you reminisce over all the fun times you had together. Take this occasion to explore whether you still have a lot in common and if you wish to continue the relationship now.
+
+The Six of Cups often shows an increased level of harmony and cooperation in your relationships. You are ready to give and receive, without expectation. You are also willing to give each other the benefit of the doubt, having moved on from the challenging emotions of the Five of Cups. It’s time to turn over a new leaf and start afresh from a more positive place.
+
+The Six of Cups invites you to get in touch with your inner child and experience the fun, freedom and innocence that comes with being a young child again. You might like to sit down with an adult colouring book, dance like no-one is watching you, play your favourite childhood games or spend more time around (happy) children. When you give yourself permission to be playful, spontaneous, and creative, you connect more with your authentic self and your intuition.
+
+The Six of Cups can also refer to children in your life. It can suggest a pregnancy (perhaps twins), a birth and siblings who play nicely together. It may also be a sign that you are about to spend more time with young children, playing, laughing and learning together. Children are often here to teach you something about yourself and can serve as great advisors. Kids also set good examples for how to stay present, open-minded and curious. They see the world as a magical place and their hearts are open to the myriad of pleasures available to them.
+
+#### Six of Cups Reversed
+
+When the reversed Six of Cups appears in a reading, ask whether you’re clinging to the past and losing touch with the present. Reflection and nostalgia may bring up positive or negative feelings, but either way, when you find yourself wishing for ‘how things used to be’ and not living in the present, you miss out on the opportunities right in front of you. It’s OK to indulge a little in reminiscing about the past, as long as you understand that true and lasting change can only happen in the present moment. See the Six of Cups as an opportunity to make peace with the past so you can focus on the now. Learn from your mistakes, forgive others and yourself, and acknowledge that life is continually evolving. Let go of the past and bring your attention firmly into the present.
+
+The reversed Six of Cups may also be a sign you have lost touch with your inner child and life has become boring, repetitive, and ‘stale’. You might be closed off from new opportunities and gifts from the Universe, simply because you are taking on too much of the responsibility and heaviness that come with ‘adulting’. Open yourself to a curious mind and to have fun as though you were a child again. If you find yourself saying, “Oh but I don’t have time!” then make time!! Play! Have some time out. Go jump in puddles or build sand castles.
+
+The Six of Cups reversed might be a sign that you are taking a private walk down memory lane. Perhaps you are thinking about an ex, or you’ve even started seeing each other again, but you want to keep this information quiet. You may be reluctant to let others know that you are revisiting these old memories or relationships, in fear that they may judge you.
+
+### Seven of Cups
+
+**UPRIGHT**: Opportunities, choices, wishful thinking, illusion.
+
+**REVERSED**: Alignment, personal values, overwhelmed by choices.
+
+#### Seven of Cups Description
+
+In the Seven of Cups, a man stands before seven cups filled with various gifts. Some cups bear desirable gifts such as jewels and a wreath of victory. But others hold gifts that are not gifts at all; instead, they are curses, such as the snake or dragon. The clouds and the cups symbolise the man’s wishes and dreams, and the different gifts inside suggest that you need to be careful what you wish for as not everything is as it seems. Choices need to be made, but in doing so, you must go beyond illusion and allure, and instead focus on what’s right for you.
+
+#### Seven of Cups Upright
+
+The Seven of Cups is a card of new opportunities, choices, and at times, illusion. When the Seven of Cups appears in a Tarot reading, you have many options and opportunities from which you can choose. But be careful! You are prone to illusion and unrealistic ideals. An opportunity with promises of more money, more fame, or more power may sound appealing, but as you look deeper into what is on offer, you may realise it’s not everything it’s cracked up to be. Your ego may pull you in a specific direction, but it’s important you check in with your Higher Self first. Evaluate your options and dig below the surface to discover what’s involved with each choice.
+
+Often, the Seven of Cups can be a sign of wishful thinking and projecting into the future about what you would like to create, rather than taking action here in the present to make it happen. For example, you may wish for a fitter, more healthy body, until it’s time to get out there and exercise. Or you might wish for a successful business fuelled by passive income, but you’re not ready and willing to put in the hard work now to enjoy the fruits of your labour later. If you spend most of your time wishing but not doing the work, then it’s time to choose just one thing and make it happen.
+
+You may find that your ideas are not grounded in reality. Your plans might sound fabulous in your imagination, but when it comes to implementing them, you may realise they do not work in the real world.
+
+The Seven of Cups may be a sign of ‘shiny object syndrome’, where you keep finding the ‘next big thing’ but fail to see any of those new opportunities through to the end. When you are constantly in the idea phase, you miss the chance to bring your designs into fruition. Again, now is a time to focus on the one thing that will move you closer to your goal; resist the temptation to get side-tracked with other ideas as they arise. If need be, note your ideas as they come up, but stay focused on the one thing you’re doing.
+
+This card is inviting you to move out of the ideas and options phase and choose. Each will have its pros and cons – it’s up to you to make sure that the option you select is in alignment with your purpose and your Highest Good – even if you feel somewhat paralysed by the options available to you.
+
+### Eight of Cups
+
+**UPRIGHT**: Disappointment, abandonment, withdrawal, escapism.
+
+**REVERSED**: Trying one more time, indecision, aimless drifting, walking away.
+
+#### Eight of Cups Description
+
+In the Eight of Cups, a man walks away from the eight cups standing in the foreground. The cups are arranged in such a way that it looks like one is missing, a sign that emotional fulfilment and wholeness is lacking. The man has turned his back on these cups with a sense of loss and disappointment and shuffles away into the mountains. A nearby river symbolises his emotions, and the mountains represent the awareness that this will not be an easy journey (though it will be necessary for true long-term happiness). The moon in the night’s sky illuminates the path ahead – the man is leaving in the dead of night hoping to go unnoticed, suggesting that there may be a level of escape or avoidance in this card.
+
+#### Eight of Cups Upright
+
+When the Eight of Cups shows up in a Tarot reading, you may feel compelled to walk away from a disappointing situation. It could mean turning your back on an unfulfilling relationship, job, career path, living arrangement or creative project that was once a source of great happiness to you but now only brings you pain. You have invested yourself emotionally but, despite your best efforts, are disappointed; it hasn’t turned out the way you had expected it to, and you realise that you are no longer getting anything out of this situation. Now, the only choice is to put it behind you and move on with your life, even if it brings you sadness as you say goodbye.
+
+The Eight of Cups suggests you sense that something is missing, particularly on an emotional or spiritual level, and instead of waiting around for things to get better, you know you need to leave that unfulfilling situation. It may not make sense to others because on the face, it looks as if you have everything you had wished for – but, deep down, you know it’s not serving your Highest Good, and it’s time for you to let it go and move on.
+
+The Eight of Cups can be a sign that you are trying to escape a problematic emotional situation or avoiding some major psychological issues and concerns. The Cups in the foreground represent emotional issues that remain real and present in your life. Yet you are trying to pretend as if they no longer exist, refusing to deal with them. You may repress your emotions or refuse to have open conversations with others about what’s happening, instead preferring to pretend as if everything is okay, or avoiding the scene altogether.
+
+The Eight of Cups invites you to ask yourself what brings you joy, contentment and fulfilment on a deeper level. Without it, you might pursue goals that fail to give you the satisfaction you’re seeking. For example, you may think being in a long-term relationship is what you want, but when you manifest it, you realise that it’s not just the long-term relationship you want but a deep soul connection with someone. If that’s not there, then the relationship will not fulfil your needs no matter how long you stay together. So, if you find yourself repeatedly in these Eight of Cups situations where you have no choice but to walk away, spend time exploring what will bring you true happiness and realign your goals with your values.
+
+#### Eight of Cups Reversed
+
+The reversed Eight of Cups raises the question, “Do I stay or do I go?” You may be caught between walking away from a disappointing situation or trying one last time to make things better. But the real question is, ‘Can the circumstances improve, or is it a lost cause?’ Check in with your intuition to understand whether you should give this situation one more chance, or if you should release and let go.
+
+If the reversed Eight of Cups is paired with more passive cards such as the Hanged Man or the Four of Swords, then it may be a sign that you wish to try one more time. However, if this card couples with a more active card such as the Eight of Wands or Chariot, it may be time to move on and pursue a different path.
+
+The reversed Eight of Cups invites you to listen to your heart about your next course of action. Others may have an opinion, but it comes down to what’s important to you. Only you know whether this situation is serving you and if there is hope for the future. Be mindful of what you want and then check in to see if this move is in alignment with your goals and dreams.
+
+At times, the reversed Eight of Cups can show that you are drifting from one place to the next because you never feel satisfied with staying in one place. “The grass is always greener on the other side.” If this resonates, ask yourself what makes you happy and how you can design your life in alignment with your deepest contentment.
+
+### Nine of Cups
+
+**UPRIGHT**: Contentment, satisfaction, gratitude, wish come true.
+
+**REVERSED**: Inner happiness, materialism, dissatisfaction, indulgence.
+
+#### None of Cups Description
+
+In the Nine of Cups, a man sits on a wooden bench. He is comfortable, but not too comfortable (you wouldn’t want to sit on that wooden bench all day!). His arms are crossed, and he has a smile on his face, expressing contentment and satisfaction. Behind him is a curved structure draped in blue material, with nine golden cups arranged in an arch. The cups represent emotional fulfilment after you carry out your deepest desires.
+
+#### None of Cups Upright
+
+You know those moments when you glance around and feel your heart overflowing with love and appreciation for everything you have created in your life? That’s what the Nine of Cups is about: emotional fulfilment, happiness and contentment. When this card appears in a Tarot reading, you are content in all aspects of your life – relationships, work, lifestyle, well-being and more. You are basking in the abundance of life and experiencing your emotions with such intensity and pleasure.
+
+This is why the Nine of Cups is often called the wish card. It comes as a sign that the planets aligned and you have everything you wished for. You could not be happier! If you made your wish and are patiently waiting for it to come to fruition, then this card is an excellent omen that it will soon be granted.
+
+The Nine of Cups is an invitation to splurge, indulge and enjoy life’s pleasures. This includes enjoying good food and wine, appreciating the arts, making love, relaxing in a luxurious resort or experiencing beauty. Live in the moment and give yourself permission to indulge temporarily without any guilt about the possible negative consequences of such pleasure.
+
+When you see the Nine of Cups in a reading, remember to count your blessings and express gratitude for what you have. Start or end every day by creating a mental list of the three things for which you are most grateful. Over time, you will intensify your sense of contentment and your ability to attract what you wish for – it is the Law of Attraction. If you are struggling to find the positive side of life, then expressing gratitude will help you see that you have a lot to be glad about.
+
+One thing to keep in mind with the Nine of Cups is that he is sitting on a wooden bench that is comfortable for only a limited period. Realise that contentment and fulfilment, too, are only temporary as everything is always in a state of change. That’s why it is so important to appreciate what you have now and cherish it because it may disappear later or you may need to adjust and adapt.
+
+#### Nine of Cups Reversed
+
+Even when it appears that you have everything you ever dreamed of, it can still feel like something is missing deep down. Have you pursued material gain at the expense of your spiritual growth or emotional fulfilment? For example, you might own the most expensive home or car on the block, but you never see your friends and family and are pretty miserable. This is the essence of the reversed Nine of Cups, and when it emerges in a Tarot reading, it asks you to reconsider what you’re wishing for and align it with your Highest Good. You may have lost touch with what’s important to you, instead favouring the ego and chasing what will impress others.
+
+The reversed Nine of Cups is a sign that instead of looking outside yourself for your happiness, you should search within. Success and happiness mean different things to different people. So, instead of doing what you think will make other people happy, do what will make you happy. Ask yourself, ‘What does success look like to me? And how will I know when I am successful?’ If your outside world is not bringing contentment, change your definition of success.
+
+Sometimes, the reversed Nine of Cups suggests that you are frustrated that your wishes have not yet come true. Your expectations may be unrealistic, or you may not be actively pursuing your dreams, hoping that they will manifest with little input or action from you. You may have chosen goals that are not satisfying to you, and if so, it’s best to let them fall by the wayside. Now is the time to reconnect with your goals and dreams and recommit to bringing them to fruition. You may need to tweak your goals to keep them in full alignment with your personal values. And you may need to be more proactive in creating an action plan to see your goals come to fruition.
+
+The Nine of Cups reversed serves as a reminder not to over-indulge at the expense of your health and well-being. You may be prone to overdoing it on food, alcohol, drugs, partying or spending. Keep everything in moderation and focus on the long-term consequences of your actions, even if they bring short-term pleasure.
+
+### Ten of Cups
+
+**UPRIGHT**: Divine love, blissful relationships, harmony, alignment.
+
+**REVERSED**: Disconnection, misaligned values, struggling relationships.
+
+#### Ten of Cups Description
+
+On the Ten of Cups, a loving couple stands together, arms outstretched, as their two children play nearby. They look towards their home on the hill and a beautiful rainbow in the sky filled with ten cups. These two have true, everlasting love and have everything they could ever wish for – the home, the kids, and most importantly, fulfilling love – and they share this bond with the people around them.
+
+The family home symbolises stability and comfort, while the grassy hills signify fertility and the river marks the flow of emotion. The rainbow signals the end of difficult times and is a sign from the Divine that everything will be okay. The idyllic scene is one of true emotional fulfilment and Divine love.
+
+#### Ten of Cups Upright
+
+The Ten of Cups embodies happiness, joy, and emotional contentment, particularly in your relationships and family. You have created an abundance of love and happiness in your life, and you now share this love with others, expanding your heart even more. This card often appears when you are surrounded by your loved ones with whom you share a powerful and deep connection. You appreciate and support one another, and together, you help each other reach your highest potential. It brings you so much joy to see your loved ones succeed and live happy lives.
+
+The Ten of Cups is the ‘happy family’ card, suggesting that your family relationships are harmonious and loving right now. No one is fighting or causing any tension; all family members are getting along with each other and sharing in the love and happiness that surrounds you. This card may appear in a reading when you are spending more time with family, perhaps on a holiday, reunion or event, where you can rest and relax together, creating fun and happy family memories and strong bonds.
+
+The Ten of Cups is a positive card for romantic relationships and may indicate either a new and blissful relationship or a long-term commitment, such as engagement, marriage or starting a family together. You share an everlasting love and may believe that you are soul mates destined to be with one another.
+
+When the Ten of Cups pops up in a Tarot reading, you have a sense of wholeness, completion, and alignment in your relationships with others. You are experiencing an idyllic state of peace, harmony and love where your dreams and wishes have come true. Take a moment to step back and appreciate everything you accomplished. You created a life of connection and bliss by following your heart and trusting your intuition.
+
+The Ten of Cups encourages you to follow your heart and trust your intuition to lead you to the opportunities aligned with your Highest Good. Your feelings and emotions will guide you. When something feels fantastic, do more of it; and when something doesn’t feel right, do less of it. Allow your inner guidance to lead the way. Seek out opportunities that fulfil you and align with your personal values instead of following the path that others expect you to take.
+
+#### Ten of Cups Reversed
+
+When the reversed Ten of Cups card appears in a Tarot reading, you are seeking greater harmony and connection in your relationships. In your mind, you had wished for a beautiful, harmonious relationship, but in reality, you feel disconnected and disengaged from your loved one. It may seem as if something is missing, and you’re struggling to communicate honestly, empathise, and engage with one another. Each time you try to connect, something goes wrong, and you end up with even more distance between you. You may have unrealistic expectations of the relationship: that everything will be perfect and rosy every minute you are together. If this resonates, then realign your expectations and realise that every relationship has its ups and downs. Or, you may no longer be a fit for each other, in which case you may consider leaving.
+
+The Ten of Cups invites you to seek out common ground with your loved ones and rebuild the relationship from there. See the other person as a Divine Being worthy of your love; and equally, see yourself as a Divine Being worthy of theirs. Love and be loved. Open the lines of communication and be ready to hold space for one another so you can reconnect on a deeper, more loving level. Be compassionate, understanding, and respectful, and seek harmony with one another.
+
+The reversed Ten of Cups can also appear when you are contemplating what a loving relationship means for you. Rather than building relationships with others, you are focusing your attention inward so you can gain clarity around what you want from a relationship. Ask yourself what an ideal relationship looks like to you and how you want to give and receive love. Consider how you can bring more of this energy into your future relationships. You may look at your existing relationships and check in to see how these relationships align with your desires. Let go of any that no longer bring you fulfilment and happiness, and welcome in new relationships in alignment with your Highest Good.
+
+The Ten of Cups reversed can reveal a misalignment of personal values. You are not living by your own values, nor are you being true to yourself. Instead, you are allowing others to decide what will and will not make you happy when you know you should determine that for yourself. As a result, you are questioning whether you believe in what you are doing. Bring your focus back to what truly makes you happy even if it differs from what others expect.
+
+Finally, the reversed Ten of Cups may suggest that you are neglecting your family while you pursue more material goals such as progressing your career or making more money. Your work-life balance is out of whack, and you are spending less and less quality time with your family. If you continue to neglect your family, you’ll find that relationships will suffer and you may not achieve an overall sense of contentment and happiness as planned.
+
+### Page of Cups
+
+**UPRIGHT**: Creative opportunities, intuitive messages, curiosity, possibility.
+
+**REVERSED**: New ideas, doubting intuition, creative blocks, emotional immaturity.
+
+#### Page of Cups Description
+
+The Page of Cups wears a blue tunic with a floral print and a beret on his head with a long, flowing scarf. He stands on the shore, with the wavy sea behind him, holding a cup in his right hand. Surprisingly, a fish pops its head out of the cup and looks at the young man. The fish and the sea behind him represent the element of water and all things to do with creativity, intuition, feelings and emotions. The unexpected appearance of the fish signifies that creative inspiration often comes out of the blue and only when you are open to it.
+
+#### Page of Cups Upright
+
+The Page of Cups suggests a new idea or opportunity has come to you out of the blue. Your creative energy is flowing, and now the question is how you will express it. Will you snap up this new idea and turn it into something, or will you let someone else bring it to fruition? It is up to you! Spend time exploring the idea to see if you want to move forward.
+
+The Page of Cups invites you to have an open and curious mind. Be open to anything – including a fish popping its head out of a cup! It is with a curious mind that you will discover new aspects of life and yourself. Open your mind to all possibilities, especially those of a creative or intuitive nature, you will be pleasantly surprised. Be ready to dream the impossible dream, and explore the magic of your fullest potential, even if it seems out of reach. The Page of Cups is asking you to embrace your inner child and believe that anything is possible.
+
+As each Page asks you to explore a new facet of yourself, the Page of Cups is asking you to explore your creative, emotional self. You may start a new art class, read books about how to express your feelings, or learn more about developing your psychic abilities. Dreamy aspirations race through your mind, and you may find yourself moved by simple things. Don’t be afraid to let your feelings show and wear your heart on your sleeve.
+
+This card often appears when you are being called to trust your intuition and be open to the multitude of intuitive messages coming your way. Look for synchronicities and signs from nature that will guide you on your path. They may come from unexpected places, or they may not even make sense to your rational mind; be open to the possibility and ready to discover new aspects of yourself. It is like following ‘intuitive breadcrumbs’ – one intuitive clue leads you to the next thing, and the next, and the next. And before you know it, you have found yourself in a place of full alignment, happiness and bliss. All by trusting your intuition and going with the flow.
+
+In a practical sense, the Page of Cups can indicate that you will receive an unexpected and pleasant surprise. The Pages are often known as the messenger cards, and with the Page of Cups, you may receive a message related to the emotions, intuition, or creative endeavours. It might be the birth of a baby, an engagement or marriage, a new love interest, or the offer of a new project. It is not a surprise you can anticipate or force; be ready to receive when the moment comes.
+
+#### Page of Cups Reversed
+
+The reversed Page of Cups suggests that you are keeping your creative inspirations and ideas secret. You may worry that others will steal your idea or tell you it’s destined to fail. Instead, you are choosing to keep your plans private so you can develop them further without the influence of others. You may want to wait until you’ve moved out of the conceptual stage before sharing it with others.
+
+With the Page of Cups reversed, you may feel called to pursue a new creative project, but you doubt whether you can really make it work. Your inner critic may be on over-drive or others are telling you that you’re dreaming – so you are stalling and holding back. Ask yourself, “What have I got to lose here?” So what if the idea fails? Isn’t it better to try something and fail than never do it and wonder for the rest of your life what might have happened? And what if you didn’t fail? What if you were to succeed? Again, listen to your intuition to understand if fear is getting in the way and whether it’s time to just give it a go regardless of the outcome.
+
+It is possible that you may experience a creative block when the reversed Page of Cups pops up in a reading. There is an aspect of your Self that wants to be expressed, but for whatever reason, you are holding back. You may worry whether your creativity will lead you in the direction you want, or whether it has value in this world. Or, you may feel ‘stuck’ when it comes time to express yourself creatively, and you don’t know how to bring this side of yourself out into the external environment. The ideas are there, but you are having trouble figuring out how to make them into reality.
+
+If you are exploring your intuition, the reversed Page of Cups can suggest that you are encountering a lot of doubt. You are trying hard to listen to your intuition, but when the messages come through, you are left wondering if it’s your inner guidance or your ego. Open yourself to your intuition and see where it takes you.
+
+At times, the reversed Page of Cups can show someone who is emotionally immature – perhaps someone dramatic, who over-shares and takes their vulnerability a little too far. This may be someone who is prone to emotional tantrums when they do not get their way. Or it may be someone who is overly dreamy about their future and who is not grounded in reality. Some call it the ‘Peter Pan Syndrome’, in which an adult does not want to grow up and instead remains a child for the rest of their lives.
+
+### Knight of Cups
+
+**UPRIGHT**: Creativity, romance, charm, imagination, beauty.
+
+**REVERSED**: Overactive imagination, unrealistic, jealous, moody.
+
+#### Knight of Cups Description
+
+In the Knight of Cups, a knight rides on a white horse and holds out a golden cup as if he bears a message from the heart. Over his armour, the knight wears a cloak covered with images of fish, the symbol of water, consciousness and creativity. His helmet and boots are winged, a symbol of an active and creative imagination and an appreciation for beautiful things.
+
+Unlike the Knight of Wands or the Knight of Swords, the horse in the Knight of Cups is not charging forward but instead moves slowly and gracefully, giving an air of calmness and peace. The horse represents power, energy and drive and the colour white is a symbol of purity, spirituality and light.
+
+The background is mostly barren, except for some trees far away and the river that flows through, symbolising the power of the emotions and imagination to create a new life force, even where it may seem that there is none.
+
+#### Knight of Cups Upright
+
+The Knight of Cups is the classic romantic of the Tarot deck. He is in touch with his intuition and emotions, and he uses them masterfully to charm and attract others. He shows compassion and understanding towards others because he has learned to understand his own feelings and emotions. The Knight is kind, caring and very in touch with his feminine side. He might be found writing a romantic poem to his lover, creating art inspired by his innermost feelings or appreciating a vibrant sunset with a glass of champagne in his hand. His heart is wide open, and he wears it on his sleeve. He shares his love freely with others, without constraint or worry; he is in love with love itself.
+
+When the Knight of Cups appears in a Tarot reading, you thrive on all things beautiful and are inspired by the many creative outlets available to you. While the Page of Cups was inspired by an imaginative idea, the Knight of Cups is motivated by action. You have dreamed about what it is you want to create and now are moving forward with this dream to make it a reality. It may be an art project or something you feel ‘called’ to do, based on your emotions, imagination and intuition. Be open to exploring your passions and your big ideas. You may find yourself drawn to a particular passion or hobby and now is the time to turn it into ‘something.’ While you are in no hurry to reach the finish line, keep in mind that true imagination feeds on action; if you do nothing with your dreams, they will remain just that – dreams and not reality.
+
+All Knights are on a mission, and this Knight’s is humanitarianism, romance, altruism, compassion, and beauty. You have a vision of harmony and are ready to bring it into reality. You are lead by your heart and want to see peace for everyone involved.
+
+When it comes to making decisions, the Knight of Cups is ruled by his emotions and his heart. When this card arrives in a Tarot reading, you are making decisions based on how you feel about a situation rather than what you think, even if others can’t make sense of what you are doing and why, and your intuition guides you in everything you do.
+
+#### Knight of Cups Reversed
+
+When the reversed Knight of Cups appears in a Tarot reading, a creative project is emerging, but you are not ready to act on it just yet. You may spend most of your time dreaming up what is possible or how wonderful it will be when it comes to fruition. While it can be enriching to be in the dreamy, ideas phase for a while, the plan will not come into being until you take action. You may need to ground your ideas into reality. Figure out how much it will cost, how much time it will take, what resources you will need, and so on. This will give your project more weight so you can move forward with implementing your idea.
+
+At times, the reversed Knight of Cups can indicate that you are sulky, moody, and jealous. You may feel frustrated that you are not being given the opportunity to dream and create. You allow your emotions to get the better of you if you are not getting your way.
+
+The Knight of Cups reversed can describe someone who has an overly romantic approach to life and is disconnected from reality. You may experience a level of disillusionment that an offer is not quite what you expected it to be because you have found yourself caught up in the excitement or emotion of a situation. For example, you might quit your office job so you can work at home, only to realise you miss the social contact with your co-workers. Or you might sell your house to travel the country, only to find that your campervan needs a whole new engine on Day Two of your journey.
+
+### Queen of Cups
+
+**UPRIGHT**: Compassionate, caring, emotionally stable, intuitive, in flow.
+
+**REVERSED**: Inner feelings, self-care, self-love, co-dependency.
+
+#### Queen of Cups Description
+
+The Queen of Cups is a beautiful, introspective woman who sits on a throne at the edge of the sea. In her hands, she holds a golden, cup adorned with handles shaped like angels. Unlike most of the cups in the Suit of Cups cards, this cup is closed – showing that the Queen’s thoughts and feelings come from her subconscious mind and the depths of her soul.
+
+She sits upon a stone throne decorated with images of sea-nymphs, fish, and scallop shells. The sea and fish are symbols of the unconscious mind, and water represents emotion, spirit and perception. A cloudless, bright-blue sky and placid water of the sea surround her. Her feet do not touch the water; they rest on colourful pebbles on the shore. It is as if she is connected to her emotions (as represented by the water), but not overwhelmed by them.
+
+#### Queen of Cups Upright
+
+The Queen of Cups is nurturing, caring, compassionate and sensitive. When you see her in a Tarot reading, you are embodying her ‘nurturing mother’ energy. You support others by listening with your heart, being compassionate, and caring for them deeply. You are empathic and can sense the needs of others by tuning in to your intuition, and you hold the space for others to express their emotions and be the truest, most authentic versions of themselves. You have mastered this in such a way that, even though you hold space for emotional expression, you don’t take on other people’s energy or emotional issues because you are well-grounded and know where to create a healthy separation.
+
+The Queen of Cups says you are highly intuitive, creative, and in flow with the surrounding energies. In your interactions with others, you can easily read other people to get a sense of how to communicate effectively, enabling you both to feel heard and understood. Others may come to you to confide their personal issues regarding relationships, emotions and feelings. They trust you and know that you always have the right solution. You can instantly tune in to what others are going through and can help them make sense of it. You may be a healer, counsellor or intuitive coach; or maybe just a good friend. You recognise the Divine in everyone you meet.
+
+In your creative projects and endeavours, you ‘feel’ your way into them, trusting your heart and your inner guidance to lead you in the right direction. You know when something is ‘off’, and you pay attention to this, even if it doesn’t make rational sense. You may be in tune with the cycles of the moon and nature, using these cycles to manifest your goals and live your dreams.
+
+When the Queen of Cups appears in a Tarot reading, you are being asked to trust your intuition and pay attention to your feelings and emotions. Lead with your heart, not your head. Be open to receive the intuitive messages flowing to you, be it through your dreams, meditation or visualisation. And ‘feel the feels’, even if those feelings are tricky or challenging. You are stronger than you know.
+
+#### Queen of Cups Reversed
+
+When the reversed Queen of Cups shows up in a Tarot reading, you need to draw your attention inwards and focus on your emotional well-being. You’re great at taking care of others – but now it’s time to take care of YOU. This card suggests that you are emotionally drained because you have been so busy supporting others, but not yourself. You may need to set firm boundaries with your loved ones so that they know you love them but will not take on their emotional baggage. You can hold space for them, but ultimately, they are responsible for their feelings and life experience, and they need to go on their own journey to learn how to cope.
+
+The reversed Queen of Cups could mean you are wrapped up in other people’s emotional responses and have created a co-dependent relationship that is not healthy for either party. You may be giving too much of yourself away, receiving little in return. Or you may be inadvertently fostering dependency so you feel needed. Examine your relationships and see where you can create a healthy detachment. Where can you still give emotional support but not to the detriment of one another?
+
+The Queen of Cups reversed is often a sign that your intuition is on overdrive right now, but to hear it, you need to give yourself the time and the space to listen. It doesn’t matter how busy you think you are – see this as your sign to reconnect with your intuition and tune in to your inner voice.
+
+At times the reversed Queen of Cups is a warning that you are letting your heart rule over your head and your emotions may overwhelm you. If this resonates, ground yourself, express your feelings privately or with a trusted therapist, and then work through why they’ve bubbled up this way. Be careful not to let your emotions overtake your life in such a way that you worry you are losing control and perspective. Take some quiet time for yourself and meditate or write in your journal. Find a peaceful space to centre and calm your soul. Listen carefully to your intuition and your inner voice.
+
+On the flipside, the Queen of Cups reversed suggests that you may be out of touch with your emotions or forced to restrict or hold them down deep inside. You may struggle to express yourself, instead bottling up your feelings. If you do not address these emotional issues, they will reach a boiling point. Your stress levels may increase, and your ability to cope with everyday problems could suffer.
+
+The reversed Queen of Cups invites you to explore your innermost feelings and emotions to understand what makes you tick. Spend some time alone with just your Tarot cards, your journal and your pen. Connect in with your feelings. How are you feeling? How are you really feeling? It doesn’t matter whether you’re experiencing positive or negative emotions. You are being called to listen to your true feelings and honour them in the process.
+
+### King of Cups
+
+**UPRIGHT**: Emotionally balanced, compassionate, diplomatic.
+
+**REVERSED**: Self-compassion, inner feelings, moodiness, emotionally manipulative.
+
+#### King of Cups Description
+
+The King of Cups sits on a large stone throne and wears a blue tunic and a gold cape – a symbol of his authority and status. A small fish amulet hangs around his neck symbolising his creativity. In his right hand, he holds a cup representing the emotions, and his left has a sceptre, showing power and control. Unlike the other Cups court cards, he doesn’t look at his cup and seems to be focused elsewhere; perhaps he has already mastered his emotional self and doesn’t need to concentrate as hard on this facet of himself.
+
+The King of Cups appears to be floating on a granite block in the middle of a turbulent sea. Behind him on his right, a fish jumps out of the ocean, while on the left, a ship sails steadily despite the waves. These images show that this King stays calm and balanced, even in turbulent conditions, and has learned how to stay open to his emotions and unconscious impulses, without being overwhelmed by them. He keeps power and control while balancing his feelings.
+
+#### King of Cups Upright
+
+The King of Cups represents mastery over the realms of emotion, creativity and the unconscious. When this card turns up in a Tarot reading, you have gained control of your feelings and can accept them without allowing them to get the better of you. Even when life throws you a curve ball, you can draw on your emotional maturity and stability to help you navigate these challenges. You don’t let things get to you, and you steer clear of the drama, instead choosing an emotionally balanced and calm approach.
+
+If you are being challenged personally, the King of Cups suggests you need to remain emotionally mature when faced with negative energy from others. Be firm on your personal boundaries, stating what is and is not acceptable on an emotional level. This King is level-headed and in control of his emotions. He uses his intellect to make smart decisions and does not let other circumstances or whims sway him from his central beliefs and morals. Stay true to your emotions and feelings and do not allow others to steer you off course.
+
+The King of Cups embodies the perfect balance between the executive and the heart. Not only are you able to assess and manage a situation logically, but you can also draw upon your intuition and understanding of human interactions. As a leader, you care as much about achieving your goals and objectives as you do about making sure everyone is happy and engaged along the way. If you sense that logic and emotion are out of balance, draw on the energy of this King to realign yourself.
+
+As a King, he has a masculine, fatherly energy, and as a Cups card, he brings his emotional self to the forefront. He offers wise advice when it comes to feelings, emotions, creativity and relationships and can see the human dynamic in its entirety. The King of Cups is compassionate towards others, creating strong bonds and relationships based on patience and understanding. As you interact with others, you may need to navigate their strong feelings and emotional triggers so you can create a sense of peace in your interactions. He may appear in your life as a mentor, coach or spiritual guide; or you may step into this role yourself.
+
+#### King of Cups Reversed
+
+The reversed King of Cups indicates that you are focusing your attention on your innermost feelings. You are discovering the emotions stored in your subconscious mind and how these emotions affect you. Through this work, you hope to gain a stronger sense of control over your emotional well-being so that your feelings don’t steer you away from living your best life. You may read more self-help books, journaling or seeking the support of a trained counsellor or hypnotherapist so you can journey deep into your subconscious mind.
+
+When the reversed King of Cups appears in your spread, you may be more prone to emotional upset and drama. Others may trigger you or push your buttons HARD, even to where you worry you might lose it and throw an emotional tantrum. You may feel moody, depressed, anxious and unpredictable. You may also lack in self-compassion, beating yourself up over small things that have gone wrong. If this resonates, seek to understand the root cause of your emotions and bring your conscious awareness to the impact they are having on your life. Pay attention to your emotional balance and find your place of calm and compassion. Other people may trigger these emotional responses in you, but it’s up to you to stay in control!
+
+The reversed King of Cups could show that you are repressing your emotions and withdrawing from the outside world because you fear what may happen if you were to confront your feelings head-on. Your feelings are bottling up inside you, and you are at risk of an emotional outburst if the pressure gets too much. If this resonates, consider finding a therapist to help you to work through your feelings in a safe environment.
+
+At worst, the reversed King of Cups can represent someone who is vindictive and has a talent for being able to punish others through emotional manipulation. He uses emotional blackmail to get his way and to push his personal agenda. He leaves you feeling uncertain about yourself and as if you are the problem, not him. This only leads to (undeserved) emotional instability within you. If this sounds like someone you have met in the past, you still have work to do in releasing yourself from his controlling forces.
 
 ## Minor Arcana: Swords
 
