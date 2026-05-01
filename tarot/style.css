@@ -50,9 +50,9 @@ h4 {
 .scroll-to-top {
     background-color: var(--accent-color, #f884fc);
     text-align: center;
-    font-size: 3rem;
+    font-size: 2rem;
     padding: .5rem;
-    width: 4rem;
-    height: 4rem;
+    width: 3rem;
+    height: 3rem;
     border: 1px solid var(--foreground-color, #000000)
 }

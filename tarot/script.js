@@ -95,7 +95,7 @@ function setupScrollToTop() {
     document.body.appendChild(scrollToTop)
 
     document.addEventListener("scroll", (event) => {
-        if (window.scrollY < window.innerHeight) {
+        if (window.scrollY < window.innerHeight / 2) {
             scrollToTop.style.display = "none"
         } else {
             scrollToTop.style.display = "block"
