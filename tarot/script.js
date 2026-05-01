@@ -77,3 +77,28 @@ function setupHeaderToggles() {
         }
     }
 }
+
+function setupScrollToTop() {
+    let scrollToTop = document.createElement("DIV")
+    scrollToTop.innerHTML = "⇧"
+    scrollToTop.style.position = "fixed"
+    scrollToTop.style.bottom = 0
+    scrollToTop.style.right = 0
+    scrollToTop.className = "scroll-to-top"
+
+    let jumpBackUp = () => {
+        console.log("scrolling up")
+        //window.scrollY = 0
+        window.scrollTo({top: 0})
+    }
+    scrollToTop.onclick = (event) => {jumpBackUp()}
+    document.body.appendChild(scrollToTop)
+
+    document.addEventListener("scroll", (event) => {
+        if (window.scrollY < window.innerHeight) {
+            scrollToTop.style.display = "none"
+        } else {
+            scrollToTop.style.display = "block"
+        }
+    })
+}
