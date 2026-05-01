@@ -42,6 +42,23 @@ Minor Arcana - Cups:
 - [Queen of Cups](#queen-of-cups)
 - [King of Cups](#king-of-cups)
 
+Minor Arcana - Swords:
+
+- [Ace of Swords](#ace-of-swords)
+- [Two of Swords](#two-of-swords)
+- [Three of Swords](#three-of-swords)
+- [Four of Swords](#four-of-swords)
+- [Five of Swords](#five-of-swords)
+- [Six of Swords](#six-of-swords)
+- [Seven of Swords](#seven-of-swords)
+- [Eight of Swords](#eight-of-swords)
+- [Nine of Swords](#nine-of-swords)
+- [Ten of Swords](#ten-of-swords)
+- [Page of Swords](#page-of-swords)
+- [Knight of Swords](#knight-of-swords)
+- [Queen of Swords](#queen-of-swords)
+- [King of Swords](#king-of-swords)
+
 ## Major Arcana
 
 ### The Fool
@@ -1257,6 +1274,476 @@ The reversed King of Cups could show that you are repressing your emotions and w
 At worst, the reversed King of Cups can represent someone who is vindictive and has a talent for being able to punish others through emotional manipulation. He uses emotional blackmail to get his way and to push his personal agenda. He leaves you feeling uncertain about yourself and as if you are the problem, not him. This only leads to (undeserved) emotional instability within you. If this sounds like someone you have met in the past, you still have work to do in releasing yourself from his controlling forces.
 
 ## Minor Arcana: Swords
+
+### Ace of Swords
+
+**UPRIGHT**: Breakthroughs, new ideas, mental clarity, success
+
+**REVERSED**: Inner clarity, re-thinking an idea, clouded judgement
+
+#### Ace of Swords Description
+
+The Ace of Swords shows a gleaming hand appearing from a white cloud, a representation of the Divine. It holds an upright sword, symbolic of the mind and the intellect, and at the tip of the sword sits a crown draped with a wreath, a sign of success and victory. While this Ace is a sign of triumph, the jagged mountains in the background suggest that the road ahead will be challenging. You will need mental resilience to navigate this path.
+
+#### Ace of Swords Upright
+
+The Ace of Swords marks a wave of new energy from the intellectual realms. You may be on the verge of a significant breakthrough or a new way of thinking that allows you to view the world with clear eyes. Or, you may have a sudden realisation or conscious understanding about an issue that has been troubling you and can finally see the path ahead of you. Meditate regularly to clear away the mental chatter and make the most of this intellectual potential.
+
+See this card as a sign of encouragement. It says your mind is in ‘expansion mode’. You are open to embracing new ideas, craving stimulation, and you’ll jump at the next opportunity to learn something new. You thrive on new ideas, inspiration, original thinking and vision, and you are excited to pursue new opportunities that draw upon your creative and intellectual abilities.
+
+When the Ace of Swords appears in a Tarot reading, it tells you that now is an excellent time to start a new project – one that requires your intellect, communication skills and mental power. You may feel inspired to take a writing class, practice your public speaking skills, or get involved in activities that require more brainpower than usual.
+
+How might you draw on this Ace’s motivation and take action on your new ideas? As an Ace, you are at the beginning of the journey, but you can sense the energy building up and can’t wait to get started. If you channel this energy into the right moves, then you will succeed in your endeavours. Just remember that the road ahead may be bumpy and you can expect challenges along the way. Maintain a success mindset, and you will navigate these hurdles with ease.
+
+As with all Swords cards, the Ace of Swords represents power; but the sword is a double-edged blade, implying that it can create and destroy. The message is clear: with power comes responsibility. It will be up to you how you leverage the opportunity for the greater good of all rather than for selfish or aggressive power. You will need a strong heart and mind and need to see how to best use your power for the service of others and yourself.
+
+The Ace of Swords also encourages you to pursue the truth of the matter and to find justice. You may champion a cause or stand up for your rights or the rights of others. Or, you may have a new idea for which you are prepared to fight, or you may feel fired up about an issue you are passionate about, such as human rights. You have great clarity on the situation and can now argue your point of view with truth and conviction. In other words, you are ready for battle.
+
+#### Ace of Swords Reversed
+
+The Ace of Swords reversed indicates that a new idea or breakthrough is emerging from within you, but you are not willing to share it with others just yet. You may still be exploring what this idea means for you and how to best express and manifest it in the external world. You may also seek greater clarity about whether this is an idea you wish to pursue more fully, perhaps because you are unsure if it will bring the results you truly desire. When this card appears in a Tarot reading, it’s important to give yourself time and space to meditate and clear your mind so you can ‘birth’ this idea in the most effective way.
+
+Sometimes, the reversed Ace of Swords can be a signal you have an idea that’s not coming to fruition in the way you had hoped, and it’s time to go back to the drawing board. You may still be pursuing an idea that no longer has any meaning for you. Or you may have too many ideas on the go, and you cannot commit to one course of action. This card invites you to spend more time on defining in plain terms what it is you want in life. Set yourself some SMART goals (specific, measurable, achievable, realistic and time-bound) so you can be clear on what you are working towards. Focus on the basics and do some better planning. Get clear on your aspirations and goals.
+
+The Ace of Swords reversed can also suggest clouded judgement and lack of mental clarity around a specific situation. You are missing relevant information or evidence that will help you decide, so invest your time and energy into seeking out the truth rather than just taking things at face value.
+
+### Two of Swords
+
+**UPRIGHT**: Difficult decisions, weighing up options, an impasse, avoidance
+
+**REVERSED**: Indecision, confusion, information overload, stalemate
+
+#### Two of Swords Description
+
+The Two of Swords shows a blindfolded woman, dressed in a white robe, holding two crossed swords. The blindfold over her eyes tell us that the woman is confused about her plight and that she can see neither the problem nor the solution clearly. She may also be missing relevant information that would make her decision much clearer if she were to obtain it. The swords she holds are in perfect balance, suggesting that she is weighing her thoughts and addressing both sides of the situation to find the best resolution.
+
+Behind the woman is a body of water dotted with rocky islands. The water represents the emotions and, while the Suit of Swords traditionally associates with the mind and intellect, its presence shows that the woman must use both her head and her heart to weigh her options. The islands represent obstacles in her path and suggest that her decision is not as clear-cut as it seems. She will have to consider the situation as a whole. The crescent moon to her right is a sign that this woman needs to trust her intuition as she makes her choice.
+
+#### Two of Swords Upright
+
+The Two of Swords indicates that you are facing a challenging decision, but you are unclear about which option to take. Both possibilities may seem equally good – or equally bad – and you are stumped about which will lead you to the best outcome. You must be able to weigh up the pros and cons of each choice and then make a conscious judgment. Use both your head (your mind and the intellect) and your heart (your feelings and intuition) to choose the path that is most in alignment with your Higher Self.
+
+In a reading, it may be helpful to draw a further two cards for either side of the Two of Swords to show what it is you are trying to decide upon or balance. You may also like to draw four more cards, for the pros and cons of each choice.
+
+The woman in this card wears a blindfold, indicating that she cannot see the entirety of her circumstance. You may lack the information you need to make the right decisions. You may be missing something, such as the threats or potential risks, alternative solutions or critical pieces of information that would help guide you in a particular direction. Once you remove the blindfold and see the situation for what it really is, you will be in a much better position to find your best path forward. Research your options more, seek outside opinions and feedback and ask yourself what you might be missing.
+
+It is also possible that the woman in the Two of Swords has intentionally chosen to put on the blindfold to avoid making a choice. Are you trying to hide from a challenging situation or impending decision, hoping that if you ignore it long enough, you won’t need to worry about it? Unfortunately, the issue is unlikely to resolve itself, and the longer you delay, the longer you will prolong this present situation.
+
+Similarly, the Two of Swords can reflect indecision and an impasse on an important matter. Again, you can only put it off so long; at some point, you have to make a move.
+
+The Two of Swords comes as a reminder that many of life’s decisions are difficult ones and rarely come with clear-cut answers. The invitation is to make your choices with your best intentions, fully aware of the possible consequences. Avoidance will lead to greater conflict and stagnation.
+
+#### Two of Swords Reversed
+
+The Two of Swords reversed suggests that you are facing a difficult decision and cannot decide which direction to take. You are caught between a rock and a hard place, and it feels impossible to make the ‘right’ decision as you believe either option will lead to negative consequences. As a result, you are finding yourself feeling stuck and unable to move forward, which is just making the situation worse.
+
+You may also lack the information you need to make a sound decision. Just as the blindfolded woman is closed off to the external world, you may also be closed off to additional information or alternative solutions that could resolve your dilemma. Or, you might be experiencing information overload, overwhelmed by other people’s points of view and a deluge of information. Sift through the advice available to select only the most relevant and helpful.
+
+The reversed Two of Swords is inviting you to listen to your intuition about this difficult decision. You may need to cut off from the external world temporarily so you can hear your inner voice and allow your wisdom to come through. Trust what you know to be true and right for you. Make your decisions based on your own internal compass.
+
+The Two of Swords reversed often represents a stalemate. You may reach an impasse with a friend, loved one, colleague or supplier. The trouble is that all parties involved are refusing to see the situation from the other’s perspective and you are butting heads. Remove the blinders and look at the situation from a different angle. Identify where you can come to a compromise. Otherwise, this issue will not move forward.
+
+The reversed Two of Swords may also suggest you are feeling stuck in the middle of two competing sides. You may be trying to play the peacemaker role, but in doing so, you are just confusing yourself and creating more tension. For example, you may attempt to bring two conflicting family members together in the hope of fostering a harmonious family environment, but instead, you end up being the messenger or the dumping ground for each of their concerns. Decide whether you honestly have a role to play and whether you can create peace between the two opposing parties. Otherwise, get yourself out of there!
+
+### Three of Swords
+
+**UPRIGHT**: Heartbreak, emotional pain, sorrow, grief, hurt
+
+**REVERSED**: Negative self-talk, releasing pain, optimism, forgiveness
+
+#### Three of Swords Description
+
+The Three of Swords shows a heart pierced by three swords, representing the pain inflicted by words, actions and intent on the emotional and physical self. The dark clouds gathering in the background mirror this pain but offer the hope that, just as the storm clouds will disappear, so too will the pain and hurt you are experiencing.
+
+#### Three of Swords Upright
+
+When the Three of Swords turns up in a Tarot reading, it signals that you are feeling deeply hurt and disappointed. Your heart has been pierced by the sharp blades of others’ hurtful words, actions and intentions, and they have inflicted intense emotions of pain, sadness, grief, and heartbreak. These events are often unexpected and come out of the blue, making them even more painful.
+
+The Three of Swords is also about an emotional release. When you have suffered a major setback or loss, now is an excellent time to have a good cry. Expressing your sadness is part of the cleansing process and letting it all out will help you move on to better times. Allow yourself the opportunity to experience these emotions, no matter how painful. Cry, shout, or scream at the top of your lungs. Do whatever it takes to express your anger or pain as this will help the emotions flow through (and out of) you.
+
+However, it is also essential that you continue to focus on the path ahead. You may run the risk of becoming so absorbed in the emotions swirling around you that you lose sight of the need to just let go and move on. Your focus stays locked on the damage when it should be on the recovery. Now is time to accept what happened and move forward with your life.
+
+The Three of Swords comes as a reminder that pain, sorrow and grief are a necessary part of life. Without pain, you would never experience the challenges you need to grow and develop as a person. Every hardship creates discomfort, which inevitably turns into an opportunity to become stronger, learn from your mistakes, and change the course of your life for the better. While the pain may cloud your vision for a time, it will eventually bring clarity and enable you to put the past behind you. Can you see this experience as a learning opportunity?
+
+The good news is that this painful season will pass. While the Three of Swords brings hurt and sadness, it is only temporary. You will bounce back. The clouds will dissipate, and soon you will have a better perspective on what you can learn from the experience. You can conquer any pain that comes your way – all it takes is faith, self-love, forgiveness and time.
+
+The Three of Swords often arrives when you are taking others’ words to heart. You may be more prone to internet trolls, workplace bullies or spiteful strangers. Or it may be closer to home, with those you love saying hurtful words to you – just remember that you do not have to accept their words as truth; they are merely another person’s opinion or a projection of their own inner fears and anxieties. Shift the energy by looking at these people with a compassionate heart: what struggles are they going through that they feel they need to throw their insecurities at you? Be mindful, too: why are their words triggering you? Is there a more profound truth in what they’ve said, one you might not be willing to see just yet? Use these pain points to expand your perspective and see the bigger picture of what is happening here.
+
+#### Three of Sword Reversed
+
+The Three of Swords reversed encourages you to pay attention to your inner thoughts and self-talk. Your words are powerful, especially those you repeat to yourself day after day. You may be prone to self-criticism, limiting beliefs and negative self-talk. You may identify with an ‘inner mean girl’ (or boy) who is constantly telling you why you’re not good enough. When you hear these negative thoughts come up, ask yourself whether you would ever utter these words to a friend or loved one and if the answer is a ‘hell no’, then why are you speaking these words to yourself? Look at how you can shift your thoughts towards the positive to reinforce your confidence. You have what it takes to be the person you deserve to be.
+
+You may also be hypersensitive to others’ words and need to develop a thick skin. Let go of the hurt that these words are causing you – it will only hold you back – and do some self-reflection. What has triggered your feelings and why? And how might you address the underlying issue? For example, if you are upset by a friend’s accusation that you are selfish, look within yourself to see where you may be acting selfishly. If this behaviour is no longer serving you, then let it go.
+
+The Three of Swords reversed can indicate that you have recently gone through a difficult patch in which a relationship has ended or been challenged, a loved one has passed, or you were hurt by a situation that affected you deeply. Thankfully, the reversal of this card suggests that this time has passed, and you are on the path to recovery, realising that with every cloud comes a silver lining and you have other things in your life which bring you joy. You have reached a point where you can accept the pain and are ready to move forward.
+
+On the flip side, the reversed Three of Swords might point out that you are finding it very hard to move on from a recent loss or heartbreak. This card reveals that you are still suffering from an earlier loss and need to go through an emotional purging to free yourself from your past. You are doing your best to leave this behind and make a new life but still have a long journey ahead. Be careful that you are not getting stuck in the moment of grief, and instead focus on embracing new opportunities. It is always hard to bear the pain of separation or understand why you have been inflicted with such sorrow. Learn to accept your circumstances so that the healing process will not become blocked. Allow yourself to experience the pain, give yourself the right to grieve and release the heartache. Open the door to new experiences. When you see the reversed Three of Swords, ask yourself, “In what ways am I suffering? What am I most sorrowful about? What can I do to release this pain and learn from it?”
+
+If you are experiencing challenges in your relationships, the reversed Three of Swords serves as a reminder to be the peacemaker. Always think before you speak, so you will not later regret what you have said. And never be afraid to say you are sorry.
+
+### Four of Swords
+
+**UPRIGHT**: Rest, relaxation, meditation, contemplation, recuperation
+
+**REVERSED**: Exhaustion, burn-out, deep contemplation, stagnation
+
+#### Four of Swords Description
+
+The Four of Swords shows a knight lying horizontally on a tomb. He remains in his full armour, and his hands are in the position of prayer as a sign of rest. One sword lies beneath the knight, symbolising a single point of focus, and three swords hang above him, pointing downwards towards his head and torso. The stained-glass window above him shows a woman and child together.
+
+#### Four of Swords Upright
+
+The Four of Swords tells you to rest before you take on the next challenge. You have reached an important first milestone and must recharge your energy before the next phase begins so you are refreshed and ready to go. Even if you are highly productive and driven, take time out from your busy schedule to restore your energy and heal the body and the mind. Constant stress and tension will break even the hardest and most resilient of people but brief periods of rest enable you to refresh your energy, concentration and focus so that you are ready for the next challenge.
+
+If you have been going through tough times recently, such as the trauma of break-up or departure, relationship or family problems, financial and health worries, stress or conflict, then the Four of Swords comes as a sign to take a step back and regain perspective. Take a day off work, travel to a new destination, or spend time with your loved ones – whatever you need to take a break. Now is not the time to make decisions.
+
+In fact, the Four of Swords presents a new challenge: to stay silent and inactive. Now is the time to build up your mental strength by clearing your mind of any mental ‘clutter’ or stress. Meditate and spend time in a place that creates peace, calm and tranquillity for you. Go on retreat or start a meditation course. You need to replenish your strength and spend time connecting with your Higher Self.
+
+The Four of Swords suggests the need for seclusion. You need solitude to negotiate your situation and time apart from others to gather your thoughts and feelings. Following on from the painful loss of the Three of Swords, this Four suggests your need to spend time alone to re-evaluate your life. Solitude, although often difficult to bear, is necessary for you to recharge your batteries and rejuvenate your spirit. This solitary experience always bears fruit in greater inner strength and confidence. Retreat from pain, conflict and distractions, and rid yourself of stress and anxiety. Ground and re-charge yourself. Look inward for a real change and meditate daily.
+
+In a practical sense, the Four of Swords is an indicator that you need to take some time to review your progress so far. This is an excellent time to re-assess your priorities. It is almost like conducting your own ‘post-implementation review’ following a major milestone or a significant challenge. Create time and space to evaluate what has worked well, what has not, and what you need to change. Pausing to reflect after each major challenge will position you well for success in the future.
+
+#### Four of Swords Reversed
+
+The Four of Swords reversed sends a powerful message that you need to take time out to rest and recharge your energy. You may be working long hours, giving your time and energy to others in need, or involved in a highly stressful and demanding undertaking. You are close to exhaustion, and your energy reserves are running low or on empty. If you do not stop and take some much-needed rest now, you may crash and burn-out completely, rendering yourself completely ineffective and unable to help anyone.
+
+The reversed Four of Swords is calling you to withdraw from your external world, and retreat within. Now is time for a social media detox, a weekend escape, or a silent retreat so that you can focus your energy within and find your peace once again. Use daily meditation to calm your mind.
+
+The Four of Swords reversed can show that you are restless and wanting to do everything at once. Even if your body is telling you that you need to rest and relax, your mind may push you forward, trying to carry out a long list of tasks and making you sick or stressed as a result. So it is vital that you force yourself to take it easy to make sure you do not run yourself into the ground. Some ‘busy time’ is OK but be careful not to push it so far that you end up hurting your health and well-being. If you need to rest, rest. Even just a quick ‘nanna nap’ on the weekend or a twenty-minute meditation each day can help to re-balance your energy reserves and get you ready for even more productivity.
+
+The Four of Swords reversed can also represent stagnation and a lack of action leading to increased frustration. For example, a long-term marriage has become spiritually and emotionally empty. You may need to take a break and come back to it when the energy is flowing better.
+
+Similarly, the Four of Swords reversed suggests that you are frustrated with the lack of progress and change in your life. Part of this lack of change may be due to your passive approach. There may have been situations that were frustrating to you or that you were unhappy with but you chose to wait it out and hope that they would eventually change. Now you’re feeling the ramifications of that choice.
+
+### Five of Swords
+
+**UPRIGHT**: Conflict, disagreements, competition, defeat, winning at all costs
+
+**REVERSED**: Reconciliation, making amends, past resentment
+
+#### Five of Swords Description
+
+In the Five of Swords, a sly-looking man picks up three swords from the ground. He glances over his shoulder at two men who are walking away with their shoulders slouched, conveying a sense of sadness and loss. Two more swords are strewn across the grass, suggesting a battle has been fought and lost. The sky is cloudy and tumultuous, a sign that not all is well even though the fighting has stopped.
+
+#### Five of Swords Upright
+
+The Five of Swords turns up when you have had a falling out, disagreement or conflict, and you are walking away with a sense of sadness and loss. You may be upset and resentful over the heated words you said and now wish you could take back. ‘Bad blood’ and a general ‘icky-ness’ hang over you as your relations have turned sour.
+
+Even if you won the argument or came out the apparent victor, you realise that you have lost as much as (or more than) your opponent. This battle has cost you trust, respect or dignity, and isolated you. As you try to pick up the pieces and set the conflict behind you, you find it‘s more difficult than you thought; others have lost faith in you and are keeping their distance. You will need to decide whether your point of view is so important to you that you’re willing to put your relationships in jeopardy, or if you can compromise and see eye-to-eye.
+
+The advice of the Five of Swords is to pick your battles. You may be tempted to fight every conflict to ensure you get your way, to prove that you are right, or defend yourself when you are feeling challenged or threatened. However, most experts agree, choosing your battles wisely is a much better way of life than engaging in every disagreement. Not only will it lead to a more peaceful existence, but your interpersonal relationships are likely to come out stronger.
+
+The Five of Swords can often indicate that you are competing with others on the path to success. You see them as threats to your own happiness, and so you seek to win at any cost.
+
+If you have been engaged in a conflict and can see it taking its toll, the Five of Swords is an invitation to apologise. The longer you brood, or the more you try to prove you were right, the more challenging the relationship will become. Be ready to say you were wrong and make amends. There’s no sense in trying to justify your behaviour; just let it go and move on. Look for common ground with those you have been fighting with, or seek forgiveness so you can put this behind you.
+
+The Five of Swords may also point to failure. It shows that, despite your best efforts, you are likely to be beaten or come out as the loser. If you allow yourself to become disillusioned after such a loss, then you will find yourself on the path to increased ruin and torment. Accept your defeat, and learn from it. Be smarter and wiser next time.
+
+#### Five of Swords Reversed
+
+The Five of Swords reversed speaks for those times when you’ve tried to argue to the end, only to realise that you’ll lose no matter what. You’ve been pushing and pushing, but whoever is on the other end is not listening. And no doubt they feel the same. You’re both fighting to win, at the expense of the other person. And when you’re in this oppositional posture, you end up feeling awful – win or no win.
+
+As a card of conflict, tension and disagreement, the Five of Swords reversed shows that you want this period of fighting to be over so you can forgive and forget, and then focus your energies on more constructive activities such as restoring your relationship back to normal. You realise that there can only be losers in this battle and want to move on.
+
+At times, the Five of Swords reversed can express conflict in your life that you have tried to walk away from but which continues to follow you. For example, there may still be an ex in your life making things difficult and who may prevent you from moving on to new relationships. So long as conflict, tension and raw emotion are at play, avoid this person or situation.
+
+Similarly, the reversed Five of Swords can suggest that an old wound has been re-opened and you are experiencing the fear and tension associated with that memory. You may be particularly worried that history might repeat itself or that you could be hurt again. Aim to forgive and forget so you can indeed move on.
+
+There may be residual resentment following a recent or past argument with someone close to you. You have had some very challenging and heated conversations together, and you still harbour negative emotion from these discussions. If the conflict remains unresolved and unaddressed, it may be impacting your ability to create a harmonious relationship.
+
+The Five of Swords reversed suggests that after a period of conflict, you are ready to move forward with your life and create positive change. Bring your energy back within and ground yourself. Come back to that beautiful, soulful person you are and ask yourself: how can I help create a win-win solution here? It may mean a compromise, or it might be time to move on with your life. This is your opportunity to apologise, ask for forgiveness, and make amends so you can move on and create a more fertile ground for new ideas and collaboration.
+
+### Six of Swords
+
+**UPRIGHT**: Transition, change, rite of passage, releasing baggage.
+
+**REVERSED**: Personal transition, resistance to change, unfinished business
+
+#### Six of Swords Description
+
+The Six of Swords shows a woman and a young child being rowed across a body of water towards a nearby land. Her head is covered, suggesting sadness or loss as she moves away from something in her past. Her child nestles in close to her body, looking for safety and comfort as they make this journey together. In the boat stand six swords, suggesting that the woman and child are still carrying memories or baggage from their past into their future.
+
+While the water on the right of the boat is turbulent, the sea ahead is tranquil. This imagery suggests that they are leaving behind a tumultuous situation, bound for a more peaceful and supportive environment.
+
+#### Six of Swords Upright
+
+The Six of Swords shows that you are in a state of transition, leaving behind what was familiar and moving towards the unknown. You might be moving house, leaving a relationship, changing jobs, going through a rite of passage or a mental shift. This change may be your own doing or forced upon you, and you may feel sad to leave behind what is so familiar to you. However, you know this move is essential for your growth and personal development. The sadness over what you have lost (or released) will soon be replaced by greater mental clarity and a renewed acceptance of change. You will become a better person as a result.
+
+The Six of Swords invites you to let go of whatever is holding you back, be it from your past or your present circumstances. Instead gaze ahead to your future and choose the way most in alignment with your Highest Good and long-term potential. You will need to make tough decisions and compromises along the way; see it as a rite of passage. You are headed towards a much better position in life, so long as you are willing to evolve and shed whatever you no longer need. Do not dwell on what gets left behind. Instead, use this as an opportunity for changing your beliefs about yourself, moving away from whom you used to be and towards whom you want to be.
+
+Similarly, the Six of Swords asks you to reflect on any emotional or mental baggage you may carry as you move from one phase to the next. In the boat stand six upstanding swords – a sign you are still carrying a heavy weight from your past as you move forward, which might slow your personal growth. These ‘swords’ may be memories, relationships, habits, behaviours, thought patterns and beliefs that are no longer serving you. Decide what you need to take with you and what you can leave behind.
+
+#### Six of Swords Reversed
+
+When the reversed Six of Swords shows up in a Tarot reading, you may be going through a personal or spiritual transition or rite of passage so you can leave behind a relationship, belief, or behavioural pattern that is no longer serving you. This is an intensely personal and private journey, and you are working in isolation to make it happen. You have identified what you must release to embrace a new way of thinking and are now bringing it to fruition in your personal life.
+
+At times, the Six of Swords reversed indicates that you know you need to make a change or transition in your life but are reluctant to do so. You may hope that the issue will go away on its own and you won’t need to wrangle with this difficult decision. Or you may try to fool yourself into thinking you can put up with it, even when you know deep in your heart it is time to move on. It is natural to want to avoid discomfort, but sometimes you must push beyond your comfort zone so you can evolve as a person. That discomfort can be a positive sign that growth is happening, so feel into that energy and let it encourage you to keep moving forward and expanding yourself.
+
+In some cases, the reversed Six of Swords suggests that you are resisting change and transition because you believe that it has been forced upon you or you were not included in the decision. For example, your partner may have to relocate for work, and you must go along with him or her. What is important is that you focus on the benefits of the transition rather than the drawbacks. Where can you look forward to something and get personal value out of it? Reaffirm to yourself why you need to make this transition and how it aligns with your own values.
+
+If you are trying to move on from the past but struggle to do so, the Six of Swords reversed suggests that there may be unfinished business, unresolved conflict, or lessons which you need to understand before you can wholeheartedly move forward in your life. What is holding you back from making this crucial transition? Seek to resolve those issues. There may be moments when you doubt whether you are making the right decision in leaving behind your past, but this card gently encourages you forward, reminding you that you are heading towards a better future.
+
+### Seven of Swords
+
+**UPRIGHT**: Betrayal, deception, getting away with something, acting strategically
+
+**REVERSED**: Imposter syndrome, self-deceit, keeping secrets
+
+#### Seven of Swords Description
+
+The Seven of Swords shows a man sneaking away from a military camp with five swords in his arms. He looks over his shoulder at the two upright swords he has left behind. The smile on his face suggests that he is proud of himself for having slipped away without being noticed.
+
+#### Seven of Swords Upright
+
+Traditionally, the Seven of Swords indicates theft, betrayal, deception and trickery. You may be trying to get away with something and are sneaking around behind other people’s backs, hoping to go undetected. If you are lucky, you might get away with your secret intact. But if you are unlucky, others will soon find out what you have done, causing you shame and embarrassment. Be aware that any time you use cunning or deception to gain an advantage over someone or something else, you are at risk of being found out. And even if you are not, the cover-up will require a tremendous amount of effort, and it may not be worth it.
+
+Alternatively, you may be the victim of someone else’s betrayal. Others are not being candid with you, and you may be unaware of their lies and deception. You may trust someone who then turns out to be running their own agenda, leaving you high and dry. Look out for any sneaky behaviour and listen to your intuition when something does not feel right or seems too good to be true.
+
+On a more positive note, the Seven of Swords points out that you need to be strategic in what you do. You know you cannot do everything at once – nor should you. Instead, you must prioritise what’s important to you and direct your focus and attention on the few tasks that will move you closer to your goals. It’s the 80-20 rule: 20% of your work will account for 80% of your results, so focus on the 20%. You may be able to accept some responsibilities or duties, but not all of them. Or you may say ‘yes’ to some projects at the expense of others.
+
+The Seven of Swords also suggests that you may need to use shortcuts or the ‘backdoor’ to get what you want. Rather than dutifully following the process, you may need to find ways to resolve your problem quickly so you can move towards your goals. For example, if you missed out getting into your preferred course, you might write a letter to the Dean or draw on your networks to get a mid-year entry. You may need to think on your feet and act in a way that isn’t exactly all ‘above board.’
+
+At times the Seven of Swords suggests that you may need to put yourself first to get what you want, even if it means letting others down or putting others off-side. For example, you may be asked to travel for work to attend a high-profile event, but it would mean missing your child’s birthday, so you decline the travel opportunity, even though you know it will upset your boss. Here’s the thing: you can’t be everything to everyone, and sometimes you need to put your own needs and priorities first, even if others may not agree with you or understand where you are coming from.
+
+The Seven of Swords could also imply that you are trying to escape from a situation that is not working for you anymore rather than dealing with it head-on. You may attempt to run away from commitment, responsibility, hard work or love. You may procrastinate, letting problems slip and become worse because you do not want to deal with them. Sometimes you just have to face what has to be faced.
+
+#### Seven of Swords Reversed
+
+The Seven of Swords often appears reversed when you feel like a fraud and are suffering from ‘imposter syndrome’. You may doubt yourself and your abilities. For example, if you have started a new business, you may ask yourself, ‘Who am I to be doing this?’ Know that this is fear talking. Get out of your head and trust that you have everything you need to make your new venture a success.
+
+Similarly, the Seven of Swords reversed can suggest that you are deceiving yourself, trying to trick yourself into believing something even though it is out of integrity with your true self. You may attempt to fool yourself that everything is okay when it is not. Now is the time to get real with where you are and confront your situation head-on.
+
+As a card of inner deceit, the reversed Seven of Swords represents keeping secrets hidden from others. You may be harbouring a dark secret that you hope will never be revealed. Keeping this secret may bring you stress and tension, along with deeper feelings of guilt and shame. While the thought of confessing may be horrifying, it will free you from the negative emotions you are experiencing. First forgive yourself, then confide in someone you trust. You will no doubt feel much lighter as a result.
+
+If you are involved in an affair or extra-marital relationship, the reversed Seven of Swords shows a growing reluctance to keep up the charade. You or your partner may feel increasingly uncomfortable with this relationship and would much rather come out in the open
+
+### Eight of Swords
+
+**UPRIGHT**: Negative thoughts, self-imposed restriction, imprisonment, victim mentality
+
+**REVERSED**: Self-limiting beliefs, inner critic, releasing negative thoughts, open to new perspectives
+
+#### Eight of Swords Description
+
+The Eight of Swords shows a woman bound and blindfolded. Eight swords surround her, seemingly trapping her in place, a symbol of the limiting thoughts, beliefs and mindset that prevent her from moving forward in her life. However, look closer: if the woman removed her blindfold, she would quickly realise that she can escape her predicament by letting go of her limiting beliefs and establishing a new, more empowered mindset. The water pooled at her feet suggests that her intuition might see what her eyes cannot.
+
+#### Eight of Swords Upright
+
+The Eight of Swords reveals that you feel trapped and restricted by your circumstances. You believe your options are limited with no clear path out. You might be in an unfulfilling job, an abusive relationship, a significant amount of debt or a situation way out of alignment with your inner being. You are now trapped between a rock and a hard place, with no resolution available. However, take note that the woman in the card is not entirely imprisoned by the eight swords around her, and if she wanted to escape, she could. She merely needs to remove the blindfold and free herself from the self-imposed bindings that hold her back.
+
+When the Eight of Swords appears in a Tarot reading, it comes as a warning that your thoughts and beliefs are no longer serving you. You may be over-thinking things, creating negative patterns or limiting yourself by only considering the worst-case scenario. The more you think about the situation, the more you feel stuck and without any options. It is time to get out of your head and let go of those thoughts and beliefs holding you back. As you change your thoughts, you change your reality. Replace negative thoughts with positive ones, and you will start to create a more favourable situation for yourself.
+
+The Eight of Swords assures you there is a way out of your current predicament – you just need a new perspective. You already have the resources you need, but it is up to you to use those resources in a way that serves you. Others may be offering you help, or there may be an alternative solution you haven’t yet fully explored. Be open to finding the answer rather than getting stuck on the problem.
+
+The Eight of Swords is often associated with a victim mentality. You surrendered your power to an external entity, allowing yourself to become trapped and limited in some way. You may feel that it isn’t your fault – you have been placed here against your will. You may feel like the victim, waiting to be rescued, but is this energy serving you? If not, it is imperative you take back your power and personal accountability and open your eyes to the options in front of you. The fact is you do have choices, even if you do not like them. You are not powerless.
+
+At times, the Eight of Swords indicates that you are confused about whether you should stay or go, particularly if you are in a challenging situation. It is not as clear-cut as you would like, making the decision very difficult. You have one foot in, hoping things can work out, but your other foot is out the door, ready to leave. The trouble is that you worry either option could lead to negative consequences, and so you remain stuck where you are. Again, this card is asking you to get out of your head and drop down into your gut and your intuition so you can hear your inner guidance. Your thoughts are not serving you right now, but your intuition is. Trust yourself.
+
+#### Eight of Swords Reversed
+
+The Eight of Swords reversed suggests that limiting self-beliefs plague you, preventing you from moving forward. You may tell yourself that you do not deserve to be wealthy, preventing yourself from receiving financial abundance even if it’s offered to you. Or you might conclude you are too old to lose weight, leaving you unhappy with your body and your health. The beliefs you hold about yourself are preventing you from achieving your personal goals. In light of this, change your belief system. Catch yourself when you are in a negative thought pattern and break the cycle.
+
+The Eight of Swords reversed also suggests that you are more prone to negative self-talk and suffering at the hands of your inner critic. You feel trapped because every time you try to do something, your inner critic tells you why it’s wrong or not good enough – so you give up trying altogether.
+
+The reversed Eight of Swords signals that skeletons in the closet need clearing out. Allow yourself to let go of the old patterns of behaviour and belief systems holding you back.
+
+On the positive side, when the Eight of Swords appears reversed, it can show that you are releasing yourself from negative patterns and belief systems. You can see the light at the end of the tunnel, and you can create a more positive reality for yourself by letting go of those self-limiting beliefs. You made it through a difficult time, and you are more open to change and self-acceptance. Reflect on what worked in the past and changed your perspective and approach. Acknowledge the options in front of you and refuse to play the role of the victim, taking greater accountability for where you are in life.
+
+### Nine of Swords
+
+**UPRIGHT**: Anxiety, worry, fear, depression, nightmares
+
+**REVERSED**: Inner turmoil, deep-seated fears, secrets, releasing worry
+
+#### Nine of Swords Description
+
+The Nine of Swords shows a woman sitting up in her bed with her head in her hands. She appears to have been jolted awake from a terrible nightmare that has left her disturbed, scared and anxious. Nine swords hang on the dark wall behind her, representing the negative thoughts that weigh heavily on her mind. The base of the woman’s bed features a carving of one person defeating another, and roses and the outlines of astrological symbols adorn the quilt wrapped around her.
+
+#### Nine of Swords Upright
+
+The Nine of Swords suggests that dark thoughts and disturbing feelings are weighing you down (and keeping you up at night). You are worrying excessively about a situation, and your negative thoughts are getting the better of you, leaving you stressed and anxious. The more you associate with your fears, the more they will rule your life. As you obsess over what’s not working, the more anxious you become and the more you will worry. It becomes a negative cycle where one awful thought leads to another, and another, and another until they overwhelm you. Just as the nine swords are stacked upon each other on the wall, so too are your negative thoughts.
+
+Be careful because the fear and worry in the Nine of Swords can become a self-fulfilling prophecy. As you obsess over what may go wrong, you are more likely to manifest your worst-case scenario because you are inadvertently acting in ways that support your negative thoughts. For example, you may worry that your partner will cheat on you, even though you’ve found no signs of infidelity. The more you stress about this potential outcome, the more your anxiety pushes away your partner, until one day, he feels so disconnected from you that he starts a new relationship with someone else. When you are repeating negative thoughts in your mind, you run the risk of manifesting them in your life. So, the Nine of Swords asks you to break the cycle. Every time a negative emotion comes up, replace it with a positive one instead.
+
+The Nine of Swords reminds you that much of the fear and worry you are experiencing is in your head and not necessarily an accurate reflection of what is happening around you. You may make things worse for yourself by over-thinking or obsessing over the worst-case scenarios. It is time to examine your situation from a new perspective. Instead of looking for evidence of what is going wrong, put your attention on what is going right. Take a deep breath and realise that life is not as dreadful as it seems and that the more you worry, the more harm you are doing to yourself.
+
+The Nine of Swords often crops up when worry, despair, and anxiety are quite literally keeping you up at night. You may not be sleeping well, or you are experiencing frequent nightmares. Your constant thoughts are preventing you from resting.
+
+When the Nine of Swords appears in a reading, it is time to reach out for help. You don’t need to do this alone – enlist the support of others to help you get through this dark period of your life. Others will help you to see the light at the end of the tunnel and lead you towards a solution or a sense of peace despite your troubles. You are struggling to look at your situation clearly, as you are plagued by negative thoughts, so having an objective, third-party perspective will help you find your way out.
+
+#### Nine of Swords Reversed
+
+The Nine of Swords reversed shows that you are experiencing deep inner turmoil as a result of your mindset. Your negative thoughts are taking you in a downward spiral of despair and anxiety that contradicts reality; you are making things feel much worse than they really are.
+
+You may try to keep your worries private and personal to you, but if you are struggling to keep your head above water, it may now be time to confide in others and seek their help and support. Others will offer you a new perspective, or even just a place to vent, that will ease some of the stress and tension.
+
+The Nine of Swords reversed appears when you are gripped by fear. You are allowing your fears to impede your fullest potential and it is stripping you of your life force. You cannot take a step forward because you are so distressed about what might happen. Get a reality check and evaluate which fears are warranted, and which are not. Release your limiting beliefs, crippling fears, and self-doubt.
+
+The reversed Nine of Swords can also point out that you are incredibly hard on yourself, putting yourself down or engaging in negative self-talk. So, when the Nine of Swords reversed appears in a reading, ask yourself why you are so hard on yourself. How are you putting yourself down, and what is the source of your depression? What can you do to make yourself feel better? You may need to make a more conscious effort to quit the negative self-talk and replace it with positive reinforcement for a job well done.
+
+On a more positive note, the Nine of Swords reversed can show that you have already worked through this period of worry and depression and are making a recovery. You may have come to the realisation that things are not as bad as you made them out to be, and you are beginning to relax and calm yourself about what was once a terrifying situation.
+
+### Ten of Swords
+
+**UPRIGHT**: Painful endings, deep wounds, betrayal, loss, crisis
+
+**REVERSED**: Recovery, regeneration, resisting an inevitable end
+
+#### Ten of Swords Description
+
+The Ten of Swords shows a man lying face down, apparently dead, with ten swords in his back. A red cape drapes over the lower half of his body as a sign of dignity as he leaves this world. While the dark sky is ominous, the sun is rising on the horizon, bringing a renewed sense of hope and opportunity. The calm sea in the background also brings solace, suggesting that even in times of darkness, there is a sense of peace and calm to be found.
+
+#### Ten of Swords Upright
+
+The Ten of Swords marks a painful yet inevitable ending. For example, a relationship may come to an abrupt end, your job may be cut, or a contract is broken. It is as if this ending has come out of the blue and rocked your world. You could have never expected it, but now it has happened, cutting to the core and leaving you feeling as if the world has crumbled in around you. You are grieving the pain of this shocking loss and wonder if you will ever love or find work or trust again.
+
+When the Ten of Swords appears in a Tarot reading, you may be the victim of another person’s betrayal or deceit. You feel as if you have been stabbed in the back and are reeling from someone else’s actions. Your partner may have cheated on you, a colleague may spread nasty rumours about you, or a family member has betrayed your trust. The pain inflicted runs deep not because what they have done is hurtful, but because you know deep down that this marks the end of your relationship as you know it with them. Along with feeling the pain, you may grieve the loss of the relationship.
+
+The Ten of Swords can suggest that you are taking on the role of ‘victim’ hoping others will pity you and save you from despair. You cannot change the actions of another person, but you can change how you respond. Even if you have been harmed or betrayed, you now have a choice to pick yourself up and move forward with your life, rather than falling down in a heap hoping someone will take pity on you.
+
+In that way, the Ten of Swords is about letting go and accepting your current circumstances. You no longer resist change but allow it to happen, even if it causes initial pain and hurt to you. You recognise that there must be a change to facilitate renewal, and you allow it to occur rather than fighting it.
+
+The good news is that the Ten of Swords marks the final ordeal – no more pain will come to you from that source. The hour is darkest before dawn, and you must experience the full impact of what has happened before you can move forward and start over. Is it going to be easy? No. But, will this ordeal last forever? No.
+
+Pick yourself up off the ground and reflect upon what happened to you and why, and what you can learn from the experience. When you do this, the hurt and pain will fade, and you will soon see why all of this needed to happen so that you can evolve into your fullest potential. The pain and hurt you have endured have not gone without purpose. Use the positive power within you to learn from your pain and draw wisdom from defeat.
+
+#### Ten of Swords Reversed
+
+The Ten of Swords reversed indicates that you are combating an inevitable change or ending because you are not ready to face up to what is happening. However, the more you resist, the more this situation will continue to drag on, so it’s time to rip off the bandage (however painful that might be) and get this over with so you can start fresh. Trust that everything is happening for a reason and even though it may be difficult to understand what you are going through, know it is leading to your personal growth and regeneration in the long-term.
+
+Similarly, the Ten of Swords reversed may represent an old situation that ended badly. You are still carrying around wounds from it but have buried them so deeply that you do not realise they are still present (and hurting you). These old pains need to be dealt with once and for all. It may be difficult to delve back in, but it’s the only way to release yourself of this pain and allow it to pass from your life.
+
+The reversed Ten of Swords encourages you to re-evaluate your circumstances and let go of any aspect of your life that is no longer serving you. Rather than dwelling on your painful past, it is essential to look ahead and realise how these events free you up to reshape your life and choose a new direction for yourself. You can free yourself of your past and create a new sense of self.
+
+Finally, the Ten of Swords reversed can appear as a welcome sign that the pain and sadness you have been feeling is ending. When upside-down, the swords in the man’s back look to be falling out, releasing him of the pain and hurt he has been suffering. You are releasing the memories of the past and allowing yourself the opportunity to move forward with a sense of renewal and hope for the future.
+
+### Page of Swords
+
+**UPRIGHT**: New ideas, curiosity, thirst for knowledge, new ways of communicating
+
+**REVERSED**: Self-expression, all talk and no action, haphazard action, haste
+
+#### Page of Swords Description
+
+The Page of Swords shows a young man standing with his sword pointing upwards to the sky. His body and the sword lean in one direction, but he looks the other way as if to see what else is happening around him. A breeze blows through the young man’s hair, and the clouds behind him appear to dash through the sky, bringing dynamic energy to the card. The ground on which the Page stands is green and fertile, suggesting that the Page’s ideas are likely to bring positive change and forward movement.
+
+#### Page of Swords Upright
+
+The Page of Swords is full of energy, passion and enthusiasm. When this card shows up in a Tarot reading, you are bursting with new ideas and plans for the future. You may be excited about starting a new project, pursuing a new approach or learning something new. You have so much energy that you feel as though you could do almost anything – and you can! The challenge, however, is whether you can keep it up. As with all Pages, the beginning always looks promising, but you need something else to follow through and keep up the pace.
+
+The Page of Swords often emerges when you are exploring a new way of thinking – a new idea, a new perspective, new knowledge, or a new technique. You have a curious mind and a thirst for knowledge. As you explore this fresh way of thinking, you are asking lots of questions and gathering as much information as possible. You are also very much in the exploratory phase and not mastery. You may be prone to making mistakes along the way, but your curiosity means that you are eager to learn from your slip-ups.
+
+As the Swords relate to communication, the Page of Swords suggests that you are exploring a different way of expressing yourself with others and communicating your ideas and opinions. You may be drawn to public speaking, writing a book or a blog, starting a podcast, or being more vocal on social media. You are a natural communicator and ready to take the next step to share your message with the world. Again, this is the exploratory phase, so be open to new ways of expressing yourself and discovering where your inner talents lie.
+
+If you are looking for a sign to move ahead with a new project, the Page of Swords says, ‘Go for it!’ There will always be challenges with whatever way you choose, and not everyone will be thrilled with your choices, but when it comes down to it, you need to follow your passions and go where your true energy lies. This Page encourages you to move forward and to get the wheels in motion, despite any challenges or setbacks that might stand in the way.
+
+The Page of Swords can also represent your relationship with a person who is exploring their ability to communicate, share ideas, and gather information. You may have your moments with this Page, as the Swords often express a level of tension or conflict, and this bundle of energy may sometimes prove too much to handle. If you need to, give yourself a break from this person, and return with fresh eyes. They have a lot to share with you, and despite their inexperience, may teach you something about yourself. You need to stay open to their enthusiasm to learn more about the world.
+
+#### Page of Swords Reversed
+
+The Page of Swords reversed can appear in a Tarot reading when you are holding back from expressing your truth, especially in a public forum. You prefer to express your thoughts and opinions privately or anonymously. Perhaps you like to keep a private journal, or you’re writing a book just for yourself and nobody else. Or, you have a point of view about a public issue but have not defined your message. If you need a little nudge to go public with your ideas and opinions, the reversed Page of Swords might be it. Let go of fear and shout your message from the rooftops!
+
+At times, the reversed Page of Swords can mean that you are all talk and no action. Be careful about making promises you know you cannot keep or saying things you’ll later regret. Before making a specific promise or commitment, make sure that you can and will deliver on it to preserve your integrity and reputation. Also, be wary of other people’s commitments to you and put in place measures to ensure that they will deliver on what they promise. This reversed Page can be a ‘know-it-all’ and may try to impress you with big stories of his past and his achievements (which you later find out are big exaggerations of the truth).
+
+Reversed, the Page of Swords can also suggest you are acting hastily, without thinking things through. You have a lot of energy behind you but are not using it effectively. Tackle things one at a time rather than trying to manage everything at once. Doing so will lead to more meaningful outcomes.
+
+As this Page likes to ask a LOT of questions, the reversal of the card can be a sign that you are annoying others by your constant questioning and challenging of ideas. While you may just be trying to understand a situation or a concept better, there are more constructive and non-threatening ways to go about it. Use sentences such as, ‘Help me understand….’ Be conscious of how you may come across to others and only challenge or question those ideas that are important to you.
+
+### Knight of Swords
+
+**UPRIGHT**: Ambitious, action-oriented, driven to succeed, fast-thinking
+
+**REVERSED**: Restless, unfocused, impulsive, burn-out
+
+#### Knight of Swords Description
+
+The Knight of Swords shows a knight dressed in armour, charging ahead with great energy on his powerful white horse. The knight’s sword is held high, a symbol of his dedication to his purpose and mission. The white horse symbolises the purity of the intellectual energy that motivates the knight. In the background, storm clouds are beginning to form, and the trees bend in the strong winds. The wind doesn’t stop the knight, however; he heads directly into it, eager to complete his mission.
+
+#### Knight of Swords Upright
+
+As with all Knights of the Tarot deck, the Knight of Swords is a man (or woman) on a mission – once he has his mind set on something, nothing is stopping him. And as a Swords card, this Knight actively uses the power of his intellect to achieve his goals.
+
+When the Knight of Swords appears in a Tarot reading, it is a sign that you are highly driven, ambitious and action-oriented. You are so highly motivated to succeed that you will stop at nothing to pursue your dreams. The challenges, difficulties and obstacles on the path ahead don’t faze you because you know where you want to go. Move forward with sheer strength and determination to make things happen.
+
+The Knight of Swords suggests that you are quick to take action and tend not to plan ahead, instead preferring to dive right in. You thrive on high levels of energy that propel you forward and inspire you to take action to manifest your goals.
+
+The Knight of Swords reminds you to be assertive in getting what you want. He doesn’t hang back and wait for something to happen. He is always making the first move and actively pursuing his goals. You can harness this energy in your life too by being proactive and forward-thinking. See yourself as the creator of your future and be ready to take the necessary steps to make it happen.
+
+The downside of the fast-thinking, quick-acting Knight of Swords is that sometimes you act too quickly and haven’t thoroughly thought things through. You may be unaware of potential challenges and issues that will stand in your way, or the unintended consequences of your actions. You may be prone to rushing things or cutting corners to get a job done. Or, you may pursue a specific goal, thinking it is what you want, but later realise that it’s out of alignment or a dead-end. Sometimes a little planning and preparation can go a long way.
+
+The Knight of Swords also represents your need to understand the world from an intellectual point of view. You have well-developed communication skills and can easily form solid arguments and opinions on current affairs and important matters. You love to engage with others who have similar skills so that you can share your ideas and develop new points of view. You may be best suited to discussion groups with like-minded individuals where you can fire each other up and motivate one another.
+
+#### Knight of Swords Reversed
+
+The Knight of Swords reversed can appear in a Tarot reading when you are brimming with energy and motivation but cannot effectively channel and release this energy. You are growing restless and frustrated because you want to take action, but something is holding you back. Perhaps the timing isn’t right, you don’t have enough resources, or you’re relying on someone else who isn’t ready. You need to find alternative ways to release this energy. Otherwise, you are going to burst.
+
+Similarly, the Knight of Swords reversed suggests that you have little direction and are making rash and impulsive decisions, pulling others down with you. Your thoughts are scattered, and you are constantly changing your mind. If you are leading others, this can be very confusing and frustrating for all involved. Even if working alone, you may find that your distracting ‘monkey mind’ is getting in the way of your overall success. You may need to apply a single focus; pick an idea and then stick with it until it is complete. It will take mental discipline to see it through – are you up to the task?
+
+The reversed Knight of Swords can also suggest that you need to slow down; otherwise, you are at risk of severe burnout and exhaustion. You want to be involved in everything, but you are not succeeding at anything due to this roving energy. As such, you are accomplishing very little and growing more tired by the day. Take some time out so that you can first ground yourself, gather your thoughts and concentrate on only the top priorities.
+
+Finally, the Knight of Swords reversed indicates that you need to go it alone to build up valuable life experience and maturity. As you search for freedom and independence, it is likely you will make mistakes on your way due to your reckless and impatient nature, but this is all a part of the journey.
+
+### Queen of Swords
+
+**UPRIGHT**: Independent, unbiased judgement, clear boundaries, direct communication
+
+**REVERSED**: Overly-emotional, easily influenced, bitchy, cold-hearted
+
+#### Queen of Swords Description
+
+The Queen of Swords sits on a stone throne decorated with a cherub, representing the Queen’s softer side, and butterflies representing transformation. She faces towards the future, with her left hand raised as if to receive, and in her right hand, she holds a sword up high and straight, representing her desire to find the truth in all matters. As with the earlier Swords Court cards, clouds accumulate in the sky and a strong wind that passes through the trees, symbolising the ongoing nature of change.
+
+#### Queen of Swords Upright
+
+The Queen of Swords combines the mental clarity and intellectual power of the suit of Swords with the maturity and receptiveness of the Queen. You have the gift of being able to use your intellect and unbiased judgement while also remaining flexible and open to receive input from other sources. As you lead from the head and not the heart, you are better able to discern situations without the influence of emotion or sentimentality. You may believe that empathy or compassion towards others will distract you from the task at hand. Instead, you prefer to know the how, what, why, where, when and who of everything to help you make sense of your environment and better understand others. It is not that you do not care about others, but you connect with other people through an intellectual understanding rather than an emotional one.
+
+The Queen of Swords notes that you are a truth-seeker. You are open to hearing the thoughts and opinions of others, but ultimately, you filter that information to decipher what is true and what is not. When interacting with others, you will not tolerate mistruths or excessive ‘fluff’. You prefer to get to the heart of the matter without engaging in too much chit-chat or gossip.
+
+The Queen of Swords suggests that you have an innate ability to tell it like it is. You are a quick thinker and highly perceptive, piercing through the noise and confusion to get straight to the point. There is no ‘beating about the bush,’ or ‘softening’ of your comments, opinions and thoughts. You are upfront and honest in your views, and you expect the same from others. For this reason, many people respect your opinion and come to you for advice when they need clarity.
+
+As a determined, independent and resilient person, you have established clear boundaries, and you are quick to call out someone who crosses them. People do not mess with you, not because you threaten them or inflict violence, but because you set expectations up front about how you want to be treated. Some people might be intimidated by you, but once they get past your tough exterior and develop a sense of trust and respect, they see your softer side.
+
+#### Queen of Swords Reversed
+
+The Queen of Swords reversed points out that you may allow your emotions to get the better of you as you put your heart before your head. You may be emotionally involved in a particular issue, and it could be distorting your perception of the situation at hand. You need to use your head a bit more to understand what is happening and read the signals more accurately. Take an objective look at what’s going on and decide what you need to do next.
+
+The reversed Queen of Swords suggests that your relationships are clouding your usually clear vision. You are allowing others to dominate you and negatively affect your ability to make decisions. You hesitate to pursue your plans because you don’t want to rock the boat or disrupt your relationships with others. At the end of the day, however, you need to be more hard-edged, confident and assertive to be successful. Sharp analysis, objectivity, and careful consideration of (but not necessarily choosing) the alternatives are essential right now.
+
+At times, the reversed Queen of Swords can come across as cold-hearted, resentful and bitchy, particularly if she is devoid of any emotion or compassion for others. This card may represent a part of yourself or someone else you are trying to deal with. You may be putting others off-side and losing your supporter base, isolating yourself from others and being seen as narrow-minded, intolerant and mean.
+
+### King of Swords
+
+**UPRIGHT**: Mental clarity, intellectual power, authority, truth
+
+**REVERSED**: Quiet power, inner truth, misuse of power, manipulation
+
+#### King of Swords Description
+
+The King of Swords sits upon his throne, facing forward as if ready to confront whatever life throws at him. He holds a sword in his right hand, the hand of the conscious, rational mind, and points it upright and to the left, the side of the subconscious, intuitive mind. This symbolises the King’s decisiveness, but also flexibility in all matters; while he makes decisions based mostly on his intellectual understanding, he stays open to his intuition. The King wears a blue tunic, symbolic of a desire for spiritual knowledge, and a purple cape, symbolic of his compassion and intellect. The back of his throne is decorated with butterflies (transformation), crescent moons and an angel just near his left ear, positioned as if to give him subtle guidance.
+
+The trees behind him stand still, and the clouds have settled. The wind from the previous Swords court cards has died down, giving the impression of stability and clarity rather than the confusion of sweeping change.
+
+#### King of Swords Upright
+
+The King of Swords is a symbol of intellectual power and authority and has the courage and intellect to achieve all that he desires. When this card appears in a Tarot reading, you are in your power, ruling from a place of authority and respect. You stand firm in your truth and express yourself with deep conviction. As a result, others pay attention to what you have to say.
+
+The King of Swords indicates that you have a clarity of mind and can perceive the truth, so it is up to you to take the lead with providing an objective point of view and making decisions based on impartial judgement. You are well-positioned to judge your situation appropriately and identify any limiting behaviours getting in the way. You are also masterful at keeping your emotions in check while you draw upon your intellectual power and mental clarity to ascertain the truth. You cut straight to the point and get to the heart of the matter for maximum efficiency and impact. While you may worry that you are not being particularly caring or sympathetic with others, this detachment is what you need most right now.
+
+The King of Swords encourages you to use your logic and intellect to navigate the path ahead. You will need to make firm and well-researched decisions and stay fair in your dealings with others. You need to be able to take any situation, look at it with total impartiality, and then come to a balanced and insightful decision.
+
+Often, the King of Swords represents a professional advisor, such as a solicitor or attorney, financial adviser or taxation consultant. This advisor has a solid reputation and a vast amount of knowledge in his particular field. He is impartial and will draw upon his experience and his innate understanding of the rules, systems and structures to give you well-researched advice. He may come across as detached or disinterested in your personal circumstances unless it relates specifically to his skillset. This is so he can provide only the most relevant guidance to you. He prides himself on his expertise and qualifications and is likely to charge a high fee for his services. Nonetheless, he offers the rigour and specialist knowledge that you need right now.
+
+If you have not engaged the help of an expert, the arrival of the King of Swords suggests that it may be worthwhile getting legal or financial advice. If you are expecting changes or particular circumstances that will require an expert opinion, you can be on the front foot by seeking help before they happen. That way, when they do roll through, you are ready to demand your rights and find an outcome that benefits you. You may also benefit from finding an advocate or mentor who can provide you with smart advice.
+
+#### King of Swords Reversed
+
+The King of Swords reversed represents ‘quiet power’. You may not be the loudest person in the room or the most visible on public platforms. However, you have a lot to contribute and share in your own, magical way. Your power and authority come from within, from your unwavering belief in yourself, your deep connection to your values, and your commitment to stand firm in your truth. You do not allow others to steer you off-course, instead preferring to draw your energy from your Higher Self and connect with what truly matters to you.
+
+That said, sometimes the King of Swords reversed can allude to a misuse of power. You may have accumulated significant power and authority, but it has gone to your head, and your ego is now running the show. You may be using your ability to manipulate or persuade others to fulfil your personal needs, withdrawing love, sex, or support as a way to punish your partner. Or you may be using your advanced intellect to make others feel inferior or disadvantaged.
+
+An inverted King of Swords can represent someone who is very intelligent and likes to show off to others about how smart he is by using big words or discussing lofty topics about which no one else knows much. He may be cutting in his words, critical of others, and stern in his manner. This card may represent a person in your life or even yourself; either way, you need to be wary because, although this King may be alluring and intelligent, he can do only harm. He has only his personal interests in mind and will do whatever he can to achieve these interests, even if it means taking advantage of you.
+
+The reversed King of Swords can also reflect a lack of decisiveness about where your best opportunities lie or in what direction you want to go. You may also lack the mental clarity to work out what you need to do in your situation. Your thoughts are scattered and may start to feel panicky and out of control. Upright, the King is typically a very rational man who uses his intelligence and a definitive understanding of a situation to make critical decisions, but reversed, this card indicates that you are feeling lost and uncertain about your options, let alone the decisions you need to make. As a result, you are delaying necessary decisions and generally not achieving anything because you are getting so worried.
 
 ## Minor Arcana: Pentacles
 
