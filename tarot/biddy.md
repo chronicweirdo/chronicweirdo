@@ -59,6 +59,23 @@ Minor Arcana - Swords:
 - [Queen of Swords](#queen-of-swords)
 - [King of Swords](#king-of-swords)
 
+Minor Arcana - Pentacles:
+
+- [Ace of Pentacles](#ace-of-pentacles)
+- [Two of Pentacles](#two-of-pentacles)
+- [Three of Pentacles](#three-of-pentacles)
+- [Four of Pentacles](#four-of-pentacles)
+- [Five of Pentacles](#five-of-pentacles)
+- [Six of Pentacles](#six-of-pentacles)
+- [Seven of Pentacles](#seven-of-pentacles)
+- [Eight of Pentacles](#eight-of-pentacles)
+- [Nine of Pentacles](#nine-of-pentacles)
+- [Ten of Pentacles](#ten-of-pentacles)
+- [Page of Pentacles](#page-of-pentacles)
+- [Knight of Pentacles](#knight-of-pentacles)
+- [Queen of Pentacles](#queen-of-pentacles)
+- [King of Pentacles](#king-of-pentacles)
+
 ## Major Arcana
 
 ### The Fool
@@ -1746,5 +1763,453 @@ An inverted King of Swords can represent someone who is very intelligent and lik
 The reversed King of Swords can also reflect a lack of decisiveness about where your best opportunities lie or in what direction you want to go. You may also lack the mental clarity to work out what you need to do in your situation. Your thoughts are scattered and may start to feel panicky and out of control. Upright, the King is typically a very rational man who uses his intelligence and a definitive understanding of a situation to make critical decisions, but reversed, this card indicates that you are feeling lost and uncertain about your options, let alone the decisions you need to make. As a result, you are delaying necessary decisions and generally not achieving anything because you are getting so worried.
 
 ## Minor Arcana: Pentacles
+
+### Ace of Pentacles
+
+**UPRIGHT**: A new financial or career opportunity, manifestation, abundance
+
+**REVERSED**: Lost opportunity, lack of planning and foresight
+
+#### Ace of Pentacles Description
+
+The Ace of Pentacles depicts a hand emerging from the clouds, much like the Aces of the other suits. A large coin sits in the cupped palm, freely available to whoever has the wherewithal to take it. It is as if a new opportunity, associated with wealth, business, and manifestation, has appeared out of nowhere and is now being extended to you in all its glory. The impetus is now on you to accept this offer and turn it into something meaningful and sustainable.
+
+The landscape in this card is lush and abounding: a garden brimming with green grass and white lilies. A small path leads to an archway, wrapped in beautiful foliage and flowers and, beyond the arch, mountain peaks soar in the horizon. This verdant imagery signals that the time is ripe to move forward with your career and financial ambitions. While it will require hard work and determination (scaling mountains is no easy task), the Ace of Pentacles encourages you to make the most of this opportunity while it’s in its most abundant state.
+
+#### Ace of Pentacles Upright
+
+The Ace of Pentacles, like the other Aces of the Tarot, represents new beginnings, opportunities, and potential – and as a Pentacles card, these new beginnings correlate to the material world: finances, wealth, career, physical health and manifestation of your goals. You may receive a new job offer, an unexpected sum of money, a new business or investment opportunity may come your way, or you’ll have the chance to bring an idea to fruition. No matter the occasion, the Ace of Pentacles heralds a sense of prosperity and abundance in the material or financial areas of your life. It undoubtedly comes as a welcome invitation – but it is not a free ride. As with all Aces in the Tarot deck, this card illustrates the possibility of a new endeavour but does not guarantee its manifestation or success. That piece is up to you.
+
+See the Ace of Pentacles as your ‘green light’. It marks the initial stages of manifesting your goals and assures you that you can truly achieve what you have set your mind to do. The world is your oyster and, through careful planning and determined effort, you can manifest your goals and desires. Your ideas are ready to turn into something tangible and real! This card encourages you to map out how you will achieve your ambitions, create targeted plans and get those actions underway. Keep your eyes open for chances to manifest your goals and realise your inner potential.
+
+The Ace of Pentacles also symbolises wealth, not just for your bank account but in a holistic sense as well. You may discover opportunities to generate a new source of income or receive a financial gift or windfall. Or you may have a chance to create wealth in a broader sense – happiness, fulfilment, potential, and love. This Ace signifies abundance in all areas of your life. Enjoy it! Feel blessed and deserving of everything that comes your way. If you wish to amplify this feeling of prosperity, live by the Law of Attraction and send your positive energy and intent into the Universe so you will receive more in return.
+
+#### Ace of Pentacles Reversed
+
+When the reversed Ace of Pentacles appears in a Tarot reading, you may feel hesitant about moving forward with an offer, invitation or opportunity, particularly one that relates to your career, finances or business. You may catch yourself second-guessing the timing or doubting whether you have what it takes to see it through. Don’t move forward until you’re ready. Assess the feasibility of your idea and its potential outcomes. Perform your due diligence and figure out if this opportunity is meant for you or not.
+
+The Ace of Pentacles reversed may also be a warning that a financial opportunity – a pay raise, a new job, a loan, or a business offer – could fall through unexpectedly or the other party might retract it without explanation. As the saying goes, “Don’t count your chickens before they hatch!” So, if you get an offer, wait until the money is in your bank account before spending it.
+
+Furthermore, the Ace of Pentacles reversed advises you to be very careful with your expenditures. When the card is inverted, the coin looks as though it’s about to fall out of the magical hand. Now is not the time to get in over your head or take on any obligations with huge monthly repayments. Do not rely on the promise of a financial opportunity in the future (like a pay raise or a gift) either. Be pragmatic and allow a bit of ‘fat’ in your budgeting in case you are without employment or have a large and unexpected financial outlay.
+
+At times, the reversed Ace of Pentacles suggests that you are trying to manifest your goals but keep running into delays and other impediments. If you’re having limited success, then you may need to revise your proposed approach. Do you need to realign your goals to something more realistic? Financial or other professional advice may be necessary to help you get back on track.
+
+If you are looking to start a new business or take up a new job offer, the reversed Ace of Pentacles warns of a significant risk due to lack of planning and foresight. Do not charge ahead without validating whether the market has a need for your services. Spend a bit more time in the planning stage and give ample consideration to the financial aspects of your new venture.
+
+### Two of Pentacles
+
+**UPRIGHT**: Multiple priorities, time management, prioritisation, adaptability.
+
+**REVERSED**: Over-committed, disorganisation, reprioritisation.
+
+#### Two of Pentacles Description
+
+In the Two of Pentacles, a young man dances while juggling two coins in his hands. The infinity symbol links the coins, suggesting that this man can handle unlimited problems so long as he manages his time, energy and resources well. In the background, two ships sail the high seas, bobbing up and down on the huge waves – another sign that the ups and downs of life are manageable with focus and attention.
+
+#### Two of Pentacles Upright
+
+When the Two of Pentacles appears in a Tarot reading, it’s safe to say you are juggling your priorities, roles and responsibilities. For example, you may be a working parent, a general manager of a business, an administrative assistant in a busy office, or someone who works multiple jobs. In the upright position, this card notes you are doing an excellent job of balancing these different priorities, and you can take on whatever life throws at you; but this Two reminds you that the line between coping with these demands and losing control is thin. You need to manage your time, energy and resources carefully so you do not lose your balance.
+
+The Two of Pentacles often appears when you are busy, rushing from one thing to the next, with little downtime in between. You may tell yourself that you haven‘t got enough time or you’re in a rush. However, remember that you don’t have to be busy to get things done. Sometimes taking a break is the most productive thing you can do. Similarly, the Two of Pentacles can appear when you are getting caught up in the day-to-day demands and losing sight of the bigger picture. If this resonates, ask yourself: What life do I want? And how can I reorganise my schedule to create the life I desire?
+
+The Two of Pentacles invites you to manage your time and your priorities carefully. Your workload is high right now, and to get everything done, you need to stay focused and productive. You may benefit from a ‘to do’ list, better calendar management and a stricter schedule. You may even enlist the support of an assistant or business coach to help you make the right changes. Basic time management is crucial to your ability to juggle these various priorities and keep your head above water. This card also reminds you to pay special attention to your general administration, including paying bills managing finances, staying on top of your commitments and maintaining your diary. Be careful that you do not miss important deadlines, meetings and other obligations.
+
+This card calls your awareness to the concept of balance and those parts of your life where you have it (and those where you don’t). While you can strive for equilibrium, nothing ever stays in perfect harmony. For example, stabilising your work and family commitments sounds fantastic, but in reality, your family might be more high-priority one week, and work the next. So, when the Two of Pentacles appears in a Tarot reading, see it as a reminder to be patient, flexible and adaptable as you try to juggle your responsibilities with your family, friends, work, finances, health and new challenges. Be ready to swap around activities or accommodate last-minute requests. And know that if you are succeeding in one area of your life, it’s likely you’re struggling in another – that’s just a part of the balancing act!
+
+#### Two of Pentacles Reversed
+
+In an inverted position, the Two of Pentacles warns that you are overcommitted and, at times, struggling to maintain your overloaded schedule or stay on top of your bills. Others might not see it yet, but the stress is getting to you and you may even catch yourself dropping the ball. Follow this card’s lesson and get organised. You may need to bring more structure to your responsibilities through budgets, to do lists, forward planning or a diary and effective time management. Turn down opportunities that are no longer in alignment with your goals.
+
+The reversed Two of Pentacles can also be a sign you are over-investing in one area of your life at the expense of others. For example, you may excel in your career, but have little time for your family or your partner, leaving them feeling disconnected and alone. While you may get away with a few late nights at work, there will come a time when enough is enough. Something has to give.
+
+The reversed Two of Pentacles invites you to reassess your priorities and goals and decide where you want to spend your time and energy. Distractions are plenty, and it will take every ounce of your concentration to stay true to your goals. Choose the one thing you need to focus on so you can give it your undivided attention and you will reach success.
+
+### Three of Pentacles
+
+**UPRIGHT**: Teamwork, collaboration, learning, implementation.
+
+**REVERSED**: Disharmony, misalignment, working alone.
+
+#### Three of Pentacles Description
+
+The Three of Pentacles shows a young stonemason working with his tools on a portion of a cathedral. In front of him two architects hold the plans for the design. The soaring ceilings and intricate engravings signify that both parties are skilled in their respective crafts. The stonemason appears to be discussing his progress so far with the architects, and even though he is less experienced, they value his opinion and specialist knowledge. Their body language insinuates that this young man is an essential contributor to the cathedral’s completion and the architects want to make sure that everyone is on the same page.
+
+#### Three of Pentacles Upright
+
+The stonemason couldn’t build the cathedral without the help of the architects, and they couldn’t build it without him. Each person has an important role to play, and when they come together as a team, they can create something much more significant than if they were to undertake the project on their own. So, when the Three of Pentacles turns up in a Tarot reading, take it as a sign to collaborate with others, creating synergies to achieve big results.
+
+The Three of Pentacles represents the value of different ideas and levels of experience in collaboration. The architects respect the specialised knowledge of the stonemason, and the stonemason appreciates the wisdom and experience of the architects. Even though their backgrounds, experience levels and expertise are very different, they can come together to share their insight in a way that creates synergy and improves the finished product. There is no ‘us and them’ or any sense of superiority. Instead, each person has something to offer and is willing to learn from the others involved in the project. Everyone is getting the job done collectively and contributes to the group through active listening and sharing. As you work on projects with others, acknowledge the value that each person brings to the table. You will also learn from each member of the team when you see his or her unique contribution.
+
+The Three of Pentacles, like the Threes in the other suits, marks the initial stages of implementation that follow the Ace‘s idea phase and the planning step of the Two. You know what you want to create; you’ve laid out the plans, gathered your resources (money, people and time), and set to work – you may have already reached your first significant milestone. Of course, you are nowhere near the finish line just yet, but you have got the ball rolling and are making things happen.
+
+As you implement your plans, you will realize that you have the skills, capabilities and resources you need to accomplish your objectives. See the Three of Pentacles as an encouragement that you are on the right track. You are competent at what you do, and you are making progress. Keep going! Adequate preparation, management and organisation are also integral components of the Three of Pentacles. Achieving significant goals, such as building a grand cathedral, requires detailed planning. This card, therefore, tells you to create a comprehensive plan and to follow a schedule. Now is when good project management will pay off.
+
+#### Three of Pentacles Reversed
+
+Reversed, the Three of Pentacles suggests you may be grappling with a lack of harmony with fellow team members, making it difficult to complete a project. You’re not on the same page as one another, or you’re not listening or valuing one another’s opinions and ideas. If this resonates, you need to realign with the original goals of the project and make new agreements about how you will work together to achieve those goals. You may need to renegotiate timelines, resources, and the amount of energy you each put into the project. Given that the upright Three of Pentacles is about proper planning and organisation, the reversal of this card can suggest that you need to bring more systematic energy into your job. If you do not have a clear view of how you will accomplish your goals, then it will be beneficial to stop work momentarily and plan out your next steps at a detailed level.
+
+There may also be a lack of respect between team members, with individuals trying to prove themselves and gain superiority over others. If this is the case, set clear guidelines for the team, especially around respect and collaboration. Acknowledge the unique contribution each person makes, no matter his or her experience or knowledge.
+
+The Three of Pentacles reversed can also point out that you are working in a relatively mundane job in which your contributions and experience go unappreciated and under-valued. There is not much opportunity for growth and advancement, and you feel as if your skills and capabilities are not being utilised. It may be a good time to make a career move and find an organisation that values your talents.
+
+At times, the Three of Pentacles reversed can indicate that you prefer to go it alone and get the job done yourself. You may be fed up waiting for others or feel inclined to just do it all on your own. You may be right. However, if you find yourself struggling, be open to asking for help.
+
+### Four of Pentacles
+
+**UPRIGHT**: Saving money, security, conservatism, scarcity, control.
+
+**REVERSED**: Over-spending, greed, self-protection.
+
+#### Four of Pentacles Description
+
+The Four of Pentacles shows a man sitting on a stool, beyond the boundaries of his hometown. His arms are wrapped tightly around a coin as if he fears he may lose it if he loosens his grip. He balances another pentacle on his head, impeding his connection with spirit, and two more sit securely underneath his feet. He clearly doesn’t want anyone to take his coins. However, because he is so attached to his money, he can’t move or go anywhere. He has no one to speak to, not even the friends and family members in the community behind him. The man finds himself stuck in one place with a singular fixation: wealth.
+
+#### Four of Pentacles Upright
+
+The Four of Pentacles asks you to examine your relationship with money. Are you accumulating wealth and investing your money wisely while still enjoying your day-to-day life? Or are you desperately clinging to every coin, afraid to spend your money for fear that you do not have enough or could lose it forever?
+
+In its most positive state, the Four of Pentacles suggests that you have created wealth and abundance by maintaining a steady focus on your goals and acting conservatively. You are attentive to your long-term financial security, actively saving money and watching your expenses so you can accumulate wealth and live a comfortable lifestyle not just now but also in the future. You may consider a savings plan, family budget, a retirement plan, and safe investments, so you can protect what you accumulated over time and slowly and steadily increase your net worth.
+
+However, the Four of Pentacles typically accompanies a scarcity mindset, especially with money and material possessions. Instead of spending your cash and enjoying a comfortable lifestyle, you are choosing to stockpile your finances, for fear you might lose it all or someone else might take it away. Your budget may be so conservative or strict that it cuts out many of life’s pleasures, including travel, social occasions, gifts, or fun activities – but for what purpose? Money works best when it can flow and exchange, not when it is being stashed away. Deep down you may realise that you are foregoing happiness and fulfilment in your life because you do not want to spend any of your money and you sold out for an overly safe approach to life. If this resonates, find a healthy balance between spending and saving, so you can enjoy the fruits of your labour but also save up for the future.
+
+The Four of Pentacles can also suggest that you are placing too much value on money and material possessions. You may be attached to material things, allowing possessions to become your life. You assess your self-worth based on how much you earn, the car you drive, how expensive your home is, and where you take your holidays. But, it’s a Catch-22 because as your standard of living increases, so too will the need to work hard to generate income to sustain this kind of lifestyle, leaving you with little time to enjoy your wealth.
+
+The broader lesson with the Four of Pentacles is to honour and respect money and wealth but don’t become so attached that you lose sight of what’s most important to you: friends, family, happiness and love.
+
+If you are struggling with your finances, then the Four of Pentacles comes as wise advice to manage your money and resources more carefully so that you do not live beyond your means. Make sure you do not spend more than you earn and that you have a budget and savings plan in place so you can reach your financial goals and live a secure and stable life.
+
+Beyond money and wealth, the Four of Pentacles appears when you are seeking out more control in your life. At work, you may be micromanaging or not letting others mess around with your area. In a relationship, you may be protective – even possessive – ensuring that no one else threatens what you built. On a personal level, you may have an inflexible attitude and resist change. You may even feel more inclined to hoard your possessions. After all, you already established a way of living that works for you! Change feels like a threat to your certainty, safety and security in life. Any suggestion of doing things differently is, therefore, going to be met with resistance. So, ‘playing it safe’ may be the way to go rather than taking any risks at this point.
+
+#### Four of Pentacles Reversed
+
+The reversed Four of Pentacles can appear when you are re-evaluating what’s important to you, especially when it comes to money and wealth. You may have placed too much value on material possessions and have now come to the realization that money and ‘things’ won’t make you happy – only love will make you happy. As a result, you may be loosening your grip on the need to surround yourself with ‘things’, in favour of seeking out more love and happiness in your life instead. You might be compelled to declutter your home or opt for a minimalist lifestyle. Money is no longer your number one priority and you are redefining your relationship with material possessions and money.
+
+The Four of Pentacles reversed can indicate that money is slipping through your fingers and your spending habits exceed your saving habits. You may be spending unconsciously, hoping it will bring happiness, but all it does is bring you more stress and anxiety as your bank balance declines.
+
+At times, the reversed Four of Pentacles can suggest that your love for money has turned to greed. You want more, more, more – but at what cost? In the quest to earn more money, you may be working longer hours but neglecting your loved ones. Or, if you have your own business, you may be pushing sales harder to generate more profit, but at the expense of your customers’ well-being. Look at the overall equation of cost versus benefit, and assess whether your quest for ‘more’ is really bringing you the happiness that you most desire.
+
+Finally, the Four of Pentacles can appear in a Tarot reading when you are in self-protection mode. You have a strong desire for security, stability and certainty and you are doing everything within your power to create a stable environment for yourself. Even when your outer world seems chaotic and in a constant state of change, you can create more certainty for yourself by controlling your inner environment. You might find tidying the house or organizing your things to be calming and relaxing under these circumstances.
+
+### Five of Pentacles
+
+**UPRIGHT**: Financial loss, poverty, lack mindset, isolation, worry.
+
+**REVERSED**: Recovery from financial loss, spiritual poverty.
+
+#### Five of Pentacles Description
+
+In the Five of Pentacles, two people walk through the icy wind and snow; both are destitute and living in poverty. One man is injured and on crutches, while the other is barefoot and has only a thin blanket to protect him from the bleak winter weather. Behind them sits a church with its lit up and exuding warmth, a symbol of hope, faith and spiritual support. However, because the two people are so focused on their plight, they fail to see that help is available to them and continue on in their desperate journey.
+
+#### Five of Pentacles Upright
+
+The Five of Pentacles is a card of financial loss and poverty. You have hit hard times, especially when it comes to your work, career, finances, and material possessions. You may have recently lost your job, your home, or your financial security. You no longer feel safe because it has all been stripped away from you in one blow. Your ego may also be bruised, especially since success often correlates to financial wealth; losing either can be a humbling blow to your self-esteem and sense of self-worth. The upside is that this is a Minor Arcana card with temporary effects (rather than a Major Arcana card which has a longer-term impact). This, too, shall pass.
+
+In this time of need, the Five of Pentacles indicates that you feel isolated and alone. Just like the two people in the card, you feel as if you have been left in the cold. You may wonder, “Why is no-one coming to help me!?” It may appear as if no one cares anymore. However, since the windows in the church are lit up, help is nearby; but you are too focused on your problems to notice. You may be waiting for someone to come and help you when really, you need to be proactive and ask for help. You need to swallow your pride or let go of your fear of rejection and reach out. People are here to support you. Find them and let them know you need them.
+
+At times, the Five of Pentacles highlights a ‘lack mindset’. You are sabotaging your ability to create abundance because you only focus on what you lack. All you can see is what is going wrong. To shift this energy, look for evidence of what you do have, even if it’s very small or seemingly insignificant, and express your gratitude for those blessings in your life. Over time, the positive aspects will continue to grow and soon, ‘lack’ and ‘not having’ will be a thing of the past.
+
+Similarly, the Five of Pentacles suggests that you fear you don’t have ‘enough’ or you may lose something important to you – even if it hasn’t happened yet or is unlikely. For example, you may live in fear that you will lose your job and will be left in the streets with no home and no support. If you stay focused on all the negative things that might happen, then be careful, because your manifesting powers may start to create the outcomes that you don’t want. Instead, redirect your attention to what you have now and what you want in the future, so your manifesting powers get used for good.
+
+#### Five of Pentacles Reversed
+
+The Five of Pentacles reversed indicates an end to difficult times, particularly if you have recently suffered a major financial hit or job loss. You may find new sources of income, a new job, or someone has offered to help you out while you get back on your feet. You may be starting to feel as if life is worth living again and regaining your self-confidence. Finally, you can see a way out of your financial difficulties and your hope is renewed.
+
+The reversed Five of Pentacles can sometimes illuminate the persistence of inner, spiritual poverty. You may feel as though something is missing or entirely out of place but are struggling to put your finger on what it might be. You may also feel isolated and alone, even in the company of many people. On deeper reflection, you may come to realise that you have placed too much emphasis on your material wealth and have neglected your spiritual well-being.
+
+It may worry you that you don’t have ‘enough’, especially when it comes to money and material possessions, and that you are not worthy because you are not wealthy. Perhaps you feel that you do not deserve expensive, luxury items, or that you cannot afford the things you truly want. You may worry that if you spend your money now, you won’t have enough for later. Or perhaps you’re spending your money on trivial things, leaving little left over for what you truly want. Either way, this negative cycle will only lead you to feel even more spiritually unfulfilled and ‘empty’. How might you break out of it?
+
+If you find your fixation on material things is causing harm to your spirit and your mindset, then it’s time to stop. Even if you have just a few cents to your name, you may still have a loving family or a beating heart. Yes, things may suck right now, but if you hear this poverty mindset coming through in your thoughts, pause for a moment and ask yourself whether “I can’t afford it” is the truth or a limiting belief. Trust that the Universe is here to support you financially, especially when you are following your calling and your soul purpose. When you truly value something, you’ll make it happen.
+
+### Six of Pentacles
+
+**UPRIGHT**: Giving, receiving, sharing wealth, generosity, charity.
+
+**REVERSED**: Self-care, unpaid debts, one-sided charity.
+
+#### Six of Pentacles Description
+
+The Six of Pentacles shows a wealthy man dressed in a red robe, handing out coins to two beggars who kneel at his feet. In his left hand, he holds a balanced scale, representing fairness and equality. This card reflects a state of financial security and generosity, suggesting that you can generously use your wealth and abundance for the benefit of others. But it also speaks to receiving generosity and the feeling of relief that accompanies much-needed assistance. The Six of Pentacles is a card of giving and receiving. Sometimes, you are on the giving end; other times, you are on the receiving end. It’s an ongoing cycle of life, and this card serves as a reminder that the balance can change at any time. Even if you are surrounded by wealth, there will be times when you need the help and support of others, so be generous with your resources, as you may need the support in the future.
+
+#### Six of Pentacles Upright
+
+You may be like the wealthy man in this card, sharing your wealth and abundance with others. You have accumulated great wealth and are now in a position to offer financial assistance to those in need. You give generously through charitable donations, tithing or fundraising and enjoy the good feelings associated with helping others. Even if you are not financially wealthy, you offer up your time, energy, love and support to those who are in need, knowing it will be appreciated. Giving of your time or your wisdom is often just as spiritually fulfilling as giving away money or gifts, and the intangible gift of your presence is received just as well, if not better. There may be times when you wonder if you can truly afford to give generously to others – and the wise advice of the Six of Pentacles is to trust that every contribution you make is valued and will come back to you threefold.
+
+You may also be inclined to make a loan to someone on the premise that they will eventually pay you back once they are back on their feet. This is a loan built on trust and good faith, knowing that if you give something away, it will come back to you. Remember, though, that this exchange is more about a short-term fix and not a sustainable solution. So, think about how you can financially support your family or friends in a way that encourages them towards self-sufficiency.
+
+On the other hand, you may be on the receiving end of other people’s generosity, accepting these gifts with gratitude. This will help you to get back on your feet and to eventually repay the charitable organisation or individual, either with your time or your restored wealth. You will also need to identify ways in which you can become more self-sufficient in the long run. The risk of accepting charity is that you become dependent on it and cannot look after yourself. Be mindful that you are not growing submissive or noticeably desperate as a result of the charity that someone else is providing you.
+
+Finally, the Six of Pentacles is a card representing financial harmony. The amounts flowing in and out are in balance, and you are thankful for what you have and happy to share with others in need.
+
+#### Six of Pentacles Reversed
+
+The Six of Pentacles reversed reminds you to make sure you are also giving to yourself. A little self-care will go a long way, especially if you have been in giving mode for a long time. Consider buying a little gift to show yourself appreciation for everything you’ve done; maybe a massage, a beautiful box of truffles, or simply write a love note to yourself to say ‘Thanks for everything’.
+
+The Six of Pentacles reversed can suggest that while you are giving to others freely, they are not giving back in return. For example, you may lend money to a friend, but they don’t pay you back. Or you help someone out, but they fail to return the favour and show a lack of gratitude and appreciation. It’s a one-way street, and you may feel as if they are taking advantage of you. While you can’t change the other person’s response or force them to repay the favour (or the money owed), you can learn from the experience and decline to help in the future. Or, if you do decide to offer help again, suggest an alternative way to pay you back so there is still a healthy exchange of energy – perhaps they cook a meal for you or offer you a service in return.
+
+If you are struggling yourself, be careful that you do not over-commit yourself to others who seek your help. You may have a tendency to spend or give away more than you can afford. While a generous spirit is a wonderful quality, you need to ensure that you are able to support yourself while helping others.
+
+The Six of Pentacles reversed asks you to be mindful about taking on debt. You are prone to getting in over your head, and it may come back to bite you with increasing interest rates or personal threats if you are unable to pay it back in time.
+
+An inverted Six of Pentacles sometimes reflects the selfish side of charity. Be careful that you are not trying to prove to others that you are generous because you can give to the poor or the needy. Aim to give selflessly rather than selfishly.
+
+In a relationship reading, the reversed Six of Pentacles suggests that one partner is doing a lot of the taking but not a lot of the giving, thus creating inequality in the relationship. You need to be careful that your generous spirit is not being taken advantage of and that you are not always the one making compromises for your partner’s benefit.
+
+### Seven of Pentacles
+
+**UPRIGHT**: Long-term view, sustainable results, perseverance, investment.
+
+**REVERSED**: Lack of long-term vision, limited success or reward.
+
+#### Seven of Pentacles Description
+
+In the Seven of Pentacles, a man leans on his hoe, gazing down at his abundant crop. He has worked long and hard to nurture tiny seeds into this thriving garden and can now take a break to enjoy the fruits of his labour. Note the expression in his face, however: he also looks fatigued – even a little ‘over it’ – from having worked so hard for this successful harvest. Success comes from hard work and patience, but this card reminds you to take care not to overdo it and exhaust yourself.
+
+#### Seven of Pentacles Upright
+
+The Seven of Pentacles shows you understand the value of putting in time and energy now for longer-term rewards and have a strong desire to invest in sustainable results. You are not looking for quick wins. You also want to make sure you are putting your attention on the right areas instead of wasting time and effort on tasks that will not deliver any value.
+
+When this card appears in a Tarot reading, see it as an invitation to step back from the day-to-day operations and look at the bigger picture. Celebrate what you have created and assess your progress so far. Are you on track? Are you focused on the right tasks for your goal?
+
+Similarly, if you are planning for the future, the Seven of Pentacles encourages you to take a long-term view and assess where you can best invest your time and energy for the maximum output. You do not want to keep putting your heart and soul into something if you won’t reap the rewards for your work – and you have undoubtedly seen that some areas in your life are just energy-sappers.
+
+If you have been working hard or putting the extra effort into something challenging and important for the last few months, the endeavour or project is near its culmination. Rest assured, your hard work will pay off. You are likely to see financial or other tangible rewards for all of your hard work.
+
+Sometimes, however, the Seven of Pentacles can indicate frustration with slow results. You have been labouring away at something important, and you may feel concerned that your efforts will go unrewarded. Be patient and appreciate the progress you have made so far. If your work has not yet paid off as planned, remember that your expectations may be unreasonable. There are no guarantees. Be grateful, focus on the present and do what you can with what you have.
+
+#### Seven of Pentacles Reversed
+
+The Seven of Pentacles reversed suggests your efforts may be scattered at this time and you are questioning whether you are investing in the right areas. You may outlay some initial money on things that will not produce ‘fruit’. Or, what you thought would make you happy is creating stress and anxiety and isn’t worth the effort. Examine where you are investing your time, energy and resources and make sure you are satisfied with your current progress and receiving a return on those investments. Use a prioritisation system to ensure you do not waste precious resources on areas that will not deliver results.
+
+Similarly, the reversed Seven of Pentacles suggests that even though you may continue to invest a lot of energy into a specific situation, you may not reap the rewards you are looking for. As such, this card calls on you to prioritise your activities carefully. You need to do a cost-benefit analysis of the major tasks involved to bring your project to fruition, as some are taking a lot of your time and energy without bearing the rewards you are seeking. For example, email and meetings are colossal time wasters if not used effectively. Take stock of what you still need to do to get where you want to be. Apply your focus.
+
+As a critical strength, the reversed Seven of Pentacles can show that you know when to stop investing in something when you see little return. Some people are inclined to keep ‘toughing it out’, just because they spent time, energy or money and don’t want to admit defeat. However, you are adept at identifying when a situation is no longer delivering you any value and know when to pack it in and try something else.
+
+In a relationship reading, the reversed Seven of Pentacles indicates you have been working very hard on laying the foundations for your relationship but now worry that you will lose all of it. You may also feel frustrated that the relationship is not progressing or growing as quickly as you had hoped, especially when you put in so much time and energy. Sometimes you can pour your heart and soul into something that comes with no guarantees. You may come to the realisation that this relationship just is not worth your time, no matter how much you try.
+
+### Eight of Pentacles
+
+**UPRIGHT**: Apprenticeship, repetitive tasks, mastery, skill development.
+
+**REVERSED**: Self-development, perfectionism, misdirected activity.
+
+#### Eight of Pentacles Description
+
+The Eight of Pentacles shows a young man labouring over eight coins, carefully etching out a pentacle shape into each coin. In the background, there is a small town, however he has separated himself from the distractions of home life so that he can fully dedicate himself to the task at hand. He is concentrating very hard, eager to do a good job and avoid any mistakes. As he creates each coin, his skills improve and he becomes a master at his craft.
+
+#### Eight of Pentacles Upright
+
+The Eight of Pentacles is a card of apprenticeship and mastery. When this card appears in a Tarot reading, you are working hard to improve your skills and become a master at what you do. You may have recently changed your work, education or financial circumstances, and now you are applying your sheer determination and concentration to master the new skill that you are learning. You are diligent and hard-working and you are applying yourself fully to whatever is at the centre of your attention. As you do the same task over and over, you work your way towards mastery of your craft, and through your perseverance and unwavering attention, you create success.
+
+The Eight of Pentacles may indicate further education or study in order to hone your skills. You may already be proficient in a particular skill set, but you are now seeking to master those skills. For example, you may be a great home cook, but now you are starting to focus your attention on fine French cuisine. Or perhaps you have learnt the basics of Tarot reading, but now you want to become a Tarot expert! You know that it will require a lot of focus and dedication in your studies, but you are willing to work hard and to pay attention to the details. You know that you will not learn these advanced skills overnight, but you are prepared for the journey towards becoming a master at your chosen expertise.
+
+More broadly, the Eight of Pentacles suggests you are working away at the finer details of the various aspects of your life, in an effort to continuously improve your situation. You may be unhappy with your current state, and you know you need to make some important changes in your life to increase your overall satisfaction. This card is a positive sign that you are committed to making those changes and to ensuring that you give yourself the best possible chance. Overall, this is a very hard-working and conscientious energy that is present in your life.
+
+The Eight of Pentacles is encouragement to keep doing what you are doing as it will eventually lead to success. Yes, it requires a lot of dedication, focus and patience but as each day passes and as you stay true to your values and beliefs, you get a little closer to your goal. It may not be as apparent as you may like but events are unfolding that will lead you to the right path. Continue working on yourself, too, and making ongoing improvements and adjustments to ensure that you are the best person you can be.
+
+If you encounter this card in a reading and are not currently engaged in the active pursuit of your goals, ask yourself what you could learn or create to better yourself or your circumstances. If you are already engaged in the pursuit of new learning, the Eight of Pentacles may be a card of encouragement and reassurance that the energy you invest in your development will be worth your while.
+
+#### Eight of Pentacles Reversed
+
+The reversed Eight of Pentacles can appear in a Tarot reading when you are focused on self-improvement and personal development. You are highly disciplined and focused when it comes to understanding your inner beliefs and behaviours, and you are dedicated to becoming the best version of yourself. You may have certain ‘rules’ such as only allowing yourself to think a negative thought for 17 seconds (knowing that after this amount of time it begins to have an increasingly negative impact on your well-being), or recalling three things you’re most grateful for before you go to sleep at night. You are ready and willing to do these things over and over until you see results with your well-being and general happiness.
+
+Alternatively, the Eight of Pentacles reversed may indicate that you are focused on creating perfection, but to your detriment. When you focus on every tiny detail, you lose sight of the bigger picture and why you’re doing the task in the first place. Similarly, your need for perfection may be getting in the way of your ability to adapt and change. You may like to have things done in a certain way, but what if the circumstances change? Can you adapt, or does it throw you into a tailspin? Know that perfection is a myth and surrender to the art of imperfection.
+
+The reversed Eight of Pentacles suggests that you are working very hard on a project, but it is not leading to the desired outcome. Instead, you’re feeling frustrated and disappointed by the lack of success and progress. You may be lacking the skills and talent that is necessary to be successful and it simply isn’t for you. Or you might be keeping yourself busy with small tasks, but struggling to make progress towards your bigger goals. It is time to take a step back and assess whether you are indeed focused on the right things, or if you need to shift your focus to bring your activities back in alignment with your broader goals.
+
+### Nine of Pentacles
+
+**UPRIGHT**: Abundance, luxury, self-sufficiency, financial independence.
+
+**REVERSED**: Self-worth, over-investment in work, hustling.
+
+#### Nine of Pentacles Description
+
+The Nine of Pentacles shows a well-dressed woman standing in a beautiful garden. She wears a flowing, golden robe and a red beret, signs of her wealth and social status. The vines behind her are heavy with grapes and golden coins, representing the fruitful accomplishment of all her desires. Her right hand rests upon one of the many coins, and her fingers wrap around the purple grapes on the vine, symbolising her healthy relationship with money. She can enjoy the fruits of her labours without overdoing it. A hooded falcon sits calmly on her left hand, signifying the woman’s intellectual and spiritual self-control. Far in the background is a large house, presumably belonging to the woman herself, a further signal of her abounding wealth and financial plenty.
+
+#### Nine of Pentacles Upright
+
+You have worked hard to create abundance in your life, and the Nine of Pentacles says now you can finally enjoy the fruits of your labour. Thanks to your independent efforts, self-confidence and discipline, you attained a well-deserved success and created a stable foundation for your material wealth and comfort. Now, sit back, relax and enjoy the luxuries and pleasures of the good life – money, leisure time, fun, material comfort and rest. You deserve it!
+
+When the Nine of Pentacles appears in a Tarot reading, do not be scared to splurge, indulge or pamper yourself, especially as a reward for all of your hard work. Treat yourself to a special occasion or a personal gift to celebrate your journey here. You have already achieved so much, and while you may not be at the finish line just yet, this is your opportunity to acknowledge your achievements and re-energise yourself for the final phase.
+
+The Nine of Pentacles also speaks of financial independence. The woman in this card has created a luxurious lifestyle by her own actions and efforts. She encourages you to do the same – to create abundance and independence so that you can take care of yourself in the long-term. Invest wisely and seek financial advice to make the most of your wealth. Don’t rely on others to support you; this Nine is an independent woman.
+
+While the suit of Pentacles typically focuses on material wealth and gain, this card also suggests that you are in harmony with the environment around you. You appreciate the beauty and abundance found in nature, and you can harness this high-vibe energy to bring pleasure into your life. You may enjoy gardening or floristry, or you may just like to pass your time in the beauty of nature with picnics or walks in the park.
+
+#### Nine of Pentacles Reversed
+
+The reversed Nine of Pentacles is all about self-worth. When you see this card in a Tarot reading, take the opportunity to reflect on your own sense of self-worth and value.
+
+On the one hand, you may question whether you are ‘enough’ – whether your skills are valuable, whether you can charge higher prices or ask for a pay raise, or whether you can attract the right people into your life. You may be under-charging for your services, working for free or accepting a lower salary than you should. Know that you deserve to be wealthy in all facets of the word.
+
+On the other hand, you may focus on increasing your sense of self-worth. Invest in yourself – get a wardrobe makeover, learn a new skill to enhance your career or take a personal development course. Practice self-love. Even if you are reluctant to spend money on yourself, know you can indulge in life’s luxuries, particularly if it makes you feel good and ‘worth it’. You ARE enough. You are more than enough. You are AMAZING!
+
+Sometimes, the reversed Nine of Pentacles can appear when you are so busy working and hustling that you have no time or energy to enjoy the fruits of your labour. For example, in an effort to build wealth, you may work 70-hour weeks with no time for breaks, missing out on the opportunity to enjoy the riches you’re creating. Know where the limit is with wealth creation – at some point, you need to stop and smell the luxurious bouquet of long-stemmed roses. Remember what is truly important to you. Now may be a good time to retreat to a natural setting (a forest, beach, mountain or lake) to restore your energies and rejuvenate yourself.
+
+Similarly, the reversed Nine of Pentacles suggests that you may need to release some of your need for a particular income or standard of living, especially if it gets in the way of other life priorities such as family or relationships. You may think you need the best of everything but, really, all you need is your family and loved ones around you. Do not be afraid to take a cut to your income for a short time or to reduce your hours at work… even if this means you have to eat rice and beans each night for a week to make up for it! It is vital that you focus on what is most important to you. Finances may need to come second, and while you need to at least put food on the table, there may be areas where you can cut back and reduce your dependence on material wealth.
+
+### Ten of Pentacles
+
+**UPRIGHT**: Wealth, financial security, family, long-term success, contribution.
+
+**REVERSED**: The dark side of wealth, financial failure or loss.
+
+#### Ten of Pentacles Description
+
+The Ten of Pentacles shows an old, white-haired man wearing an ornately embroidered robe, sitting with his two loyal white dogs at his feet. A younger couple stands nearby with a small child. The man is a wealthy patriarch who has achieved a great deal during his life and is immensely gratified that he can now share his wealth and abundance with his loved ones. His successes and accomplishments are now providing financial security and certainty to his family. He can already see the legacy he has created.
+
+The man and his family gather in the courtyard of a large castle, marking their prosperity, comfort and financial security. On the archway are family emblems and flags, a symbol of their history and ancestry. Their wealth goes way beyond material comfort; the man and his family have a deeply rooted connection to their lineage, home and community.
+
+#### Ten of Pentacles Upright
+
+The Ten of Pentacles is a positive sign that you have reached a point of completion and accomplishment in your journey. As a Pentacles card, this sense of accomplishment is likely to be the result of a successful career path, smart financial investments, a stable home environment and a possible committed and long-term relationship. You have accumulated wealth and abundance through your hard work and dedication and can now relish sharing this wealth with others. This is one of those cards that promise everything will eventually come together and you will be proud of everything you achieved.
+
+When the Ten of Pentacles appears in a Tarot reading, you are surrounded by wealth and blessed with financial abundance. There is no ‘wanting’ for any more; you have everything you need, especially within the material realm. You are financially secure and trust that, because of your personal successes and accomplishments, you will always have what you need and desire. You express sincere gratitude for fulfilling your material goals and dreams.
+
+This card reflects permanence and creating a lasting foundation for future success. It is a card of commitment to a sustainable future, taking into consideration not just the short-term gains of a particular venture but also the long-term benefits. A consistent approach will achieve success that will last the test of time.
+
+The Ten of Pentacles indicates that you feel compelled to share your success with others to make sure they are well cared for, too. You worked hard to get here, and now you can see the bigger impact your accomplishments have on others. You are the ‘provider’ or the breadwinner, bringing financial security and stability to your family, ensuring they have everything they need to live a happy and comfortable life. And it brings you deep joy and satisfaction to see your loved ones enjoying your wealth and abundance.
+
+The Ten of Pentacles is also a sign that family is very important to you. Being surrounded by the people you love and who share your DNA and ancestry brings you great joy and happiness. You know you can trust your family whole-heartedly and they will be there for you, no matter what. Your home life is happy, and you can provide your family with the security they need. You are also strongly connected to your family history and heritage, a part of the long lineage that goes before you. It represents tradition, being a part of something bigger and realising that the blood of your ancestors flows through your veins.
+
+#### Ten of Pentacles Reversed
+
+Upright the Ten of Pentacles is about wealth accumulation, an established family and home life, and attainment in the material realm. Reversed, you may question whether you want to live this way. Do you really want to be chasing the next $1,000 so you can own the latest Jimmy Choo shoes? Do you really want to be pushing for marriage or a family instead of just enjoying what you have right now? Are you staying in the same job for decades only for the security? When you see the reversed Ten of Pentacles in a Tarot reading, be ready to question your need for stability, security and commitment in your life. It may sound good on paper or might be what is expected of you – but is it what YOU want?
+
+The reversed Ten of Pentacles comes as a reminder that sometimes, wealth can be a trap. When you surround yourself with expensive things and live a luxurious lifestyle, you may want more and more and more, never feeling satisfied with what you have. For example, you splurge and fly business class, only to realise you can never fly economy again. Or you buy a bigger house that looks like a resort, only to realise you now need to pay for added maintenance and cleaning to keep it in its pristine state. You may find you burn through your financial reserves as you desperately try to support this higher standard of living and are unwilling to ‘downgrade’ even if your cashflow diminishes. Your feelings of self-worth may be inadvertently wrapped up in your wealth; if so, it’s time to unravel that connection and see that you can still live a happy and fulfilling life, even without the Louboutins and resort-style home.
+
+The Ten of Pentacles reversed may show that you are experiencing challenges or setbacks with financial or job security and family stability. Your investments may have lost significant value, your marriage may be on the rocks, or your job may be at risk. It is time to re-evaluate your position and choose a course of action that will help you regain your sense of security and self-worth.
+
+### Page of Pentacles
+
+**UPRIGHT**: Manifestation, financial opportunity, skill development.
+
+**REVERSED**: Lack of progress, procrastination, learn from failure.
+
+#### Page of Pentacles Description
+
+The Page of Pentacles depicts a young man standing in a grassy field of blooming flowers. In the distance behind him is a small patch of trees and a newly ploughed field, promising an abundant harvest. The mountain range in the horizon signifies the upcoming challenges and obstacles the Page must surmount along his journey. The Page holds a gold coin in his hand and examines it carefully, as if to discover how to manifest even more gold and abundance.
+
+#### Page of Pentacles Upright
+
+The Page of Pentacles, like the Pages of all four Tarot suits, brings a welcome message of new beginnings, inspiration and the initial stages of a creative project or venture. Since Pentacles rule the material realm and correspond to the element of earth, this Page symbolises a burgeoning awareness of the value of money, wealth, possessions, career, and physical health, and how to manifest more of these material blessings. You welcome new opportunities to your material life – a new job, a new business, or a financial windfall – and wish to discover how to turn your dreams into reality.
+
+When the Page of Pentacles appears in a Tarot reading, you are tapping into your ability to manifest a personal goal or dream and may be in the midst of a new project such as a hobby, business venture, or the start of a new educational experience. You are excited about the possibilities and potential of what you put your mind to, knowing you can create whatever you want with focused intention and action.
+
+That said, this Page does not specify the fulfilment of dreams as much as the initial motivation and energy to begin the process of turning those dreams to reality. You need to put in place clear plans for achieving your dreams and goals. Stay focused on the practical and tangible elements, keeping your feet planted on the ground and not getting carried away, always looking for the next realistic and achievable step forward. Your common sense and a pragmatic approach will lead you to a solution that works.
+
+In the quest to materialise his dreams, the Page of Pentacles is an avid student and seeks to learn the skills that will ensure his success in the long-term. The Page of Pentacles often appears when you are ready to up-level your skills and learn something new so you can manifest your dreams. See this card as an invitation to take a class, continue your education or start an apprenticeship. Even if you are already prosperous in your current field, the Page of Pentacles encourages you to try something new and discover another aspect of yourself. The more skills you bring to your portfolio, the more goals and dreams you can achieve.
+
+The Page of Pentacles may show that you are considering a new business or entrepreneurial venture, or you are in the initial stages of setting up the company to be financially successful and abundant in the long-term. You might be new to this, but you have the enthusiasm, commitment, and devotedness to see the project through.
+
+#### Page of Pentacles Reversed
+
+The Page of Pentacles reversed says you are exploring a new project or business idea, but you are not ready to move forward with it just yet. You may still be brainstorming ideas and would prefer to keep it a secret for now. Or, you may worry that you do not have the skills or resources for it to succeed, so you are putting the idea on hold or procrastinating. If the opportunity continues to present itself to you, and you want to move forward, trust that you have what you need now and the rest will develop as you progress.
+
+The reversed Page of Pentacles can suggest that you are trying to get a specific project or idea off the ground, but each time you try, it seems to amount to nothing or takes you even further away from where you want to be. Maybe you have not planned sufficiently, you’ve lost sight of your original inspiration, or you are trying too hard. Give yourself some space and step away from the project for a short period so you can re-energise and re-focus before trying again.
+
+You may also be too busy daydreaming about new goals, without having taken any action on your original ones. So, you need to review your goals and think again about why you were initially motivated to achieve them. Imagine what it will be like once you accomplish that goal and re-commit to the actions required to make your dreams a reality.
+
+Finally, the Page of Pentacles reversed invites you to learn from your past mistakes. Even if a situation has not worked out the way you expected it would, you can discover new aspects of yourself that might help in the future. If you are struggling to see where you may have gone wrong, ask yourself: “What can I learn from these experiences? And how can I avoid making the same mistakes again?” Be open-minded and curious, and trust that today’s failures will lead to tomorrow’s successes.
+
+### Knight of Pentacles
+
+**UPRIGHT**: Hard work, productivity, routine, conservatism.
+
+**REVERSED**: Self-discipline, boredom, feeling ‘stuck’, perfectionism.
+
+#### Knight of Pentacles Description
+
+The Knight of Pentacles sits on a stationary draught horse, carefully looking at the gold coin held in his hand. He is in no hurry, preferring to assess and plan his path ahead before taking action. In the background, there is a broad field that has been laboriously ploughed row by row, symbolising that this Knight is ready and willing to do the work to realise his dreams, even if it is repetitive and dull.
+
+#### Knight of Pentacles Upright
+
+The Knight of Pentacles, like the Knights of the other suits, represents work, effort, and the responsibility that follows upon the dreams and ideals of the Page. This Knight is the most hard-working, methodical and detailed-oriented character of the Tarot deck. He may not be the most inspiring or creative Knight, but he’ll do the work to get the results he seeks, even if that work is highly repetitive or routine.
+
+When this card appears in a Tarot reading, you are working methodically towards your goals. You have a plan in place and are sticking to your schedule to get the job done. You may not work particularly quickly, but you are consistent, dedicated and committed to your goal. Put one foot in front of the other and finish the job. This card also asks you to continue doing what you are doing, plodding along and making gradual progress. No need to change your approach. Go with the flow, stick to your usual routines, and over time, you will reach your goals.
+
+The Knight of Pentacles shows that you are a natural planner and implementer. You envision your goal, determine the best course of action, and then stick to your path with a methodical and relentless focus. When you are in ‘implementation mode’, the job will get done, even if it requires hard work along the way. Meticulous in your approach, you make sure that everything is planned and executed down to the tiniest detail. And you will never leave a job half done. It is essential to you that you complete all assigned tasks and projects to a certain standard and that you follow through on your promises.
+
+Sometimes, the Knight of Pentacles points to the more mundane or boring aspects of life – the daily grind, repetitive schedules, household chores, and other responsibilities and obligations. You may be assigned a project or given a task to do, and you will have to commit your time to see that project through to the end successfully. With the Knight of Pentacles, you will be required to accept responsibility without any complaints or grudges.
+
+The Knight of Pentacles suggests that you are taking a moderated and conservative approach to life right now, and while you may be feeling that change is imminent, you are sticking to your tried and tested ways of doing things. You have established that you need routine and careful planning if you are to achieve your goals. It may not necessarily be an exciting period, but at least you know you are on the right path. Even if you are growing tired and want to quit, this Knight invites you to keep at it, and you will eventually see success.
+
+#### Knight of Pentacles Reversed
+
+Do you need greater self-discipline and commitment to achieve your goals? Instead of trying new things or dreaming up more ideas, the reversed Knight of Pentacles encourages you to establish a schedule or routine for yourself and stick to it until you have completed your assigned task.
+
+The reversed Knight of Pentacles may also point to a journey of self-development or improvement, in which a routine will support your success. For example, you may create a healthy eating plan or exercise schedule for yourself to help you become more fit and healthy. You may also need to pay more attention to the practical matters in your life that you have ignored recently. Mundane activities such as home upkeep, money matters, business relationships and moving forward in your career have been left by the wayside as you focus on more exciting or important opportunities. Depending on what is on your plate, you may want to make more time to get your life in order, or you may continue to focus on more pressing priorities.
+
+On the flipside, the Knight of Pentacles might also suggest that you are feeling stuck in the daily grind and life has become boring and dull. While you may have implemented a routine and schedule to increase your productivity and efficiency, you are now finding it stifling to your creativity and innovation. It may be time to do something different. Be spontaneous. You don’t always have to stick to the rules.
+
+Perhaps you have become unadventurous, overly conservative and resistant to change. You may prefer just to stay at home while others are out having fun and taking risks. There’s nothing wrong with a quiet night in; however, you may be isolating yourself from others or losing the interest of your friends. Try to get out more and be open to new experiences.
+
+The reversed Knight of Pentacles can also warn that you are becoming a perfectionist in how you approach your work. Have you caught yourself being critical of others who do not share the same attention to detail as you, or becoming quickly frustrated when their work is not at the same standard as yours? While your hard work is appreciated, you do not want to lose the support of others along the way and may need to soften your approach.
+
+### Queen of Pentacles
+
+**UPRIGHT**: Nurturing, practical, providing financially, a working parent.
+
+**REVERSED**: Financial independence, self-care, work-home conflict.
+
+#### Queen of Pentacles Description
+
+In the Queen of Pentacles, a woman sits on a stone throne decorated with carvings of fruit trees, goats, angels and other symbols of material success and sensual pleasure. She cradles a gold coin with both hands and looks down on it with loving care, as if to nurture this symbol of wealth and material success. Luscious plants and flowers surround her, representing her connection to Mother Earth, nature, and abundance. A small rabbit jumps near to where she is seated, symbolising fertility and suggesting that her life is in flow and alignment.
+
+#### Queen of Pentacles Upright
+
+The Queen of Pentacles is the nurturing mother of the material world. At home, she shows her love for others by cooking nutritious meals, maintaining a clean and inviting home, and giving warm cuddles to those who need it most. She is also able to work a full-time job and make a financial contribution to the household, often as the primary breadwinner. She is masterful at taking care of the practical needs of work, home and family, while also giving her love and support to those she cares about.
+
+When the Queen of Pentacles appears in a Tarot reading, you are embodying the ultimate working parent archetype. You care for your family and domestic responsibilities while also making a living for yourself and creating financial abundance. You can maintain a healthy balance between home and work by integrating the two and finding your place of ‘flow’ and alignment. You strive to create a warm and secure environment for your family and loved ones while giving your love and support freely.
+
+Similarly, the Queen of Pentacles suggests that it is important to you to live independently, with a stable income and with enough time and space to also nurture your loved ones. You may be trying to strike a better balance between your home and work lives, giving it your all in both domains. At the same time, you find time for yourself and prioritise ‘me’ time in between all of your other commitments.
+
+The Queen of Pentacles represents prosperity and security. You have worked hard to generate a level of financial or physical security, which in turn gives you the ability to be generous with others and to share your wealth and abundance with those you love. You have used your financial prosperity to build a comfortable home environment and are as focused on investing in your family as your personal wealth.
+
+This Queen asks you to maintain a compassionate, nurturing, practical and down-to-earth attitude when dealing with others and your present circumstances. Focus on creating a calm and balanced life for yourself. Be resourceful and practical, dealing with issues as they arise using straightforward solutions that fix the problem with minimal fuss.
+
+At times, the Queen of Pentacles may represent a mother figure in your life who can provide you with loving support and nurturing to help you get through the influences of your past. She may be a teacher, a counsellor, a mentor or someone who you are very close to. Alternatively, if you are investing a lot of yourself into nurturing and caring for others and creating an established and comfortable lifestyle, she may represent a part of you.
+
+#### Queen of Pentacles Reversed
+
+When the Queen of Pentacles is upright, you are focused on nurturing and providing for others; when reversed, you are turning that caring energy to yourself. You are creating financial independence, perhaps working for yourself, starting your own business or supporting your lifestyle with your income. You may still be in a partnership or family, but you are keen to ensure that you can sustain your own lifestyle, now and in the future, by yourself. You may have a separate savings account or a long-term investment plan to ensure that you can take care of yourself if need be.
+
+The Queen of Pentacles reversed also suggests that you are nurturing yourself on a personal level. You may be preparing nutritious meals, going on retreat alone, and generally paying more attention to yourself and your needs. You are tending to yourself, knowing that to care for others, you need to first care for yourself. Trust that work and family can survive without you for a short period of time while you focus on you.
+
+At times, the reversed Queen of Pentacles can reveal that your work and home life are out of balance and you are putting too much of your attention in one area to the detriment of the other. On the one hand, you may be very consumed by your job, spending long hours at the office, travelling for business or bringing your work home. On the other hand, your home and family life may be taking over, and you are unable to give your attention to your work. This might work on a temporary basis, but the ultimate goal is to integrate your work and home lives so that they are (mostly) in balance. You may also find a release by returning to a favourite nature spot and allowing yourself to take in this fresh, natural energy.
+
+Similarly, an inverted Queen of Pentacles can point to an inner conflict when it comes to balancing work and personal priorities. Despite trying to make it work, you may consistently feel that you’re not giving enough of your attention to either your work or home life. Sometimes, you just cannot do everything, and you will need to make some choices about where your priorities truly lie. You may also need to make new agreements with your partner or your boss so that you do not feel over-committed to one area. Seeking out additional home help, such as a cleaner, nanny or housekeeper, may also help you feel more at ease.
+
+### King of Pentacles
+
+**UPRIGHT**: Wealth, business, leadership, security, discipline, abundance.
+
+**REVERSED**: Financially inept, obsessed with wealth and status, stubborn.
+
+#### King of Pentacles Description
+
+The King of Pentacles sits on a throne embellished with carvings of bulls, representing his connection to the astrological sign of Taurus, and grapes and vines adorn his robe, symbolising wealth and abundance. In his right hand, he holds the sceptre of his power, and in his left, he holds a golden coin, symbolic of his material influence. This King has an innate ability to create material wealth and financial abundance – and better yet, he can sustain his wealth over time through self-discipline, control and leadership.
+
+At his feet and around his throne are more vines, flowers and plants, representing the highest attainment of material success. His castle sits behind him, a symbol of all he has built through his efforts and determination. This King is therefore very serious about financial security and has made the accumulation of wealth his focus in life. He is proud of his achievements and likes to show others his prized possessions and wealth.
+
+#### King of Pentacles Upright
+
+The King of Pentacles represents material wealth, financial abundance, and worldly success. This King is a faithful provider; he uses his ambition and confidence to create wealth for himself and others and generates his self-worth from what he has accumulated and can share with others. He is also a fatherly figure who provides others with advice, guidance and wisdom, especially in financial and work-related matters.
+
+When the King of Pentacles appears in a Tarot reading, you are confident and successful at attracting and managing wealth. Not only do you identify opportunities for growth and success, but you also draw upon your self-discipline and control to manage your wealth and invest it wisely for the long-term.
+
+The arrival of the King of Pentacles indicates that you can translate your vision into something tangible, practical, and often very lucrative. You are the ultimate business owner. You do not merely come up with ideas and hope for the best – you work hard to map out your plan of attack, gather your resources and manifest your goals, often with tremendous success. You are like King Midas: everything you touch turns to gold. When you apply yourself to your vision, you create huge success, particularly on a financial level. Money flows easily and abundantly to you, and as you sit at the pinnacle of your economic power and influence, you can rest assured of your continued prosperity. You no longer struggle to achieve what you desire, like the Page and the Knight, nor do you have any need to prove yourself.
+
+The King of Pentacles often indicates the final fulfilment of a creative task, a business venture or investment. Through diligence, responsibility and attention to detail, you have achieved great things and can finally say that you have completed your task or attained your goal. You can now enjoy all that you have accomplished and the successes you have created. You have created a rich life, not just financially but also spiritually, which will set you up well for the future.
+
+The King of Pentacles knows that a methodical, planned and well-thought-out approach will lead you to success. You have experimented in the past with what works best and have landed on your own methods and practices you know will continue to work for you in the future. Continue down this path rather than trying new ways of doing things. You do not need to take any more risks.
+
+#### King of Pentacles Reversed
+
+The King of Pentacles reversed asks you to look at your relationship with money and wealth. On the one hand, you may not be managing your wealth well. You may attract large sums of money through your business enterprises or a high-flying career, but as soon as the cash hits your bank account, it’s on its way out again as you splurge on expensive items or invest in high-risk opportunities. You are not treating your money with respect, and instead, need to draw upon your self-discipline and control so you can save for your future while still enjoying the fruits of your labour.
+
+On the other hand, you may be putting money before anything else, negatively impacting your relationships and well-being. You may be a workaholic, over-investing in wealth creation and neglecting your loved ones. You may do anything for an extra buck, even if it means selling your soul and your integrity. You may be so impressed by other people’s status and social position that you kowtow to anyone ‘above’ you while dismissing anyone ‘below’ you. You might continuously name-drop and try to prove yourself by bragging about the people you know. If this resonates, step back for a moment and look at the greater impact of your obsession with money. Is it serving you in this state, or do you need to change?
+
+At times, the reversed King of Pentacles represents someone who is very stubborn and rigid in his approach. When this King shows up in a reading, look at your life. Are you feeling ‘stuck in a rut’? Has life become so predictable and routine that it is completely dull and lifeless? Being grounded is a good thing, but give yourself permission every now and then to break free and do something different. You don’t have to be so serious all of the time.
 
 ## Minor Arcana: Wands
