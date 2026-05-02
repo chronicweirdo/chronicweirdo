@@ -27,7 +27,8 @@ body {
     font-size: 1.3em;
     background-color: var(--background-color, #ffffff);
     color: var(--foreground-color, #000000);
-    padding: 1em;
+    padding: 1rem;
+    padding-bottom: 5rem;
 }
 
 a {
@@ -48,12 +49,27 @@ h4 {
     text-decoration: underline;
 }
 
+blockquote {
+    font-style: italic;
+}
+
 .scroll-to-top {
-    background-color: var(--accent-color, #f884fc);
     text-align: center;
-    font-size: 2rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    margin-bottom: 1rem;
+}
+.scroll-to-top span {
+    background-color: var(--accent-color, #f884fc);
+    border: 1px solid var(--background-color, #ffffff);
     padding: .5rem;
-    width: 3rem;
-    height: 3rem;
-    border: 1px solid var(--foreground-color, #000000)
+    font-size: 1.5rem;
+    /*width: 5rem;*/
+    height: 1.5rem;
+    line-height: 1.5rem;
+    display: inline-block;
+    cursor: pointer;
+    font-style: italic;
 }

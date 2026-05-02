@@ -80,10 +80,14 @@ function setupHeaderToggles() {
 
 function setupScrollToTop() {
     let scrollToTop = document.createElement("DIV")
-    scrollToTop.innerHTML = "⇧"
-    scrollToTop.style.position = "fixed"
-    scrollToTop.style.bottom = 0
-    scrollToTop.style.right = 0
+    let scrollToTopSpan = document.createElement("SPAN")
+    //scrollToTopSpan.innerHTML = "⬉⬉⬉⬉⬉⬉"
+    //scrollToTopSpan.innerHTML = "↜↜↜↜↜↜"
+    scrollToTopSpan.innerHTML = "« back to top »"
+    scrollToTop.appendChild(scrollToTopSpan)
+    //scrollToTop.style.position = "fixed"
+    //scrollToTop.style.bottom = 0
+    //scrollToTop.style.right = 0
     scrollToTop.className = "scroll-to-top"
 
     let jumpBackUp = () => {
@@ -91,14 +95,17 @@ function setupScrollToTop() {
         //window.scrollY = 0
         window.scrollTo({top: 0})
     }
-    scrollToTop.onclick = (event) => {jumpBackUp()}
-    document.body.appendChild(scrollToTop)
-
-    document.addEventListener("scroll", (event) => {
+    let toggleVisibility = () => {
         if (window.scrollY < window.innerHeight / 2) {
             scrollToTop.style.display = "none"
+            history.pushState("", document.title, window.location.pathname + window.location.search);
         } else {
             scrollToTop.style.display = "block"
         }
-    })
+    }
+    scrollToTopSpan.onclick = (event) => {jumpBackUp()}
+    document.body.appendChild(scrollToTop)
+
+    document.addEventListener("scroll", (event) => toggleVisibility())
+    toggleVisibility()
 }
