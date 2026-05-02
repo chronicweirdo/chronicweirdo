@@ -71,7 +71,7 @@ function applyHeaderLevelHideToggle(element) {
 }
 
 function setupHeaderToggles() {
-    for (tagName of ["H4", "h3"]) {
+    for (tagName of ["H4"]) {
         for (el of document.getElementsByTagName(tagName)) {
             applyHeaderLevelHideToggle(el)
         }

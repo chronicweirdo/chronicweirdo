@@ -1,6 +1,6 @@
 # Tarot Card Meanings
 
-### Major Arcana:
+#### Major Arcana
 
 - [0 The Fool](#the-fool)
 - [I The Magician](#the-magician)
@@ -25,7 +25,7 @@
 - [XX Judgement](#judgement)
 - [XXI The World](#the-world)
 
-### Minor Arcana - Cups:
+#### Minor Arcana - Cups
 
 - [Ace of Cups](#ace-of-cups)
 - [Two of Cups](#two-of-cups)
@@ -42,7 +42,7 @@
 - [Queen of Cups](#queen-of-cups)
 - [King of Cups](#king-of-cups)
 
-### Minor Arcana - Swords:
+#### Minor Arcana - Swords
 
 - [Ace of Swords](#ace-of-swords)
 - [Two of Swords](#two-of-swords)
@@ -59,7 +59,7 @@
 - [Queen of Swords](#queen-of-swords)
 - [King of Swords](#king-of-swords)
 
-### Minor Arcana - Pentacles:
+#### Minor Arcana - Pentacles
 
 - [Ace of Pentacles](#ace-of-pentacles)
 - [Two of Pentacles](#two-of-pentacles)
@@ -76,7 +76,7 @@
 - [Queen of Pentacles](#queen-of-pentacles)
 - [King of Pentacles](#king-of-pentacles)
 
-### Minor Arcana - Wands:
+#### Minor Arcana - Wands
 
 - [Ace of Wands](#ace-of-wands)
 - [Two of Wands](#two-of-wands)
