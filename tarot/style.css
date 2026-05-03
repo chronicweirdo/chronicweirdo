@@ -8,16 +8,16 @@
     :root {
         --foreground-color: #000000;
         --background-color: #ffffff;
-        --accent-color: #f884fc;
-        --text-accent-color: #6a186d;
+        --accent-color: #b463b6;
+        --text-accent-color: #722c75;
     }
 }
 @media (prefers-color-scheme: dark) {
     :root {
         --foreground-color: #ffffff;
         --background-color: #000000;
-        --accent-color: #6a186d;
-        --text-accent-color: #f884fc;
+        --accent-color: #59235b;
+        --text-accent-color: #9d569f;
     }
 }
 * {
