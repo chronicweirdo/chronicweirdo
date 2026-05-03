@@ -27,7 +27,6 @@ body {
     font-size: 1.3em;
     background-color: var(--background-color, #ffffff);
     color: var(--foreground-color, #000000);
-    padding: 1rem;
     padding-bottom: 5rem;
 }
 
