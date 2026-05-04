@@ -1075,6 +1075,14 @@ The Seven of Cups may be a sign of ‘shiny object syndrome’, where you keep f
 
 This card is inviting you to move out of the ideas and options phase and choose. Each will have its pros and cons – it’s up to you to make sure that the option you select is in alignment with your purpose and your Highest Good – even if you feel somewhat paralysed by the options available to you.
 
+#### Seven of Cups Reversed
+
+The reversed Seven of Cups often appears when you face several different choices and, instead of choosing the option that may appeal to others, you are relying on your inner wisdom and guidance to show you the best way. You may come up with your own criteria to help you make decisions in alignment with your inner being.
+
+If you find yourself with multiple opportunities or ideas, ground yourself first and reflect on what you want for the long-term. All these shiny new objects in front of you have a certain ‘magic’ power over you right now, and you’re at risk of losing focus if you chase after pipedreams. Take a step back and assess the options against your priorities to work out which opportunities will be a real benefit to you.
+
+As a card of choices and options, the reversed Seven of Cups can mean you are overwhelmed by choice and cannot move forward. Reduce your options and focus on what is important to you. You don’t need to keep searching for that big idea; you have what you need. Make your pick and move forward with it.
+
 ### Eight of Cups
 
 **UPRIGHT**: Disappointment, abandonment, withdrawal, escapism.
