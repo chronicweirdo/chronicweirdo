@@ -42,6 +42,9 @@ li, h4 {
 h4, ul {
     margin-top: 1rem;
 }
+img {
+    max-width: 100%;
+}
 
 p, h1, h2, h3, h4 {
     padding-left: 1rem;
