@@ -93,6 +93,19 @@
 - [Queen of Wands](#queen-of-wands)
 - [King of Wands](#king-of-wands)
 
+#### Spreads
+
+- [Past, Present, Future](#past-present-future)
+- [Coming, Staying, Leaving](#coming-staying-leaving)
+- [Embrace, Accept, Let Go](#embrace-accept-let-go)
+- [Mind, Body, Spirit](#mind-body-spirit)
+- [Theme, Beneath, Advice](#theme-beneath-advice)
+- [Simple Five Card Spread](#simple-five-card-spread)
+- [Seven Day Spread](#seven-day-spread)
+- [Tarot Spread for Guidance](#tarot-spread-for-guidance)
+- [Celtic Cross](#celtic-cross)
+- [Releasing Limiting Beliefs](#releasing-limiting-beliefs)
+
 ## Major Arcana
 
 ### The Fool
@@ -2676,3 +2689,116 @@ The King of Wands reversed suggests that while you are in a leadership position,
 At times, the reversed King of Wands can be aggressive and even arrogant in the pursuit of his goals. Be mindful that as you strive towards your dream, you are not putting others off-side, dis-empowering them or taking their contributions for granted. You need their support one hundred percent of the way. Also, don’t let success get to your head, thinking you’re above everyone else just because you are the leader. Consider embracing the concept of ‘followership’ – the ability to take direction, be part of a team and deliver on what is expected of you, even as the official leader of the group.
 
 On a personal level, the King of Wands reversed warns you against setting unrealistic expectations for yourself and others. While you are highly ambitious, you may be setting yourself up for failure if you set goals that are significantly out of reach and then pushing hard to reach those unattainable goals. You may also be prone to get swept up in the hype of other people’s goals to ‘10x your sales!’ or ‘create the next billion-dollar business!’ You don’t have to buy into other people’s dreams and visions (and hype). Stay true to what’s important to you and keep focused on your personal vision and direction.
+
+## Spreads
+
+### Past, Present, Future
+
+![](Simple-Three-Tarot-Spread.jpg)
+
+1. Past
+2. Present
+3. Future
+
+### Coming, Staying, Leaving
+
+![](Simple-Three-Tarot-Spread.jpg)
+
+1. Coming
+2. Staying
+3. Leaving
+
+### Embrace, Accept, Let Go
+
+![](Simple-Three-Tarot-Spread.jpg)
+
+1. Embrace
+2. Accept
+3. Let go
+
+### Mind, Body, Spirit
+
+1. Mind
+2. Body
+3. Spirit
+
+### Theme, Beneath, Advice
+
+1. Theme
+2. Beneath
+3. Advice
+
+### Simple Five Card Spread
+
+![](Simple-Five-Tarot-Spread.jpg)
+
+1. Preconcieved Ideas
+2. The Present
+3. The Unexpected
+4. The Near Future
+5. The Distant Future
+
+### Seven Day Spread
+
+![](Seven-Day-Tarot-Spread.jpg)
+
+1. Today
+2. Tomorrow
+3. Day 3
+4. Day 4
+5. Day 5
+6. Day 6
+7. Day 7
+8. Overall Week
+
+### Tarot Spread for Guidance
+
+1. The Situation: current energy or challenges
+2. What's Helping: positive forces or strengths
+3. What's Hindering: Obstacles or risks
+
+### Celtic Cross
+
+![Celtic Cross](Celtic-Cross.jpg)
+
+1. The present
+  
+    This card represents what is happening to the querent at the present time. It also reflects the querent’s state of mind and how they may be perceiving the situation.
+2. The challenge
+  
+    This card represents the immediate challenge or problem facing the querent. This is the one thing that, if resolved, would make life a lot easier. Even if you draw a ‘positive’ card in this position, consider it carefully as it will still represent a challenge.
+3. The past
+  
+    This card represents the events that have lead up to the present situation and may provide some indication of how the challenge came about.
+4. The future
+  
+    This card represents what is likely to occur within the next few weeks or even months. This is not the final outcome, simply the next step on the journey.
+5. Above
+  
+    This card reflects the querent’s goal, aspiration or best outcome with regards to the situation. It is what the querent is working towards consciously as they attempt to resolve the issue.
+6. Below
+  
+    This card reflects that which is within the subconscious realm of the querent and delves much deeper into the core foundation of the situation. It symbolises the underlying feelings and trends associated with the situation and can indicate what is truly driving the querent. This card may bring a surprise message to the querent, particularly if they are not deeply connected to their inner being (watch out for reversed cards here which are likely to indicate that this is an ‘unknown’ to the querent).
+7. Advice
+  
+    The advice card takes into account all that is happening within the querent’s life and presents a recommendation for what approach can be taken to address the current challenges.
+8. External influences  
+  
+    This card highlights the people, energies or events which will affect the outcome of the question and are beyond the querent's control.
+9. Hopes and/or fears
+  
+    This is perhaps one of the most difficult positions to interpret. Keep in mind that hopes and fears are closely intertwined, therefore that which we hope for may also be that which we fear, and so may fail to happen. Sometimes it is useful to draw a second card for clarification after the reading has been laid and to read the two together.
+10. Outcome
+
+    This card is representative of where the situation is headed and if/how the issue will be resolved. It assumes the outcome based on the querent continuing their current course of action. Of course, if the outcome card is not a desirable outcome, it is within the free will of the querent to make the necessary changes to their situation.
+
+### Releasing Limiting Beliefs
+
+![](limiting-beliefs.png)
+
+1. What limiting belief is holding me back right now?
+2. Where did this belief originate?
+3. How is it currently showing up in my life?
+4. What truth wants to replace this belief?
+5. What action can I take to anchor this new truth?
+6. Who do I become when I let this belief go?
